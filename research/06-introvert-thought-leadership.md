@@ -116,7 +116,7 @@ Energy ratings are practitioner judgment (no study found). Time is his time only
 
 | Format | His time | Social energy | Notes |
 |---|---|---|---|
-| Interview-extraction: friend asks 5 questions, records 20 min, turns it into 2–3 written pieces | 20 min/week | Low (one trusted person) | The engine. Ghostwriting guides list recorded interviews and voice memos as the standard voice-capture method |
+| Interview-extraction: friend asks 5 questions, records 20 min, turns it into 2–3 written pieces | 20 min/week | Low (one trusted person) | The engine. Ghostwriting guidance lists recorded interviews and transcribed voice memos as voice-capture methods |
 | Voice note after a case or clinic ("what I wish patients knew today") | 2–3 min, 2–3 times/week | Very low | No names, dates, bed numbers or identifying details. Keep recordings out of AI tools if they contain patient data |
 | Asynchronous Q&A: friend collects 5 public questions, he answers by voice or text | 15 min/week | Low | Answer the general question, never the individual case |
 | Slides-to-posts: every CME or departmental talk becomes 3–5 posts | 0 extra (approval only) | Very low | Best ratio of output to effort |
@@ -278,6 +278,7 @@ Regulation (India)
 - South First report (7 Oct 2026): https://thesouthfirst.com/health/doctors-on-instagram-nmc-says-no-to-patient-testimonials-paid-ads-ai-promotions-and-guaranteed-claims/
 - Medical Dialogues on the 2023 social media rules: https://medicaldialogues.in/health-news/nmc/how-to-behave-on-social-media-nmc-releases-11-commandments-for-doctors-115773
 - MedBound Times coverage: https://www.medboundtimes.com/india/nmc-social-media-ai-promotion-guidelines-doctors-2026
+- Madhyamam coverage (seen in search results, not opened): https://madhyamamonline.com/lifestyle/health/no-self-promotion-misleading-ai-content-exaggerated-claims-new-rules-for-doctors-1561851
 
 Trust and health
 - CIDRAP on Edelman 2026 Trust and Health: https://www.cidrap.umn.edu/public-health/new-global-health-misinformation-survey-reveals-deep-divides
@@ -301,7 +302,7 @@ Psychology and frameworks
 - Stanford GSB on Pfeffer et al. 2006: https://www.gsb.stanford.edu/insights/why-you-need-agent-sing-your-praises
 - Pfeffer et al. publication page: https://www.gsb.stanford.edu/faculty-research/publications/overcoming-self-promotion-dilemma-interpersonal-attraction-extra-help
 - Cialdini, principles of persuasion: https://www.influenceatwork.com/6-principles-of-persuasion/
-- Sezer, Gino, Norton, humblebragging (Harvard DASH): https://dash.harvard.edu/handle/1/14725901
+- Sezer, Gino, Norton, humblebragging (paper PDF): https://internet.psych.wisc.edu/wp-content/uploads/532-Master/532-UnitPages/Unit-12/Sezer_Humblebrag_2017.pdf
 - Grant, Gino, Hofmann (HBS Working Knowledge): https://www.library.hbs.edu/working-knowledge/introverts-the-best-leaders-for-proactive-employees
 - Knowledge at Wharton on the same study: https://knowledge.wharton.upenn.edu/article/analyzing-effective-leaders-why-extraverts-are-not-always-the-most-successful-bosses/
 - Adam Grant, Give and Take: https://adamgrant.net/book/give-and-take/
