@@ -83,3 +83,7 @@
 | `synthesis/action-plan.md` | Synthesis | First 7 days; Phases 0–3 as action tables; dated calendar to Dec 2027; quarterly milestones to Dec 2028; weekly, monthly and quarterly checklists; exit overlay; do-not-do list; cap variants | Doing the work | [P] dates must be re-checked monthly |
 | `synthesis/questions-and-open-items.md` | Synthesis | 10 blocking questions plus a themed questionnaire; friend questions; 54-row merged lawyer brief; CA questions; letters and RTI; browser and phone tasks; interviews; unverified facts | Everything a human must answer | Merged and de-duplicated from 11, 11b, 17, 18, 21, 24, 25, 27, 28 and Addendum 5 |
 | `synthesis/_working-notes.md` | Synthesis | Running notes of figures, sources and decisions made while reading | Audit trail | Internal |
+
+## Published artifact
+
+- **The Lighthouse Plan** (visual summary): https://claude.ai/artifact/Sf3TXttctspmHLNNckiA4s — source in `artifact/lighthouse-plan.html`. Private to the owner until shared from the page.

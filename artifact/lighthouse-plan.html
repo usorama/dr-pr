@@ -78,6 +78,17 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
 .tl li .ic{width:16px;height:16px;margin-top:2px}
 .g .ic{color:var(--go)} .a .ic{color:var(--wait)} .r .ic{color:var(--stop)}
 
+/* voice map */
+.voice{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,250px),1fr));gap:12px}
+.vcol{border-radius:6px;padding:14px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.vcol h3{display:flex;align-items:center;gap:8px}
+.vcol ul{list-style:none;margin:0;padding:0;display:grid;gap:8px;font-size:13.5px}
+.vcol li{display:flex;gap:8px;align-items:flex-start}
+.vcol li .ic{width:17px;height:17px;margin-top:1px}
+.vcol.free{background:var(--go-soft)} .vcol.free .lamp{background:var(--go)} .vcol.free .ic{color:var(--go)}
+.vcol.gate{background:var(--stop-soft)} .vcol.gate .lamp{background:var(--stop)} .vcol.gate .tag{background:var(--surface);color:var(--ink)} .vcol.gate svg{width:100%;height:auto}
+.vcol.own{border:1px solid var(--line)} .vcol.own .lamp{background:var(--beam)}
+.vcol li.g .ic{color:var(--go)} .vcol li.a .ic{color:var(--wait)} .vcol li.r .ic{color:var(--stop)}
 /* dot grids */
 .dotset{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,128px),1fr));gap:16px}
 .dotbox{display:flex;flex-direction:column;gap:8px;min-width:0}
@@ -116,6 +127,7 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
 .load{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,200px),1fr));gap:8px}
 .load div{display:flex;gap:8px;align-items:center;border:1px solid var(--line);border-radius:6px;padding:9px 10px;font-size:13px;font-weight:500;min-width:0}
 .load div .ic{width:18px;height:18px}
+.load div small{display:block;font:500 11px var(--mono);color:var(--muted)}
 .load div.on{background:var(--sea-soft);border-color:var(--sea)} .load div.on .ic{color:var(--sea)}
 .load div.off{color:var(--muted);border-style:dashed} .load div.off .ic{color:var(--muted)}
 .load div.part{background:var(--wait-soft);border-color:var(--wait)} .load div.part .ic{color:var(--wait)}
@@ -142,6 +154,7 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
 .foot{display:flex;flex-wrap:wrap;gap:8px 18px;color:var(--muted);font-size:12.5px;padding:4px}
 .pins{list-style:none;counter-reset:pin;display:flex;flex-wrap:wrap;gap:6px 14px;margin:0;padding:0;font-size:13px;font-weight:500}
 .pins li{counter-increment:pin;display:flex;align-items:center;gap:6px}
+.pins li.go::before{background:var(--beam);color:#10243A}
 .pins li::before{content:counter(pin);font:600 11px var(--mono);width:19px;height:19px;border-radius:50%;background:var(--pulse);color:var(--surface);display:grid;place-items:center;flex:none}
 .chips{display:flex;flex-wrap:wrap;gap:7px;list-style:none;margin:0;padding:0}
 .chips li{display:flex;gap:7px;align-items:center;border:1px solid var(--line);border-radius:5px;padding:7px 10px;font-size:13px;font-weight:500}
@@ -192,18 +205,18 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
       <li><svg class="ic"><use href="#i-light"/></svg>A lighthouse</li>
     </ul>
   </div>
-  <svg viewBox="0 0 540 320" role="img" aria-label="A lighthouse whose beam crosses three rings: patients for life, people who never need a cardiologist, and future cardiologists.">
+  <svg viewBox="0 0 540 320" role="img" aria-label="A lighthouse whose beam crosses three rings: patients for life, future cardiologists, and people who never need a cardiologist.">
     <g class="beam"><polygon points="98,130 513,9 517,236" fill="var(--beam)" opacity=".2"/></g>
     <path d="M234 89A150 150 0 0 1 236 166" fill="none" stroke="var(--beam)" stroke-width="3"/>
     <path d="M350 56A270 270 0 0 1 352 195" fill="none" stroke="var(--beam)" stroke-width="3"/>
     <path d="M475 20A400 400 0 0 1 478 227" fill="none" stroke="var(--beam)" stroke-width="3"/>
     <text x="172" y="124" text-anchor="middle" font-size="15" font-weight="600">Patients</text>
     <text x="172" y="143" text-anchor="middle" font-size="13" class="t-mut">for life</text>
-    <text x="294" y="118" text-anchor="middle" font-size="15" font-weight="600">People who</text>
-    <text x="294" y="137" text-anchor="middle" font-size="15" font-weight="600">never need</text>
-    <text x="294" y="155" text-anchor="middle" font-size="13" class="t-mut">a cardiologist</text>
-    <text x="416" y="118" text-anchor="middle" font-size="15" font-weight="600">Future</text>
-    <text x="416" y="137" text-anchor="middle" font-size="15" font-weight="600">cardiologists</text>
+    <text x="294" y="124" text-anchor="middle" font-size="15" font-weight="600">Future</text>
+    <text x="294" y="143" text-anchor="middle" font-size="15" font-weight="600">cardiologists</text>
+    <text x="416" y="112" text-anchor="middle" font-size="15" font-weight="600">People who</text>
+    <text x="416" y="131" text-anchor="middle" font-size="15" font-weight="600">never need</text>
+    <text x="416" y="149" text-anchor="middle" font-size="13" class="t-mut">a cardiologist</text>
     <path d="M0 285H540" stroke="var(--line)" stroke-width="2"/>
     <path d="M0 296q22-8 45 0t45 0 45 0 45 0 45 0 45 0 45 0 45 0 45 0 45 0 45 0 45 0" fill="none" stroke="var(--sea)" stroke-width="2" opacity=".6"/>
     <ellipse cx="90" cy="287" rx="46" ry="9" fill="var(--muted)"/>
@@ -238,25 +251,61 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
         <li><svg class="ic"><use href="#i-check"/></svg>Made-up scenarios, labelled</li>
         <li><svg class="ic"><use href="#i-check"/></svg>Signboard, fees, factual listing</li>
         <li><svg class="ic"><use href="#i-check"/></svg>Formal announcements</li>
+        <li><svg class="ic"><use href="#i-check"/></svg>Private feedback, to improve care</li>
       </ul></section>
       <section class="a"><h3><span class="lamp"></span>Ask a lawyer</h3><ul>
         <li><svg class="ic"><use href="#i-q"/></svg>Friend edits, AI drafts</li>
         <li><svg class="ic"><use href="#i-q"/></svg>YouTube ad revenue</li>
-        <li><svg class="ic"><use href="#i-q"/></svg>His own audited outcomes</li>
+        <li><svg class="ic"><use href="#i-q"/></svg>His published numbers, cited in public</li>
         <li><svg class="ic"><use href="#i-q"/></svg>Free tests in a cohort</li>
         <li><svg class="ic"><use href="#i-q"/></svg>Paid public courses</li>
       </ul></section>
       <section class="r"><h3><span class="lamp"></span>Never</h3><ul>
         <li><svg class="ic"><use href="#i-x"/></svg>Patient stories, testimonials</li>
-        <li><svg class="ic"><use href="#i-x"/></svg>Asking for or sharing reviews</li>
-        <li><svg class="ic"><use href="#i-x"/></svg>“Best”, “top”, results, before–after</li>
+        <li><svg class="ic"><use href="#i-x"/></svg>Asking for public reviews; sharing praise</li>
+        <li><svg class="ic"><use href="#i-x"/></svg>“Best”, “top”, advertised success rates</li>
         <li><svg class="ic"><use href="#i-x"/></svg>Sponsors and endorsements</li>
         <li><svg class="ic"><use href="#i-x"/></svg>Promoting his practice in teaching</li>
       </ul></section>
     </div>
-    <p class="cap">Owning a practice relaxes none of this. “Ask a lawyer” items are readings of the text, not settled law.</p>
+    <p class="cap">Guidelines by public notice, read with the 2002 Regulations. Owning a practice relaxes none of it. Amber items are readings, not settled law.</p>
   </section>
 </div>
+
+<!-- VOICE MAP -->
+<section class="plate">
+  <header><span class="eyebrow">Who may say what</span><h2>Their voice is free. His acts are regulated.</h2></header>
+  <div class="voice">
+    <section class="vcol free">
+      <h3><span class="lamp"></span>Others, of their own accord</h3>
+      <ul>
+        <li><svg class="ic"><use href="#i-user"/></svg><span><b>A patient</b> posts, praises, criticises</span></li>
+        <li><svg class="ic"><use href="#i-cap"/></svg><span><b>A trainee</b> publishes, credits, nominates</span></li>
+        <li><svg class="ic"><use href="#i-shield"/></svg><span><b>A society</b> invites, selects, awards</span></li>
+        <li><svg class="ic"><use href="#i-doc"/></svg><span><b>A journalist</b> reports published work</span></li>
+      </ul>
+    </section>
+    <section class="vcol gate">
+      <h3><span class="lamp"></span>What turns it into his act</h3>
+      <div class="tags"><span class="tag">asking for it</span><span class="tag">scripting it</span><span class="tag">rewarding it</span><span class="tag">reposting it</span><span class="tag">quoting it</span><span class="tag">linking to it</span></div>
+      <svg viewBox="0 0 200 46" role="img" aria-label="Others' words pass freely unless he asks for, scripts, rewards or reposts them."><path d="M4 23H196" stroke="var(--muted)" stroke-width="2" stroke-dasharray="6 5"/><rect x="86" y="5" width="28" height="36" fill="var(--stop)"/><path d="M93 15l14 16M107 15L93 31" stroke="var(--surface)" stroke-width="3"/></svg>
+    </section>
+    <section class="vcol own">
+      <h3><span class="lamp"></span>In his own voice</h3>
+      <ul>
+        <li class="g"><svg class="ic"><use href="#i-check"/></svg>Teach the public; write on new research</li>
+        <li class="g"><svg class="ic"><use href="#i-check"/></svg>Present his own numbers to peers, no identifiers</li>
+        <li class="g"><svg class="ic"><use href="#i-check"/></svg>Ask patients for private feedback, to improve care</li>
+        <li class="g"><svg class="ic"><use href="#i-check"/></svg>List fellowships anyone can verify</li>
+        <li class="a"><svg class="ic"><use href="#i-q"/></svg>Cite those numbers in public, once published</li>
+        <li class="a"><svg class="ic"><use href="#i-q"/></svg>Reply to, or like, a kind review</li>
+        <li class="r"><svg class="ic"><use href="#i-x"/></svg>Ask for a public review; share praise</li>
+        <li class="r"><svg class="ic"><use href="#i-x"/></svg>Advertise success rates or patient counts</li>
+      </ul>
+    </section>
+  </div>
+  <p class="cap">The route for results: ethics approval, then journal or conference, then a neutral public mention of the published work.</p>
+</section>
 
 <!-- FIELD -->
 <section class="plate">
@@ -299,7 +348,7 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
       <div class="dotbox"><div class="dots" data-on="27"></div><div class="big">27%<small> of heart patients reach LDL goal</small></div></div>
       <div class="dotbox"><div class="dots" data-on="70" data-lost="30"></div><div class="big">70%<small> still on statins six months after a stent</small></div></div>
     </div>
-    <p class="cap">Each grid is 100 people. Red dots are the patients who stopped their statin.</p>
+    <p class="cap">Each grid is 100 people. Red dots are patients who stopped their statin, in one registry.</p>
   </section>
   <section class="plate">
     <header><span class="eyebrow">What prevention needs</span><h2>Teaching alone changes nothing measurable</h2></header>
@@ -313,7 +362,7 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
     </div>
     <div class="pair">
       <div class="stat"><span class="big">9</span><span class="cap">trials of information alone found no change</span></div>
-      <div class="stat"><span class="big">64% <small>vs 46%</small></span><span class="cap">at target when all five were combined (Kerala)</span></div>
+      <div class="stat"><span class="big">64% <small>vs 46%</small></span><span class="cap">met three of four targets when follow-up and family were added (Kerala)</span></div>
     </div>
   </section>
 </div>
@@ -323,24 +372,24 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
   <header><span class="eyebrow">The three rings · one at a time</span><h2>Start closest to the lamp</h2></header>
   <div class="cards">
     <div class="card"><div class="top"><span class="ord">1</span><h3>Patients for life</h3></div>
-      <div class="tags"><span class="tag hot">his own practice</span><span class="tag">plain-Telugu explanation</span><span class="tag">follow-up that can change a prescription</span><span class="tag">own registry</span></div></div>
-    <div class="card"><div class="top"><span class="ord">2</span><h3>Heart School</h3></div>
-      <div class="tags"><span class="tag hot">50 people · 12 weeks</span><span class="tag">measured in and out</span><span class="tag">refer to their own doctor</span></div></div>
-    <div class="card"><div class="top"><span class="ord">3</span><h3>Teaching wall</h3></div>
-      <div class="tags"><span class="tag hot">doctors only</span><span class="tag">weekly case conference</span><span class="tag">≈440 trainees in Telugu states</span></div></div>
+      <div class="tags"><span class="tag hot">his own practice · from week 1</span><span class="tag">heart passport</span><span class="tag">plain-Telugu explanation, signed</span><span class="tag">calls on days 3 · 30 · 90 · 180 · 365</span><span class="tag">own registry</span></div></div>
+    <div class="card"><div class="top"><span class="ord">2</span><h3>Open teaching series</h3></div>
+      <div class="tags"><span class="tag hot">doctors only · from March 2027</span><span class="tag">45-minute case session</span><span class="tag">public atlas, open-licence images</span><span class="tag">≈440 trainees in Telugu states</span></div></div>
+    <div class="card"><div class="top"><span class="ord">3</span><h3>Heart School</h3></div>
+      <div class="tags"><span class="tag hot">50 people · 12 weeks · year 2</span><span class="tag">measured at 0 · 3 · 6 · 12 months</span><span class="tag">family partner</span><span class="tag">route to their own doctor</span></div></div>
     <div class="card"><div class="top"><svg class="ic"><use href="#i-pulse"/></svg><h3>First 60 minutes</h3></div>
-      <div class="tags"><span class="tag hot">1,000 people CPR-trained</span><span class="tag">no licence needed</span><span class="tag">₹1.4–2.6 lakh</span></div></div>
+      <div class="tags"><span class="tag hot">hands-on CPR · monthly</span><span class="tag">300–500 trained in year 1</span><span class="tag">no licence needed</span><span class="tag">scorecard in the partner’s name</span></div></div>
   </div>
-  <p class="cap">A new ring starts only when the one before runs without him for routine sessions.</p>
+  <p class="cap">A new ring starts only when the one before runs routinely. His call: whether Heart School should come before the teaching series.</p>
 </section>
 
 <!-- WEEKLY LOOP -->
 <section class="plate">
-  <header><span class="eyebrow">One week</span><h2>One conversation in, three pieces out, his signature on each</h2></header>
-  <div class="scroll"><svg class="wide" viewBox="0 0 900 190" role="img" aria-label="Weekly workflow: he records a 25 minute conversation; the friend and AI draft; every claim is source-checked; a human reviews the Telugu; he approves and his registration number is added; one Telugu video, one card and one English post are published and logged.">
+  <header><span class="eyebrow">One week</span><h2>He talks, others draft, he signs</h2></header>
+  <div class="scroll"><svg class="wide" viewBox="0 0 900 190" role="img" aria-label="Weekly workflow: he records two talks a fortnight with an interviewer; the friend and AI draft; every claim is source-checked; a human reviews the Telugu; he approves and his registration number is added; one Telugu video, one card and one English post are published and logged.">
     <defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="var(--muted)"/></marker></defs>
     <g font-size="13" font-weight="600" text-anchor="middle">
-      <rect x="10" y="50" width="120" height="70" rx="6" fill="var(--beam)"/><text x="70" y="80" style="fill:#10243A">He talks</text><text x="70" y="100" font-weight="500" font-size="12" style="fill:#10243A">25 min</text>
+      <rect x="10" y="50" width="120" height="70" rx="6" fill="var(--beam)"/><text x="70" y="80" style="fill:#10243A">He records</text><text x="70" y="100" font-weight="500" font-size="12" style="fill:#10243A">2 talks a fortnight</text>
       <rect x="165" y="50" width="120" height="70" rx="6" fill="var(--sunk)" stroke="var(--line)"/><text x="225" y="80">Draft</text><text x="225" y="100" font-weight="500" font-size="12" class="t-mut">friend + AI</text>
       <rect x="320" y="50" width="120" height="70" rx="6" fill="var(--sunk)" stroke="var(--line)"/><text x="380" y="80">Source check</text><text x="380" y="100" font-weight="500" font-size="12" class="t-mut">every claim</text>
       <rect x="475" y="50" width="120" height="70" rx="6" fill="var(--sunk)" stroke="var(--line)"/><text x="535" y="80">Telugu review</text><text x="535" y="100" font-weight="500" font-size="12" class="t-mut">a person</text>
@@ -364,7 +413,7 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
     </div>
   </div>
   <div class="load" id="load" aria-live="polite"></div>
-  <p class="cap">His hours per week decide what fits. Green is in, amber is reduced, dashed is deferred. 4 hours for him and 6 for the friend is an assumption until both confirm.</p>
+  <p class="cap">Switch his weekly hours to see what fits. Green is in, amber is reduced, dashed is out. The plan assumes 4 hours for him and 6 for the friend until both confirm.</p>
 </section>
 
 <!-- AI + INDEPENDENCE -->
@@ -414,7 +463,7 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
       </g>
       <path d="M380 50C380 110 320 150 280 160" stroke="var(--beam)" stroke-width="2" stroke-dasharray="5 4" fill="none"/>
       <text x="392" y="118" font-size="11" class="t-mut" text-anchor="middle">found by name search,</text><text x="392" y="132" font-size="11" class="t-mut" text-anchor="middle">never linked</text>
-      <text x="20" y="26" font-size="12" class="t-mono t-mut">13 CATH-LAB HOSPITALS</text><text x="20" y="42" font-size="12" class="t-mono t-mut">WITHIN ~30 MIN</text>
+      <text x="20" y="26" font-size="12" class="t-mono t-mut">13 CATH-LAB HOSPITALS</text><text x="20" y="42" font-size="12" class="t-mono t-mut">NEARBY · 8 CONFIRMED</text>
     </svg></div>
     <div class="pair">
       <div class="stat"><span class="eyebrow">Travels with him</span><div class="tags"><span class="tag hot">name</span><span class="tag hot">domain</span><span class="tag hot">channels</span><span class="tag hot">list</span><span class="tag hot">papers</span><span class="tag hot">own registry</span></div></div>
@@ -426,16 +475,16 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
 <!-- ROADMAP -->
 <section class="plate">
   <header><span class="eyebrow">The schedule · 13 Nov 2026 onward</span><h2>Paperwork first, then one thing at a time</h2></header>
-  <div class="scroll"><svg class="wide" viewBox="0 0 950 218" role="img" aria-label="Timeline from November 2026 to December 2027 with four phases and nine dated deadlines.">
+  <div class="scroll"><svg class="wide" viewBox="0 0 950 218" role="img" aria-label="Timeline from November 2026 to December 2027 with four phases and ten dated points, including the earliest public launch on 18 January 2027.">
     <g font-size="12" font-weight="600">
       <rect x="40" y="96" width="64" height="34" fill="var(--beam)"/><text x="72" y="118" text-anchor="middle" style="fill:#10243A">Phase 0</text>
-      <rect x="104" y="96" width="128" height="34" fill="var(--sea)"/><text x="168" y="118" text-anchor="middle" style="fill:var(--surface)">Phase 1</text>
-      <rect x="232" y="96" width="576" height="34" fill="var(--sea-soft)"/><text x="520" y="118" text-anchor="middle">Phase 2</text>
-      <rect x="808" y="96" width="102" height="34" fill="var(--sunk)" stroke="var(--line)"/><text x="859" y="118" text-anchor="middle">Phase 3 →</text>
+      <rect x="104" y="96" width="123" height="34" fill="var(--sea)"/><text x="165" y="118" text-anchor="middle" style="fill:var(--surface)">Phase 1</text>
+      <rect x="227" y="96" width="578" height="34" fill="var(--sea-soft)"/><text x="516" y="118" text-anchor="middle">Phase 2</text>
+      <rect x="805" y="96" width="105" height="34" fill="var(--sunk)" stroke="var(--line)"/><text x="857" y="118" text-anchor="middle">Phase 3 →</text>
     </g>
     <g font-size="11" class="t-mono" text-anchor="middle">
-      <text x="72" y="148" class="t-mut">30 days</text><text x="168" y="148" class="t-mut">to day 90</text><text x="520" y="148" class="t-mut">months 4–12</text><text x="859" y="148" class="t-mut">years 2–3</text>
-      <text x="72" y="164">facts · paperwork</text><text x="168" y="164">first teaching · ring 1</text><text x="520" y="164">ring 2 · CPR · ring 3 pilot</text><text x="859" y="164">scale what worked</text>
+      <text x="72" y="148" class="t-mut">30 days</text><text x="165" y="148" class="t-mut">to day 90</text><text x="516" y="148" class="t-mut">months 4–12</text><text x="857" y="148" class="t-mut">years 2–3</text>
+      <text x="72" y="164">facts · papers</text><text x="170" y="164">base · pilot · launch</text><text x="516" y="164">run · measure · add the second ring</text><text x="857" y="164">Heart School</text>
     </g>
     <g stroke="var(--line)" stroke-width="1"><path d="M40 190H910"/>
       <path d="M78 186v8M142 186v8M206 186v8M270 186v8M334 186v8M398 186v8M462 186v8M526 186v8M590 186v8M654 186v8M718 186v8M782 186v8M846 186v8"/></g>
@@ -443,13 +492,13 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
       <text x="78" y="208">Dec</text><text x="142" y="208">Jan ’27</text><text x="206" y="208">Feb</text><text x="270" y="208">Mar</text><text x="334" y="208">Apr</text><text x="398" y="208">May</text><text x="462" y="208">Jun</text><text x="526" y="208">Jul</text><text x="590" y="208">Aug</text><text x="654" y="208">Sep</text><text x="718" y="208">Oct</text><text x="782" y="208">Nov</text><text x="846" y="208">Dec</text>
     </g>
     <g stroke="var(--pulse)" stroke-width="1.500">
-      <path d="M84 96V79"/><path d="M142 96V53"/><path d="M163 96V79"/><path d="M194 96V53"/><path d="M268 96V79"/><path d="M284 96V53"/><path d="M309 96V79"/><path d="M423 96V79"/><path d="M714 96V79"/>
+      <path d="M84 96V79"/><path d="M140 96V53"/><path d="M163 96V79"/><path d="M177 96V53"/><path d="M194 96V27"/><path d="M268 96V79"/><path d="M284 96V53"/><path d="M309 96V79"/><path d="M423 96V79"/><path d="M714 96V79"/>
     </g>
-    <g><circle cx="84" cy="70" r="10" fill="var(--pulse)"/><circle cx="142" cy="44" r="10" fill="var(--pulse)"/><circle cx="163" cy="70" r="10" fill="var(--pulse)"/><circle cx="194" cy="44" r="10" fill="var(--pulse)"/><circle cx="268" cy="70" r="10" fill="var(--pulse)"/><circle cx="284" cy="44" r="10" fill="var(--pulse)"/><circle cx="309" cy="70" r="10" fill="var(--pulse)"/><circle cx="423" cy="70" r="10" fill="var(--pulse)"/><circle cx="714" cy="70" r="10" fill="var(--pulse)"/></g>
-    <g font-size="11" font-weight="600" text-anchor="middle" class="t-mono"><text x="84" y="74" style="fill:var(--surface)">1</text><text x="142" y="48" style="fill:var(--surface)">2</text><text x="163" y="74" style="fill:var(--surface)">3</text><text x="194" y="48" style="fill:var(--surface)">4</text><text x="268" y="74" style="fill:var(--surface)">5</text><text x="284" y="48" style="fill:var(--surface)">6</text><text x="309" y="74" style="fill:var(--surface)">7</text><text x="423" y="74" style="fill:var(--surface)">8</text><text x="714" y="74" style="fill:var(--surface)">9</text></g>
-    </svg></div>
-  <ol class="pins"><li>4 Dec · CRT cases</li><li>1 Jan · 24 CPD hours required</li><li>11 Jan · EuroPCR</li><li>26 Jan · SCAI grant</li><li>28 Feb · FSCAI</li><li>8 Mar · ESC cases</li><li>19 Mar · India Live</li><li>13 May · data-protection duties</li><li>29 Sep · World Heart Day</li></ol>
-  <p class="cap">Numbered pins are fixed outside deadlines. Phase lengths follow the plan, not his exit date, which is not yet known.</p>
+    <g><circle cx="84" cy="70" r="10" fill="var(--pulse)"/><circle cx="140" cy="44" r="10" fill="var(--pulse)"/><circle cx="163" cy="70" r="10" fill="var(--pulse)"/><circle cx="177" cy="44" r="10" fill="var(--beam)"/><circle cx="194" cy="18" r="10" fill="var(--pulse)"/><circle cx="268" cy="70" r="10" fill="var(--pulse)"/><circle cx="284" cy="44" r="10" fill="var(--pulse)"/><circle cx="309" cy="70" r="10" fill="var(--pulse)"/><circle cx="423" cy="70" r="10" fill="var(--pulse)"/><circle cx="714" cy="70" r="10" fill="var(--pulse)"/></g>
+    <g font-size="11" font-weight="600" text-anchor="middle" class="t-mono"><text x="84" y="74" style="fill:var(--surface)">1</text><text x="140" y="48" style="fill:var(--surface)">2</text><text x="163" y="74" style="fill:var(--surface)">3</text><text x="177" y="48" style="fill:#10243A">4</text><text x="194" y="22" style="fill:var(--surface)">5</text><text x="268" y="74" style="fill:var(--surface)">6</text><text x="284" y="48" style="fill:var(--surface)">7</text><text x="309" y="74" style="fill:var(--surface)">8</text><text x="423" y="74" style="fill:var(--surface)">9</text><text x="714" y="74" style="fill:var(--surface)">10</text></g>
+  </svg></div>
+  <ol class="pins"><li>4 Dec · CRT cases (optional)</li><li>31 Dec · renew council registration</li><li>11 Jan · EuroPCR cases</li><li class="go">18 Jan · earliest public launch</li><li>26 Jan · SCAI research grant</li><li>28 Feb · FSCAI, if his log supports it</li><li>8 Mar · ESC cases</li><li>19 Mar · India Live</li><li>13 May · data-protection duties begin</li><li>29 Sep · World Heart Day</li></ol>
+  <p class="cap">Nothing goes public until four gates close: registration current, contract read, working rules signed, six weeks of teaching recorded. His exit date is not assumed.</p>
 </section>
 
 <!-- PRINCIPLES + OBJECTIVES -->
@@ -459,14 +508,14 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
     <ul class="chips" id="principles"></ul>
   </section>
   <section class="plate">
-    <header><span class="eyebrow">Objectives · first 12 months</span><h2>What “working” looks like</h2></header>
+    <header><span class="eyebrow">Objectives · year-one targets</span><h2>What “working” looks like</h2></header>
     <div id="objectives"></div>
   </section>
 </div>
 
 <!-- RULES -->
 <section class="plate">
-  <header><span class="eyebrow">Rules</span><h2>Twenty rules in six families</h2></header>
+  <header><span class="eyebrow">Rules</span><h2>Twenty-six rules in six families</h2></header>
   <div class="cards" id="rules"></div>
   <p class="cap">Every rule is tagged in the synthesis as law, a reading awaiting a lawyer, or self-imposed.</p>
 </section>
@@ -476,15 +525,16 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
   <section class="plate">
     <header><span class="eyebrow">Money · year one</span><h2>Teaching never pays for itself</h2></header>
     <div class="bars">
-      <div class="bar"><span>Lean</span><div class="track"><div class="fill" style="width:9%"></div></div><span class="num">₹3 lakh</span></div>
-      <div class="bar"><span>Standard</span><div class="track"><div class="fill" style="width:46%"></div></div><span class="num">₹15.5 lakh</span></div>
-      <div class="bar"><span>Ambitious</span><div class="track"><div class="fill" style="width:100%"></div></div><span class="num">₹33.5 lakh</span></div>
+      <div class="bar"><span>Lean</span><div class="track"><div class="fill" style="width:8.8%"></div></div><span class="num">₹2.95 lakh</span></div>
+      <div class="bar"><span><b>Plan cap</b></span><div class="track"><div class="fill" style="width:12%;background:var(--sea)"></div></div><span class="num">≈ ₹4 lakh</span></div>
+      <div class="bar"><span>Standard</span><div class="track"><div class="fill" style="width:46.500%"></div></div><span class="num">₹15.55 lakh</span></div>
+      <div class="bar"><span>Ambitious</span><div class="track"><div class="fill" style="width:100%"></div></div><span class="num">₹33.47 lakh</span></div>
     </div>
     <div class="tl">
       <section class="g"><h3><span class="lamp"></span>May earn</h3><ul><li>Society teaching fees</li><li>Book royalties</li><li>Courses for doctors</li><li>Employer education</li></ul></section>
       <section class="r"><h3><span class="lamp"></span>Never</h3><ul><li>Sponsors</li><li>Affiliate links</li><li>Endorsements</li><li>Industry-funded public content</li></ul></section>
     </div>
-    <p class="cap">Budgets include assumed lines. The plan sets a fixed yearly cap that he chooses.</p>
+    <p class="cap">All four figures are estimates. The cap is his to set; practice paperwork (about ₹1.2–2 lakh) is separate.</p>
   </section>
   <section class="plate">
     <header><span class="eyebrow">Who a YouTube plan misses</span><h2>Most rural women in Telangana</h2></header>
@@ -506,8 +556,8 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
 </section>
 
 <div class="foot">
-  <span><span class="num">5</span> research rounds</span>
-  <span><span class="num">32</span> reports · about <span class="num">300,000</span> words</span>
+  <span><span class="num">6</span> research rounds</span>
+  <span><span class="num">33</span> reports · over <span class="num">300,000</span> words</span>
   <span><span class="num">2</span> fact-checks at source</span>
   <span>Full detail: <span class="num">synthesis/</span> and <span class="num">index.md</span> in the dr-pr repository</span>
 </div>
@@ -523,28 +573,28 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
   // dot grids
   document.querySelectorAll('.dots').forEach(function(d){var on=+d.dataset.on,lost=+(d.dataset.lost||0),h='';for(var i=0;i<100;i++)h+='<i class="'+(i<on?'on':(i<on+lost?'lost':''))+'"></i>';d.innerHTML=h});
   // principles
-  var P=["Teach, don’t sell","Build on what he owns","Numbers before opinions","Information plus a route to action","Privacy is absolute","He approves everything","Pace over volume","Telugu, verified by a person","Free, open, sponsor-free","Argue against his own interest","Publish nulls, correct in public"];
+  var P=["Teach, don’t sell","Build on what he owns","Form, not topic","Numbers before opinions","Information plus a route to action","Privacy is absolute","He approves everything","Telugu, verified by a person","Free, open, sponsor-free","Argue against his own interest","One flagship at a time"];
   document.getElementById('principles').innerHTML=P.map(function(t,i){return '<li><span class="n">P'+(i+1)+'</span>'+t+'</li>'}).join('');
   // objectives
-  var O=[["Clean, lawful identity","every listing corrected"],["A platform he owns","site · list · accounts"],["Top heart questions answered","30 of 60, Telugu + English"],["One measured community programme","1,000 CPR-trained"],["Patients for life","100% leave with a passport"],["Peer standing and trainees","2 papers · 40 conferences held"],["A visible, safe AI edge","charter published"]];
+  var O=[["A lawful, clean identity","all done by day 90"],["Independence","100% owned · list of 750–1,000"],["The public taught","10-part course · 30 of 60 questions"],["Patients for life","passport to 100% · baseline LDL"],["Peers and trainees served","≈20 sessions · 20-case atlas"],["The first 60 minutes","300–500 trained hands-on"],["A visible, lawful AI edge","charter live · 15–20 templates"]];
   document.getElementById('objectives').innerHTML=O.map(function(o){return '<div class="goal-row"><span>'+o[0]+'</span><span class="m">'+o[1]+'</span></div>'}).join('');
   // rules
-  var R=[["i-doc","Content","Registration line first · one name · cardiology only · every claim sourced"],["i-lock","Patients and privacy","No patient material in public · no reviews · real cases to journals first"],["i-rupee","Money","No sponsor · no paid reach · no call to book"],["i-chip","AI","Two pipelines · disclosed · no synthetic him"],["i-play","Media","No consultation in comments · employer-neutral · portable"],["i-shield","Conduct","He approves and logs · hard time cap · one flagship per ring · stop rule"]];
+  var R=[["i-doc","Content · 7","Registration first · the subject is the condition · no source, no sentence · no call to book · no fear"],["i-lock","Patients and privacy · 6","No patient material in his voice · private feedback yes, public prompting no · real cases to journals"],["i-rupee","Money · 4","Monetisation off until cleared · no industry money in public work · fixed yearly cap"],["i-chip","AI · 3","Two pipelines · no synthetic him · a person verifies every claim"],["i-play","Media · 1","Editorial invitations only, never paid slots"],["i-shield","Conduct · 5","The friend shares the teaching, never the teacher · hard time cap · stop rule · earned voice, never engineered"]];
   document.getElementById('rules').innerHTML=R.map(function(r){return '<div class="card"><div class="top">'+use(r[0])+'<h3>'+r[1]+'</h3></div><p class="cap">'+r[2]+'</p></div>'}).join('');
   // weekly load by cap: [label, state at 2, 4, 6]
-  var L=[["Paperwork and facts","on","on","on"],["Weekly Telugu card + English post","on","on","on"],["Patients for life","on","on","on"],["Weekly Telugu video, 4–7 min","off","on","on"],["Monthly live session","off","on","on"],["Case submissions and papers","part","on","on"],["First 60 minutes · CPR","off","part","on"],["Heart School cohort","off","part","on"],["Weekly trainee case conference","off","part","on"]];
+  var L=[["Approvals and quality",["on","20 min"],["on","30 min"],["on","30 min"]],["Patients for life",["on","45 min"],["on","45 min"],["on","45 min"]],["Telugu video and card",["part","fortnightly"],["on","weekly"],["on","weekly"]],["English written post",["off","none"],["on","weekly"],["on","weekly"]],["Case submissions and papers",["part","2–3 a year"],["on","3–5 a year"],["on","3–5, earlier abstract"]],["Peer teaching series",["off","not in year 1"],["part","fortnightly"],["on","weekly"]],["First 60 minutes · CPR",["off","partner-run only"],["on","monthly"],["on","twice a month"]],["Heart School cohort",["off","not started"],["part","prepared · runs year 2"],["on","months 7–10"]],["AI course · tele-mentoring",["off","deferred"],["off","year 2"],["on","in 2027"]]];
   var loadEl=document.getElementById('load');
-  function paint(cap){var k={2:1,4:2,6:3}[cap];loadEl.innerHTML=L.map(function(r){var s=r[k];return '<div class="'+s+'">'+use(s==='on'?'i-check':s==='part'?'i-clock':'i-x')+'<span>'+r[0]+'</span></div>'}).join('');
+  function paint(cap){var k={2:1,4:2,6:3}[cap];loadEl.innerHTML=L.map(function(r){var s=r[k][0];return '<div class="'+s+'">'+use(s==='on'?'i-check':s==='part'?'i-clock':'i-x')+'<span>'+r[0]+'<small>'+r[k][1]+'</small></span></div>'}).join('');
     document.querySelectorAll('.seg button').forEach(function(b){b.setAttribute('aria-pressed',String(+b.dataset.cap===cap))})}
   document.querySelectorAll('.seg button').forEach(function(b){b.addEventListener('click',function(){paint(+b.dataset.cap)})});
   paint(4);
   // decisions board
-  var B=[["i-user","Dr. Avinash",[["Telangana registration: renewed?",1],["Apollo agreement: exclusivity, notice",1],["Own clinic: what it is, is it registered",1],["Realistic hours per week",1],["Yearly money cap",1],["Comfortable on camera, or voice and hand only?",1],["Cath-lab logs per hospital",0],["Exit window",0],["Which ring first",0]]],
-         ["i-users","The friend",[["Hours per week, and for how long",1],["Read his Google reviews: count, themes",0],["Check X, Instagram, Facebook for his name",0],["Who steps in if you step back",0],["Arrange ten cath-lab access interviews",0]]],
-         ["i-scale","Health lawyer",[["Friend + AI: “third party for marketing”?",1],["Publishing own audited outcomes",0],["YouTube ad revenue",0],["Free tests and paid public courses",0],["Registration number on every post",0]]],
-         ["i-rupee","Accountant · others",[["GST once side income starts",0],["A named Telugu medical reviewer",1],["RTI on the 2023 CPR and AED plan",0],["A current trainee: where residents learn",0]]]];
-  var saved={};try{saved=JSON.parse(localStorage.getItem('lh-ticks')||'{}')}catch(e){}
+  var B=[["i-user","Dr. Avinash",[["Telangana council status: renewed? MD and DM entered?",1],["His own practice: name, place, registered?",1],["Apollo agreement, for a lawyer to read",1],["Exit window, even as a range",1],["Hours a week he can protect",1],["On camera? Telugu register?",1],["To be known, or the work to be known?",1],["Year-one money cap",1],["Stent and heart-attack patients a year; a nurse for calls",1],["Who holds the logins",1],["Heart School before the teaching series?",0]]],
+         ["i-users","The friend",[["Hours a week, and for how long",1],["Google Maps: listings, rating, count",0],["Check X, Instagram, Facebook for his name",0],["Register the name domains in his name",0],["Who steps in for three months",0],["Arrange ten cath-lab access interviews",0]]],
+         ["i-scale","Health lawyer · one written opinion",[["Friend edits, AI drafts: “third party for marketing”?",1],["Reply to, or like, a kind review",0],["Cite his published numbers in public",0],["Registration number on every post",0],["YouTube ad revenue",0],["Free tests at Heart School",0]]],
+         ["i-rupee","Accountant · others",[["GST once any side income starts",0],["A named Telugu medical reviewer",1],["A colleague as second reader",0],["Letter and RTI to the state council",0],["A current trainee: where residents learn",0]]]];
+  var saved={};try{saved=JSON.parse(localStorage.getItem('lh-ticks2')||'{}')}catch(e){}
   document.getElementById('board').innerHTML=B.map(function(c,ci){return '<div class="col"><h3>'+use(c[0])+c[1]+'</h3>'+c[2].map(function(it,ii){var id='t'+ci+'-'+ii;return '<button type="button" class="pick" id="'+id+'" aria-pressed="'+(saved[id]?'true':'false')+'"><span class="box"></span><span>'+it[0]+'</span>'+(it[1]?'<span class="blk">blocks</span>':'')+'</button>'}).join('')+'</div>'}).join('');
-  document.getElementById('board').addEventListener('click',function(e){var b=e.target.closest('.pick');if(!b)return;var on=b.getAttribute('aria-pressed')!=='true';b.setAttribute('aria-pressed',String(on));saved[b.id]=on;try{localStorage.setItem('lh-ticks',JSON.stringify(saved))}catch(e){}});
+  document.getElementById('board').addEventListener('click',function(e){var b=e.target.closest('.pick');if(!b)return;var on=b.getAttribute('aria-pressed')!=='true';b.setAttribute('aria-pressed',String(on));saved[b.id]=on;try{localStorage.setItem('lh-ticks2',JSON.stringify(saved))}catch(e){}});
 })();
 </script>
