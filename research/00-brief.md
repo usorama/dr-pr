@@ -45,3 +45,7 @@ Build a **PR / reputation system** so that, from here on, he becomes widely know
 3. **A lighthouse.** He should become a guiding light for (a) **future cardiologists** (trainees, young consultants), and (b) **past, present and future patients — including people who learn enough from him that they never need a cardiologist at all.** Prevention at population scale is a first-class goal, not a side project.
 
 The unchanging principle: a professional does what must be done and **influences for the good of everyone**. Goals do not change; only the "how" adapts to what research finds (including the NMC rules above).
+
+## Addendum 3 — fact added by the sponsor on 12 Nov 2026
+
+**He already has his own private practice**, in addition to his Apollo attachment (name and address not yet supplied; earlier agents did not find it online). So independence is not starting from zero: there is an owned clinic entity to which lawful factual communication (signboard, formal announcements, factual website and directory listings, own Google Business Profile) can attach. Wherever the rules treat a doctor's **own practice** differently from an **employer organisation**, say so explicitly and take the more permissive lawful reading into account — while flagging what remains barred (self-promotion, testimonials, superiority claims).
