@@ -51,7 +51,7 @@ These platforms reach MD Medicine residents who will become cardiology trainees.
 | **CSI channels** | CSI HQ (the "CSI Webinar" link on the society's home page) 68 subscribers; CSI Kerala 248; CSI Pune 15; CSI Indore 32 | Invidious [V], [19] |
 | **CSI "Cardiology Update" book** | **Could not verify** this session (Google Books query rate-limited; no page on csi.org.in). [BK, Medium]: an annual multi-author volume released at CSICON, edited under the incoming president | — |
 | **CSI research or travel grants** | **None found** on the CSI home, notices, forms or awards pages or by search. The site lists only the fellowship form (fee Rs 30,000 [S]), life membership (Rs 10,000 [S]), an election schedule and three Asian Pacific Society of Cardiology scholarships (section 6) | csi.org.in [V] for absence; Medium |
-| **Other society channels** | NBEMS official 27,400; Echo at JROP Institute 14,900; TRICO (transradial course) 9,320; CRISP Cardiology Conference 3,720; Indian Academy of Echocardiography 3,510; Indian Heart Rhythm Society 1,590; India CTO 100 | Invidious [V] |
+| **Other society channels** | NBEMS official 27,400; Echo at JROP Institute 14,900; TRICO (annual transcatheter course, handle @transradialWORLD) 9,320; CRISP Cardiology Conference 3,720; Indian Academy of Echocardiography 3,510; Indian Heart Rhythm Society 1,590; India CTO 100 | Invidious [V] |
 | **Fellows India 2026** | Three-day interventional programme "for cardiology fellows and young consultants", hosted by Medicover Hospitals, Hyderabad; organising chairman Dr N Prathap Kumar; reported 10 January 2026. Attendance and society endorsement not stated | Telangana Today [V]; Medium |
 | **India Coronary Conquest 2026** | Virtual, competitive complex-PCI case platform for early- and mid-career interventionalists; **run by AstraZeneca Pharma India with STEMI India**; 30 "Course Principals"; 120+ case submissions; launched 21 April 2026 | Indian Pharma Post [V]; Medium |
 | **India Live 2027** | 19–21 March 2027, New Delhi [16]. Archive and fellows' programme not verified (site timed out) | [16] |
@@ -215,7 +215,7 @@ For his atlas: release **his own text and drawings under CC BY 4.0** (widest reu
 | **PTB-XL** (PhysioNet) | 21,799 12-lead ECGs, 18,869 patients | CC BY 4.0; open access; pseudonymised; ethics committee approved publication | **Yes**, with the three stated citations. Signals are raw, so tracings can be re-plotted in his own style |
 | **Chapman-Shaoxing-Ningbo** (PhysioNet "ecg-arrhythmia") | 45,152 ECGs | CC BY 4.0; ethics boards waived consent and allowed sharing after de-identification | **Yes** |
 | **MIMIC-IV-ECG** | About 800,000 ECGs, nearly 160,000 patients | Open Database License 1.0; open access; HIPAA Safe Harbor de-identification | Yes with ODbL attribution; share-alike applies to derived databases [BK] |
-| **ECG Wave-Maven** (Harvard/BIDMC) | 540+ cases | "Copyright (c) 2001–2024 Beth Israel Deaconess Medical Center. All rights reserved"; asks to be cited | **Link only**; reuse needs written permission |
+| **ECG Wave-Maven** (Harvard/BIDMC) | Over 500 cases (the latest is numbered 546) | "Copyright (c) 2001–2024 Beth Israel Deaconess Medical Center. All rights reserved"; asks to be cited | **Link only**; reuse needs written permission |
 | **LITFL ECG Library** | — | CC BY-NC-SA 4.0 [19] | Yes if the atlas is non-commercial and share-alike |
 | **ECGpedia** | — | CC BY-NC-SA 3.0; some images "reproduced with permission" need the holder's consent | Yes, non-commercial, checking each image |
 | **Wikimedia Commons** | — | Per-file licences; Commons does not require consent where the subject cannot be identified; consent given to a journal does not cover re-upload | Yes, file by file |
@@ -260,7 +260,7 @@ Consequence: the public atlas should be built from open datasets and his own dra
 - The 2025 relaxations (non-teaching consultants becoming Assistant or Associate Professor after 2 or 10 years) apply to **government hospitals of 220 beds**; the route to Professor for "Senior Consultants" applies to PG teachers in **government** NBEMS institutes (PGMEB FAQ, 23 October 2025) [V]. Neither helps a private consultant.
 - From 17 July 2026 colleges themselves decide faculty eligibility; references to the Board cost Rs 25,000 plus GST (Omnicuris report [V]; Medium).
 - **Result:** a private or deemed college can invite him as a guest lecturer, but no rule gives that a title or counts it as teaching experience. A faculty post means joining full time as Assistant Professor.
-- Colleges with DM Cardiology within reach of western Hyderabad: NIMS, Osmania, Gandhi, Mallareddy, Kamineni (section 1.5). Whether any appoints visiting cardiology faculty **could not be verified**; no public list exists.
+- Colleges with DM Cardiology in or near Hyderabad: NIMS, Osmania, Gandhi, Mallareddy, Kamineni (section 1.5; travel times from Narsingi not checked). Whether any appoints visiting cardiology faculty **could not be verified**; no public list exists.
 
 #### 5.2 NBEMS
 
@@ -286,7 +286,7 @@ Applied to him: registered in 2012, MD 2016, DM 2020. On the strictest count he 
 |---|---|---|---|
 | **IIT Hyderabad, Biomedical Engineering** | 13 faculty, about 257 students; hosts the ICMR-DHR Medical Device and Diagnostics Mission Secretariat and a bioengineering centre opened January 2026; a Centre for Healthcare Entrepreneurship exists (site returned 503) | **Adjunct faculty list includes Dr D Ravi Varma (interventional neuroradiologist, Citi Neuro Centre, Hyderabad) and Dr Sikandar Shaik (radiology, Yashoda Hospitals)** [V] | Strong precedent. The department shows no cardiac group, so he would bring the clinical question |
 | **IIIT Hyderabad** | Adjunct faculty page lists 20 people from industry and other institutes, none a clinician. **CDiTH** (Centre for Digital Technologies in Healthcare) validates AI for healthcare, names Yashoda and Sindhu hospitals in its news, and sponsors "Research Translation Fellows". iHub-Data runs "AI for Medical Professionals" (file 18) | None found | Best fit for the AI goal; a title would be a first |
-| **IIPH Hyderabad** (PHFI) | PHFI Institute of Public Health Sciences, Hyderabad was notified a **deemed university in June 2025**. MPH (two years), PGDPHM (one year), short courses; centres of excellence include **Non-Communicable Diseases** and Digital Public Health. Rajendranagar, near Outer Ring Road exit 17 | PHFI's national adjunct faculty includes practising clinicians, for example **Dr Sanjay Kalra, endocrinologist, Bharti Hospital, Karnal**, and a developmental paediatrician [V]. No cardiologist and no Hyderabad-based adjunct on the page read (page 1 of 2) | Best fit for the prevention goal; as a deemed university it can now also use the Professor of Practice route |
+| **IIPH Hyderabad** (PHFI) | PHFI Institute of Public Health Sciences, Hyderabad was notified a **deemed university in June 2025**. MPH (two years), PGDPHM (one year), short courses; centres of excellence include **Non-Communicable Diseases** and Digital Public Health. Rajendranagar, near Outer Ring Road exit 17 | PHFI's national adjunct faculty includes practising clinicians, for example **Dr Sanjay Kalra, endocrinologist, Bharti Hospital, Karnal**, and a developmental paediatrician [V]. No cardiologist and no Hyderabad-based adjunct on the page read (page 1 of 2) | Best fit for the prevention goal. As a deemed university it should also be able to use the Professor of Practice route (inference, not stated by IIPH) |
 | **ISB Max Institute of Healthcare Management** | Recruiting a full-time "Clinical / Public Health Expert" (MBBS/MD, 3+ years) to review AI tools for clinical validity and safety at pilot sites | No adjunct scheme found; landing pages 404 | Shows ISB needs clinical judgement on AI; entry is a guest session or an advisory role |
 | **University of Hyderabad, School of Medical Sciences** | Sub-site did not resolve; no scheme on the main page | Not verified | Unknown |
 | **NALSAR** | Home page shows no health-law programme or centre | Not verified | Low |
@@ -356,7 +356,7 @@ Fallbacks: (i) make an NBEMS-accredited department his principal attachment afte
 | 28 Feb 2027 | FSCAI application | File 16 | [16] |
 | 19 Feb – 31 Mar 2027 | EAPCI training grant | Not eligible; note for trainees with EU residence | [V] |
 | 26–28 Mar 2027 | APSC 2027, Yokohama | Scholarship results | [V] |
-| 9–12 Apr 2027 | ACC.27, Houston; pre-conference session on teaching and communication (9 April) | Optional | [V] |
+| 10–12 Apr 2027 | ACC.27, Houston; pre-conference session on teaching and communication on 9 April | Optional | [V] |
 | Spring–summer 2027 | EAPCI Online Coaching Programme, next call | Apply as mentee; watch the EAPCI page | [P] |
 | August 2027 | ICMR results | — | [V, tentative] |
 | Autumn 2027 | SCAI Emerging Leaders Mentorship 2028–30 opens | Apply if a member | [V] |
