@@ -89,6 +89,11 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
 .vcol.gate{background:var(--stop-soft)} .vcol.gate .lamp{background:var(--stop)} .vcol.gate .tag{background:var(--surface);color:var(--ink)} .vcol.gate svg{width:100%;height:auto}
 .vcol.own{border:1px solid var(--line)} .vcol.own .lamp{background:var(--beam)}
 .vcol li.g .ic{color:var(--go)} .vcol li.a .ic{color:var(--wait)} .vcol li.r .ic{color:var(--stop)}
+.route{display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:13px;font-weight:600}
+.route span{border:1px solid var(--line);border-radius:5px;padding:7px 11px;background:var(--sunk)}
+.route span.end{background:var(--sea);border-color:var(--sea);color:var(--surface)}
+.route i{width:18px;height:2px;background:var(--muted);position:relative;flex:none}
+.route i::after{content:"";position:absolute;right:-1px;top:-4px;border:5px solid transparent;border-left-color:var(--muted);border-right:0}
 /* dot grids */
 .dotset{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,128px),1fr));gap:16px}
 .dotbox{display:flex;flex-direction:column;gap:8px;min-width:0}
@@ -296,15 +301,17 @@ svg .t-mono{font-family:var(--mono)} svg .t-mut{fill:var(--muted)} svg .t-disp{f
         <li class="g"><svg class="ic"><use href="#i-check"/></svg>Teach the public; write on new research</li>
         <li class="g"><svg class="ic"><use href="#i-check"/></svg>Present his own numbers to peers, no identifiers</li>
         <li class="g"><svg class="ic"><use href="#i-check"/></svg>Ask patients for private feedback, to improve care</li>
-        <li class="g"><svg class="ic"><use href="#i-check"/></svg>List fellowships anyone can verify</li>
+        <li class="g"><svg class="ic"><use href="#i-check"/></svg>Accept fellowships; thank a trainee in public</li>
         <li class="a"><svg class="ic"><use href="#i-q"/></svg>Cite those numbers in public, once published</li>
         <li class="a"><svg class="ic"><use href="#i-q"/></svg>Reply to, or like, a kind review</li>
-        <li class="r"><svg class="ic"><use href="#i-x"/></svg>Ask for a public review; share praise</li>
+        <li class="a"><svg class="ic"><use href="#i-q"/></svg>List awards on his own pages; be profiled</li>
+        <li class="r"><svg class="ic"><use href="#i-x"/></svg>Ask for a public review; share or show praise</li>
         <li class="r"><svg class="ic"><use href="#i-x"/></svg>Advertise success rates or patient counts</li>
       </ul>
     </section>
   </div>
-  <p class="cap">The route for results: ethics approval, then journal or conference, then a neutral public mention of the published work.</p>
+  <div class="route" role="img" aria-label="The route for results: consent, ethics approval, journal or conference, then a public citation."><span>Consent line</span><i></i><span>Ethics approval</span><i></i><span>Journal or conference</span><i></i><span class="end">Cite it in public teaching</span></div>
+  <p class="cap">Publish first, then cite. If a patient asks where to leave a review: he never asks, never suggests words, offers nothing, never reposts. Asking for public reviews is unsettled in the text; the plan treats it as barred.</p>
 </section>
 
 <!-- FIELD -->
