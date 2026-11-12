@@ -27,13 +27,13 @@
 
 | Label | Meaning |
 |---|---|
-| **The rule says** | The words are in the rule itself. |
+| **The rule says** | The words are in the rule itself. The quotations of rules in this document come from file 30. |
 | **Our reading** | The rule does not say it in these words. This is how we read it. A lawyer should confirm. |
 | **Not decided** | The rule does not answer the question, and no authority has answered it. |
 
 In tables that show whether an act is allowed, this document writes **Yes**, **Ask a lawyer**, **No** or **Not covered by the rules**. "Not covered by the rules" means that the rules do not apply to that person, because the person is not a doctor or a hospital.
 
-**The rules for his own work** (R1 to R26 in section 4.3) carry one of three tags: **[The rule says]**, **[Our reading]** or **[His own choice]**. "His own choice" means that no law requires it. He decides it for himself.
+**The rules for his own work** are R1 to R26 in section 4.3. Each carries one of three tags: **[The rule says]**, **[Our reading]** or **[His own choice]**. "His own choice" means that no law requires it. He decides it for himself.
 
 **Other words.**
 
@@ -56,8 +56,12 @@ In tables that show whether an act is allowed, this document writes **Yes**, **A
 ### The plan in five sentences
 
 1. He becomes known as the cardiologist who **teaches** patients, the public and young doctors, in Telugu and English. Every piece carries its sources, its numbers and his registration number. He never sells himself.
-2. Everything is built on **things he owns**: his name, his web domain, his e-mail list, his accounts, his papers, his society memberships and his own clinic's patient system. Nothing important depends on Apollo.
-3. He does not try to cover new topics. He uses four forms of teaching that nobody else uses. These are the numbered **"After the stent"** course, **"The first 60 minutes"** taught hands-on, the weekly **"Know your numbers"** Telugu card with sources and his signature and an English written version, and **case discussions for doctors** with a published method for checking AI.
+2. Everything is built on **things he owns**. These are his name, his web domain, his e-mail list, his accounts and his papers. They also include his society memberships and his own clinic's patient system. Nothing important depends on Apollo.
+3. He does not try to cover new topics. He uses four forms of teaching that nobody else uses:
+   - the numbered **"After the stent"** course;
+   - **"The first 60 minutes"**, taught hands-on;
+   - the weekly **"Know your numbers"** Telugu card, with sources, his signature and an English written version;
+   - **case discussions for doctors**, with a published method for checking AI.
 4. He starts **one main programme at a time**. First comes "Patients for life" in his own practice. Second come case discussions for doctors, open to registered doctors only. Third comes a measured "Heart School" group. Each programme counts its results and publishes them, including disappointing results.
 5. His **advantage with AI** is that he uses it openly and responsibly, not that he owns special tools. He gives patients Telugu explanations that AI drafts and he checks. He keeps an audited record of his own patients' results. He publishes a set of rules for his use of AI, and he teaches other doctors how to judge AI. He uses no AI copy of himself, no copy of his voice and no public chatbot.
 
@@ -125,7 +129,13 @@ The goals are fixed. This table shows the method that the research supports for 
 | **His Google reviews** | Where the reviews sit decides whether he can take them with him [17 §4.1]. | His friend, by looking in a browser |
 | **The hours he can protect; whether he is comfortable on camera; which style of Telugu he speaks in public; his budget** | These decide how often he publishes and which money level he chooses. | He does (see the questionnaire in `questions-and-open-items.md`) |
 
-**Do not publish these until he confirms them:** any count of years of experience ("over a decade"), any number of procedures, the IJSR paper as a main item, "co-authored NEJM", or any award [12].
+**Do not publish these until he confirms them** [12]:
+
+- any count of years of experience ("over a decade");
+- any number of procedures;
+- the IJSR paper as a main item;
+- "co-authored NEJM";
+- any award.
 
 ---
 
@@ -142,8 +152,8 @@ In the table below, "RMP" means registered medical practitioner, that is, a regi
 | Topic | The words of the rule (exact, from file 30), and what they mean | Label |
 |---|---|---|
 | What counts as advertising | Clause 3.2 covers communication that "directly or indirectly solicits, promotes or is intended to promote the professional services, reputation, skills, qualifications, achievements…" of a registered medical practitioner (RMP). Explanation I exempts information "without same being promotional and without any intent for commercial benefit". In plain words: anything that promotes a doctor's services or reputation is advertising. Information is exempt if it does not promote and does not aim to earn money. | The rule says |
-| Education is allowed | Clause 5.1 allows education "provided that such activities do not promote personal practice, do not solicit patients and are not monetized through promotional marketing". In plain words: he may educate if the education does not promote his practice, does not ask for patients and does not earn money through promotion. | The rule says |
-| Talks and media | Clause 8.2(iii) allows "lectures or talks on public health and diseases for public awareness through television, radio and electronic media in their own name and designation, without promoting their employer organization". In plain words: he may give talks on health and disease on television, radio and online, in his own name, if he does not promote his employer. Regulation 7.11 of the 2002 Regulations also allows writing "to the lay press under his own name on matters of public health". In plain words: he may write on public health for newspapers, in his own name. | The rule says |
+| Education is allowed | Clause 5.1 allows education "provided that such activities do not promote personal practice, do not solicit patients and are not monetized through promotional marketing". In plain words: he may educate under three conditions. The education does not promote his practice. It does not ask for patients. It does not earn money through promotion. | The rule says |
+| Talks and media | Clause 8.2(iii) allows "lectures or talks on public health and diseases for public awareness through television, radio and electronic media in their own name and designation, without promoting their employer organization". In plain words: he may give talks on health and disease on television, radio and online. He gives them in his own name and does not promote his employer. Regulation 7.11 of the 2002 Regulations also allows writing "to the lay press under his own name on matters of public health". In plain words: he may write on public health for newspapers, in his own name. | The rule says |
 | Research | Clause 8.2(i): "Only research-based communication, wherein they have published interesting case studies in reputed medical journals shall be allowed". In plain words: he may communicate about research when he has published the cases in a good medical journal. | The rule says (the wording is narrow) |
 | Reviews | Explanation V to clause 3.2: "An RMP shall not request or share patient testimonials, recommendations, endorsements or reviews for professional promotion on social media." In plain words: a doctor must not ask for or share patients' praise or reviews on social media to promote himself. The rule fully forbids asking for "fake, paid or misleading" reviews. | The rule says. Is an ordinary request for a Google review "professional promotion on social media"? That is **Our reading** |
 | Patient praise and consent | Clause 6.2 says that consent "shall not, by itself, make permissible any testimonial, endorsement, promotional patient story, before-and-after depiction, success claim…". In plain words: a patient's consent alone does not make patient praise, patient stories, before-and-after pictures or success claims allowed. The ban itself comes from Explanation V and clauses 8.1(ii), 8.1(v) and 8.1(xi). | The rule says |
@@ -153,10 +163,10 @@ In the table below, "RMP" means registered medical practitioner, that is, a regi
 | Offers that attract patients | Clause 8.1(x) forbids "discounts, limited-period offers… free procedures or similar inducements" that are likely to encourage care that is not needed. In plain words: he must not offer discounts, time-limited offers or free procedures to attract patients. | The rule says |
 | AI | Clause 7.2: "AI Generated promotional campaign for furtherance of commercial interest is prohibited". In plain words: he must not use AI to make advertising for business purposes. Clause 7.2(b) forbids any synthetic image or voice "purporting to be that of an actual patient, RMP or other person". In plain words: AI must not make a fake version of a real patient, doctor or other person. Clause 7.2(c) asks for a statement that AI was used where this matters. Clause 7.2(d) says that patient data put into AI must follow the privacy law. | The rule says |
 | Registration number on posts | Explanation III: a doctor's "Electronic media posts **should** transparently disclose their name, qualifications, registration status and SMR/NMR Registration number". In plain words: his online posts should show his name, qualifications, registration status and registration number. | The rule says, but the word is "should". Does this mean every post or only his profile? That is **Not decided** |
-| Formal announcements | Clauses 8.2(ii) and 9.3 allow announcements of these events: starting a practice, a change of address, a change in the type of practice, a temporary absence, a return to work, and a public statement of fees. Regulation 6.1.1 of 2002 says "in press". In plain words: the 2002 rule allows these announcements in newspapers. | The rule says. Which media he may use is **Not decided** |
+| Formal announcements | Clauses 8.2(ii) and 9.3 allow announcements of six events. These are starting a practice, a change of address and a change in the type of practice. They are also a temporary absence, a return to work, and a public statement of fees. Regulation 6.1.1 of 2002 says "in press". In plain words: the 2002 rule allows these announcements in newspapers. | The rule says. Which media he may use is **Not decided** |
 | Government campaigns | The Explanation without a number after clause 7.3: "All campaigns on programmes/schemes of Government of India and the state Governments, which are in larger public interest, shall be exempted". In plain words: campaigns for central or state government health programmes are exempt from these rules. | The rule says |
 | Hospitals | Clause 8.3 covers hospitals, not doctors. It forbids "promotional portrayal of an individual RMP". In plain words: a hospital must not show one doctor in a promotional way. | The rule says. It protects him from Apollo's marketing |
-| Signboard, fees and registration number | The 2002 Regulations: 7.13 says what the signboard may contain. 3.7.1 says that he must display his fees. 1.4.1 says that his registration number must appear in the clinic and on prescriptions. 6.1.2 forbids his photograph on letterheads and signboards. | The rule says. These rules bind him |
+| Signboard, fees and registration number | In the 2002 Regulations, Regulation 7.13 says what the signboard may contain. Regulation 3.7.1 says that he must display his fees. Regulation 1.4.1 says that his registration number must appear in the clinic and on prescriptions. Regulation 6.1.2 forbids his photograph on letterheads and signboards. | The rule says. These rules bind him |
 | Industry | Regulation 6.8.1 of 2002 forbids gifts from industry. It forbids travel paid by industry "as a delegate". It forbids hospitality "under any pretext". It forbids endorsing products. In plain words: he must not accept gifts, delegate travel or hospitality from companies, and must not endorse their products. The drug marketing code (UCPMP 2024) allows a company to pay travel and hospitality for a **speaker** at a CME or CPD event. The code has **no clause on speaker fees**. | The rule says [30 H1] |
 
 **Statements this plan must not make.** File 30 lists the mistakes that are most likely to happen:
@@ -193,14 +203,14 @@ In the table below, "RMP" means registered medical practitioner, that is, a regi
 | Group | Who | Facts that shape how he reaches them |
 |---|---|---|
 | The public, who should never need a cardiologist | Adults aged 25–55 who speak Telugu or English, families of patients, and people who work in the IT area of Hyderabad | In one study, 345 IT employees **chose** to be tested. 84% of them (84 of every 100) had fatty liver [31 1.8]. Only 12.6% of Indian adults with high blood pressure had it under control (about 13 of every 100; survey 2017–18) [31 1.3]. In 4,975 Indian patients with a first heart attack, risk calculators had called only about 20% (20 of every 100) high risk [31 1.9] |
-| Patients, past, present and future | His own patients, and all patients with a stent or a heart attack | In one registry, 99.7% of patients took a statin when they left hospital. At six months, only 70.0% did (70 of every 100) [31 1.6]. (A statin is a medicine that lowers LDL cholesterol.) Only 27.0% of treated patients with heart artery disease (27 of every 100) reached LDL-C of 50 mg/dL or less [31 1.5]. LDL-C is LDL cholesterol, the "bad" cholesterol |
+| Patients, past, present and future | His own patients, and all patients with a stent or a heart attack | In one registry, 99.7% of patients took a statin when they left hospital. At six months, only 70.0% did (70 of every 100) [31 1.6]. A statin is a medicine that lowers LDL cholesterol. Only 27.0% of treated patients with heart artery disease (27 of every 100) reached LDL-C of 50 mg/dL or less [31 1.5]. LDL-C is LDL cholesterol, the "bad" cholesterol |
 | Young doctors | Doctors training in cardiology for a DM or a DrNB (roughly 1,000–1,100 a year in India; about 440 in training in Andhra Pradesh and Telangana). Also young consultants and general practitioners (GPs) | The open teaching series have stopped. Paid coaching for exams leads the field [29, 31 1.27] |
 | People that online teaching does not reach | Telugu speakers in villages, older people, people who read little, and women | Only 26.5% of Telangana women (about 27 of every 100) had ever used the internet. In villages the figure was 15.8% (about 16 of every 100). Weekly radio reaches 2.1% of women (about 2 of every 100). Television reaches 75% (75 of every 100) [31 1.24, 1.26] |
 
 ### 3.4 The openings
 
 1. **"After the stent" as a numbered Telugu course.** Nobody runs a course from part 1 to part 10. Nobody teaches heart rehabilitation in Telugu [20].
-2. **"The first 60 minutes" taught hands-on.** Channels talk about CPR but do not teach it. There is no explanation of the AED (the defibrillator found in public places) made first in Telugu [20]. In the studies that a 2023 review used, people nearby gave CPR in only 1.3–9.8% of cases (between about 1 and 10 of every 100) [31 1.1].
+2. **"The first 60 minutes" taught hands-on.** Channels talk about CPR but do not teach it. There is no explanation of the AED (the defibrillator found in public places) made first in Telugu [20]. A 2023 review used several studies. In those studies, people nearby gave CPR in only 1.3–9.8% of cases (between about 1 and 10 of every 100) [31 1.1].
 3. **A numbered Telugu reference with sources and his signature,** in cards with English text. No Telugu cardiologist publishes text, sources, review dates or a registration number [20].
 4. **Open teaching for doctors, with a published method for checking AI.** The series for young doctors have stopped. Nobody has published how they check what AI produces [20, 29].
 5. **Programmes that measure results, and a clinic for prevention.** The research found no programme that measures results in the IT area of Hyderabad. It found no cardiology clinic there that puts prevention first [20, 26].
@@ -219,7 +229,7 @@ This section sets out 11 principles (P1 to P11), 7 objectives (O1 to O7) and 26 
 | P2 | **He builds on what he owns.** He can take every asset with him. He never builds his work on a hospital's platforms, because the hospital controls them. | 17 §4, 25 C3 |
 | P3 | **He wins through the form of his teaching, not through the topic.** He uses an order of lessons, sources, written text, measurement and teaching for doctors. He does not try to win by making many videos or by covering the newest topics. | 20 |
 | P4 | **Numbers come before opinions.** Every claim gives its source and its size. He states risk as "x in 100". He never uses fear. | 14, 19, 22 §4 |
-| P5 | **He gives information and also a way to act on it.** He calls something a prevention programme only if it has four parts: measurement, a way to treatment, repeated follow-up by a person, and a family member or friend who takes part. | 19, 24, 15 |
+| P5 | **He gives information and also a way to act on it.** He calls something a prevention programme only if it has four parts. These are measurement, a way to treatment and repeated follow-up by a person. The fourth is a family member or friend who takes part. | 19, 24, 15 |
 | P6 | **He protects patient privacy in every case.** No patient who can be identified appears in public, with or without consent. Real cases go only to journals, conferences and case discussions for doctors. | 11 §9(iv), 30 A3 |
 | P7 | **He approves everything.** Helpers and AI write drafts. He signs, and the log proves it. | 11, 22 §6.2, 30 (clause 4.4) |
 | P8 | **Telugu has full weight, and a person checks it.** A native Telugu speaker checks every Telugu item. Telugu produced by a machine is only a draft. | 14, 22 §4.7, 31 2.11 |
@@ -254,7 +264,7 @@ Year 1 ends in November 2027. Year 3 ends in November 2029 [22]. The targets are
 | Item | Detail |
 |---|---|
 | How it is measured | The number of "After the stent" parts published with their cards. How many of the 60 ranked questions he has answered [14]. Whether pieces pass the test with ordinary listeners. Hours of watching. |
-| Year 1 target | The 10-part course is published, and about 30 of the 60 questions are answered. In the test with ordinary listeners, 4 of 5 listeners understand every piece from a main programme. 1,500 public watch hours, as a target to reach for. (This is the level that YouTube Health requires.) |
+| Year 1 target | The 10-part course is published, and about 30 of the 60 questions are answered. In the test with ordinary listeners, 4 of 5 listeners understand every piece from a main programme. He aims for 1,500 public watch hours. (This is the level that YouTube Health requires.) |
 | Year 3 target | All 60 of the 60 questions are answered. 15,000–20,000 watch hours a year [22 P1]. He applies to YouTube Health once he can. |
 | Research files | 14, 20, 22, 31 2.8 |
 
@@ -302,7 +312,7 @@ Each rule carries a tag. **[The rule says]** means that the rule is in the text 
 
 - **R1. He registers first.** He publishes nothing with his name to a wide audience until his TGMC record is current. After that, every profile and every post carries his credential line. The line gives his name, his registered qualifications, "Interventional cardiologist, Hyderabad", his council and his number. It must match his certificate exactly [21, 11b]. [The rule says: Regulation 1.4.1 for the clinic and for prescriptions. Our reading: Explanation III asks for it on each post.]
 - **R2. The subject is the illness, not his own skill.**
-  - **No [The rule says]:** He must not *advertise* "personal achievements or professional success rates or number of patients treated" with "unverifiable or exaggerated claims". In plain words: he must not advertise his successes, his success rates or his patient numbers with claims that nobody can check or that are too large. He must not use words of superiority ("best", "No.1", "leading", "most trusted", "top"). This covers titles, thumbnail pictures, tags and image descriptions (clause 8.1(iii), (ix)).
+  - **No [The rule says]:** He must not *advertise* "personal achievements or professional success rates or number of patients treated" with "unverifiable or exaggerated claims". In plain words: he must not advertise his successes, his success rates or his patient numbers. This applies to claims that nobody can check, or that overstate the truth. He must not use words of superiority ("best", "No.1", "leading", "most trusted", "top"). This covers titles, thumbnail pictures, tags and image descriptions (clause 8.1(iii), (ix)).
   - **Yes [The rule says / Our reading]:** He may present his own combined results to other doctors in journals and conferences. Combined results means percentages and counts that show the total number of patients and identify nobody. The basis is clause 5.1 "academic discussions", clause 8.2(i) and the exception in clause 8.1(v). Once the results are published, he may mention them in a neutral way as published work. He gives a link and the total number of patients, and he does not compare himself with other doctors.
   - **Not decided:** telling the public his own results that are not yet published. Also, showing on his own website how well his patients' risk factors are controlled. (This is question 14 for the lawyer in section 3 of `questions-and-open-items.md`) [11 §9(iii), 30 A4].
 - **R3. He writes no sentence without a source.** Every fact claim has a line in the fact list (each fact with its source), and a person has opened the source. Every piece shows its main source and a "Medically checked / next review" date [22 §4.2]. [His own choice]
@@ -317,7 +327,7 @@ Each rule carries a tag. **[The rule says]** means that the rule is in the text 
   - **What matters is who speaks.** The Guidelines bind doctors and hospitals (clause 4.1). When a patient speaks without being asked, the words belong to the patient.
   - **The words become his act** if he asks for them, writes them, rewards them, shares them, quotes them, reposts them or links to them. They also become his act if he knowingly lets someone use them to promote him (clauses 4.4, 8.1(xi)). See §4A.
 - **R9. Examples follow the three-patient rule.** Each example combines features from at least three patients. He changes the age, sex, place, timing and one clinical detail. He uses nothing from the last six months. He labels the example "Illustrative scenario, not a real patient". A second person checks that nobody can be recognised [22 risk 1]. [His own choice]
-- **R10. Real cases appear only in journals, at conferences and in case discussions for doctors.** He follows the eight-step process for consent and for removing identity. Images on the public page of teaching cases come only from open-licence sets, from his own drawings or from his own published papers [11 §9(iv), 29]. [The rule says: Regulation 7.17, clause 8.1(v). Our reading: the three places]
+- **R10. Real cases appear only in journals, at conferences and in case discussions for doctors.** He follows the eight-step process for consent and for removing identity. Images on the public page of teaching cases come only from three places. These are open-licence sets, his own drawings and his own published papers [11 §9(iv), 29]. [The rule says: Regulation 7.17, clause 8.1(v). Our reading: the three places]
 - **R11. Private feedback is allowed. Asking for public reviews is not.**
   - **Yes [Our reading, with high confidence]:** He may ask patients for **private** feedback so that he can improve care. This can be a clinic form or a structured survey of patients' experience. He keeps it inside the clinic and never publishes or quotes it. This is outside the words of Explanation V, which covers reviews "for professional promotion on social media".
   - **No [The rule says]:** He must not ask for fake, paid or misleading reviews (Explanation V, first sentence). He must not **ask for** a public review. He must not **share, quote, repost or link** reviews or patient praise to promote himself (Explanation V, second sentence). Clause 3.6 defines social media broadly.
@@ -349,7 +359,7 @@ Each rule carries a tag. **[The rule says]** means that the rule is in the text 
 - **R22. His friend shares the teaching, but never praises the teacher.** No account praises him, offers him to the media or recommends him. His friend sees no patient data. Any payment to his friend is a fixed fee that does not depend on patients or on reach. His friend signs a one-page letter that says what his friend will and will not do [11 §9, 22 §6.2]. [Our reading: clause 8.1(ii), (xi)]
 - **R23. Every hour must build something he can take with him.** Each hour must build an asset he owns or a personal relationship. It must never build a hospital's page [17 §4.3]. [His own choice]
 - **R24. He keeps a firm limit on time, an order for cutting work, and one main programme at a time for each group of people.** When the load rises, he cuts conferences and new formats first. He never cuts consent, the case log, the checks in the patient system or the approval step [16 rule 15, 24]. [His own choice]
-- **R25. Some events stop all publishing on the same day.** These events are a council notice, a legal letter, a serious error, a concern about confidentiality, an objection from his employer, or an energy score of 2 or lower for two weeks [22 §6.3]. (A serious error is one that could cause harm. Section 6.4 defines the three levels of error.) [His own choice]
+- **R25. Some events stop all publishing on the same day.** These events are a council notice, a legal letter, a serious error and a concern about confidentiality. They also include an objection from his employer, or an energy score of 2 or lower for two weeks [22 §6.3]. (A serious error is one that could cause harm. Section 6.4 defines the three levels of error.) [His own choice]
 - **R26. Praise from other people must never be arranged.** Other people may praise him, cite him, nominate him or report on him in their own words. He never asks for it, writes it, rewards it, pays for it or arranges it (clause 8.1(xi) "intermediary", 8.1(xii)). He does not repost, quote or link praise of himself to promote himself (Explanation V; clause 4.4 "adopted"). He may list memberships and fellowships that are recognised and can be checked, as plain facts (2002 Regulation 1.4.2; the proviso in clause 8.1(ix)). [The rule says / Our reading] See §4A and §5.9.
 
 ---
@@ -378,11 +388,11 @@ This section follows a standing instruction from his friend (research brief, Add
 - **Clause 5.1:** education is allowed "provided that such activities do not promote personal practice, do not solicit patients and are not monetized through promotional marketing". The clause names "academic discussions".
   In plain words: he may educate if it does not promote his practice, does not ask for patients and does not earn money through promotion. Academic discussions are one form of education.
 - **Clause 6.1:** patient information or testimonials "shall not be used for advertising purposes except where … permitted by applicable law and the necessary consent and other safeguards". **Clause 6.2:** consent "shall not, by itself, make permissible any testimonial, endorsement, promotional patient story… success claim".
-  In plain words: patient information and patient praise may not be used for advertising unless the law allows it and consent and other protections are in place. Consent alone does not make patient praise, promotional patient stories or success claims allowed.
+  In plain words: patient information and patient praise may not be used for advertising. The exception is where the law allows it and consent and other protections are in place. Consent alone does not make patient praise, promotional patient stories or success claims allowed.
 - **Clause 8.1(ii):** a doctor shall not "solicit patients…, promote his/her professional services through self-promotion, engage any third party for marketing medical services, permit the use of their name, image, voice, testimonial or endorsement for promotion".
-  In plain words: he must not seek patients, promote himself, use another person to market his services, or let others use his name, image, voice or praise for promotion.
+  In plain words: he must not seek patients, promote himself, or use another person to market his services. He must not let others use his name, image, voice or praise for promotion.
 - **Clause 8.1(iii):** a doctor shall not "advertise either personal achievements or professional success rates or number of patients treated with illustrative assertions such as 'Guaranteed cures', 'Best doctors'… or any other unverifiable or exaggerated claims".
-  In plain words: he must not advertise his achievements, success rates or patient numbers with claims such as "guaranteed cures" or "best doctors", or with any claim that nobody can check or that is too large.
+  In plain words: he must not advertise his achievements, success rates or patient numbers with claims such as "guaranteed cures" or "best doctors". He must not use any claim that nobody can check or that is too large.
 - **Clause 8.1(v):** a doctor shall not publish cases for promotion or "promote personal success stories **unless published strictly for scientific or educational purposes with anonymized patient consent**".
   In plain words: he must not use cases or success stories for promotion. He may publish them only for science or education, with the patient's consent and without the patient's identity.
 - **Clause 8.1(ix):** no "best", "No.1", "leading", "most trusted", "top"… "unless the claim is objectively verifiable…". **Proviso:** "Any ranking or award relied upon in advertising shall be capable of independent verification, and material conditions, methodology and relevant date, details of award giving organization… shall be disclosed".
@@ -398,7 +408,7 @@ This section follows a standing instruction from his friend (research brief, Add
 
 ### 4A.2 What the clauses mean, in plain statements
 
-1. **The Guidelines do not control what a patient says on his or her own, without being asked.** They bind doctors and hospitals (clause 4.1). (The scope is "The rule says". How it applies here is "Our reading".) The patient's words become his act if he asked for them, wrote them, rewarded them, shared them, quoted them, reposted them or linked them. They also become his act if he knowingly let someone use them for promotion (Explanation V; clause 4.4; 8.1(xi)).
+1. **The Guidelines do not control what a patient says on his or her own, without being asked.** They bind doctors and hospitals (clause 4.1). (The scope is "The rule says". How it applies here is "Our reading".) The patient's words become his act in some cases. These are if he asked for them, wrote them, rewarded them, shared them, quoted them, reposted them or linked them. They also become his act if he knowingly let someone use them for promotion (Explanation V; clause 4.4; 8.1(xi)).
 2. **He may ask patients for private feedback to improve care. The words of the rules do not cover this.** Explanation V covers reviews "for professional promotion on social media". Clause 6.1 covers use "for advertising purposes". (Our reading, with high confidence.) Four conditions apply:
    - The purpose is to improve care.
    - The feedback goes to a private place (a clinic form or a survey).
@@ -406,7 +416,7 @@ This section follows a standing instruction from his friend (research brief, Add
    - He never publishes or quotes it as praise.
 3. **The text forbids asking for a public review. It also forbids sharing, quoting or reposting a review to promote himself** (Explanation V, second sentence, read with clause 3.6). Is a neutral, routine request for a Google review "for professional promotion"? Strictly, that is **Not decided**. This plan treats it as forbidden, because it brings only risk and no gain.
 4. **His own combined results go first to journals and conferences.** Combined results are percentages and counts that show the total number of patients and give no names or other identifying details. The rules allow this as "academic discussions" (clause 5.1). They allow it as "research-based communication… in reputed medical journals" (8.2(i)). It also fits the exception in 8.1(v) for work published "strictly for scientific or educational purposes with anonymized patient consent". (The rule says.) Once the work is published, he may mention it in public as published research. He does this neutrally, with a link and the total number of patients, and he does not compare himself with others. (Our reading.)
-5. **Clause 8.1(iii) is aimed at *advertising*.** It covers success rates, achievements or patient numbers stated with claims that cannot be checked or that are too large. (The rule says.) An audit that can be checked, is published, shows the total number of patients and is cited as research is a different act. Two acts are **Not decided**. One is telling the public results that are not published. The other is keeping figures on his website for how well his patients' risk factors are controlled. (This is question 14 for the lawyer, in section 3 of `questions-and-open-items.md`.)
+5. **Clause 8.1(iii) is aimed at *advertising*.** It covers success rates, achievements or patient numbers stated with claims that cannot be checked, or that overstate the truth. (The rule says.) An audit that is published and can be checked is a different act. It shows the total number of patients and is cited as research. Two acts are **Not decided**. One is telling the public results that are not published. The other is keeping figures on his website for how well his patients' risk factors are controlled. (This is question 14 for the lawyer, in section 3 of `questions-and-open-items.md`.)
 
 ### 4A.3 Who may say what: one table for each speaker
 
@@ -429,7 +439,7 @@ This section follows a standing instruction from his friend (research brief, Add
 | Ask for a public review | No: Explanation V, second sentence, with clause 3.6 (The rule says). A "routine neutral request" is Not decided, and this plan treats it as No |
 | Reply to, like, reshare, quote or link other people's words | Sharing, quoting, reposting or linking praise: No, Explanation V and clause 4.4 "adopted" (The rule says / Our reading). Replying to or liking a good review: Ask a lawyer (Not decided; the default is no). A fixed reply to a bad review: Yes (Our reading). Resharing other people's *teaching* or research with credit: Yes (Our reading) |
 | Be praised or cited by others | Not applicable (see the other speakers) |
-| Nominate others or be nominated | Nominating others (young doctors he guides, colleagues): Yes (Our reading). Nominating himself for fellowships that select on merit, through their published process: Yes (Our reading). Awards that he pays for or that are won by paying: No, the proviso in clause 8.1(ix) and clause 8.1(xii) (The rule says / Our reading) |
+| Nominate others or be nominated | Nominating others (young doctors he guides, colleagues): Yes (Our reading). Nominating himself for fellowships that select on merit, through their published process: Yes (Our reading). Awards that are won by paying: No. The basis is the proviso in clause 8.1(ix) and clause 8.1(xii) (The rule says / Our reading) |
 | What he must not do | Not applicable. This whole table is about him |
 
 **Speaker 2: a patient who acts on his or her own**
@@ -445,7 +455,7 @@ This section follows a standing instruction from his friend (research brief, Add
 | Reply to, like, reshare, quote or link other people's words | Not covered by the rules: the patient may post, praise or criticise anywhere (the scope in clause 4.1) (Our reading) |
 | Be praised or cited by others | Not covered by the rules |
 | Nominate others or be nominated | Not covered by the rules |
-| What he must not do | Ask for the patient's words, write them, reward them, thank the patient in public, repost them, quote them or link them (Explanation V, clause 4.4, clause 8.1(xi) "use or permit") |
+| What he must not do | Ask for the patient's words, write them or reward them. Thank the patient in public. Repost, quote or link the patient's words. (Explanation V, clause 4.4, clause 8.1(xi) "use or permit") |
 
 **Speaker 3: other doctors, young doctors he guides, and doctors in training**
 
@@ -474,7 +484,7 @@ This section follows a standing instruction from his friend (research brief, Add
 | Ask for a public review | Not applicable |
 | Reply to, like, reshare, quote or link other people's words | Yes: they publicise their own programme |
 | Be praised or cited by others | Yes: invitations, fellowships and citations |
-| Nominate others or be nominated | Yes: they give fellowships and awards. He may list recognised memberships or honours that meet Regulation 1.4.2. If he uses an award in what he publishes, people must be able to check it, and he must state the body, the date and the method (the proviso in clause 8.1(ix)) (The rule says) |
+| Nominate others or be nominated | Yes: they give fellowships and awards. He may list recognised memberships or honours that meet Regulation 1.4.2. He may use an award in what he publishes. Then people must be able to check it, and he must state the body, the date and the method. (The proviso in clause 8.1(ix); The rule says) |
 | What he must not do | Buy awards. Apply for "top doctor" awards that are bought or given without a real selection. Claim more than is true (for example "co-authored NEJM") |
 
 **Speaker 5: journalists**
@@ -530,7 +540,7 @@ This section follows a standing instruction from his friend (research brief, Add
 | Publish research | Yes, with a statement that AI was used (journal rules) |
 | Give his own combined results to other doctors | Yes, for analysis under proper controls (clause 7.2(d)) (The rule says) |
 | Give his own combined results to the public | Not applicable |
-| Ask for private feedback | Ask a lawyer: AI may summarise private feedback only if the feedback identifies nobody and follows the data protection law (clause 7.2(d)) (The rule says / Our reading) |
+| Ask for private feedback | Ask a lawyer. AI may summarise private feedback only if the feedback identifies nobody. It must also follow the data protection law (clause 7.2(d)) (The rule says / Our reading) |
 | Ask for a public review | Not applicable |
 | Reply to, like, reshare, quote or link other people's words | No: reviews or praise made by AI (clauses 7.2(b), 8.1(xii)) (The rule says) |
 | Be praised or cited by others | No: praise made by AI "purporting to be that of an actual patient, RMP or other person" (clause 7.2(b)) (The rule says). In plain words: AI must not make praise that pretends to come from a real patient, doctor or other person |
@@ -578,7 +588,7 @@ This section follows a standing instruction from his friend (research brief, Add
 - Did he **choose** among them?
 - Did he **use** them in advertising?
 
-New Zealand's wording is closest to his friend's view. It says that a doctor must not encourage patient praise, but "you are not responsible for any unsolicited testimonials or comments" on media "over which you do not have control". In plain words: a doctor is not responsible for praise or comments that he did not ask for, on media that he does not control. India's rule on requests uses narrower words than Singapore's rule ("any media"). But India's definition of social media is wide enough to reach a similar result. File 32 found no Indian court ruling on praise that a third person gives without being asked. (The research did not read the texts of the GMC, Ontario and Singapore at the source.)
+New Zealand's wording is closest to his friend's view. It says that a doctor must not encourage patient praise. It also says: "you are not responsible for any unsolicited testimonials or comments" on media "over which you do not have control". In plain words: a doctor is not responsible for praise or comments that he did not ask for, on media that he does not control. India's rule on requests uses narrower words than Singapore's rule ("any media"). But India's definition of social media is wide enough to reach a similar result. File 32 found no Indian court ruling on praise that a third person gives without being asked. (The research did not read the texts of the GMC, Ontario and Singapore at the source.)
 
 **The three ways forward, with the working documents:**
 
@@ -614,7 +624,7 @@ New Zealand's wording is closest to his friend's view. It says that a doctor mus
 
 **Main point:** he cannot do everything the research suggests. Each research file planned its own work as if it were the only work. Added together, they ask for about 15–20 hours a week from him and 15–25 hours from his friend [25 C10]. This plan is written to a clear limit on time.
 
-**Assumption, to be confirmed by a diary of his time for two weeks:** he gives **4 hours a week and his friend gives 6 hours a week**. He pays for help only where his money level allows it. These hours are averages. In the first 30 days he also needs about 4–6 hours a week for one-off paperwork [21].
+**Assumption:** he gives **4 hours a week and his friend gives 6 hours a week**. A diary of his time for two weeks will confirm this. He pays for help only where his money level allows it. These hours are averages. In the first 30 days he also needs about 4–6 hours a week for one-off paperwork [21].
 
 | His work (from month 4, when the work is steady) | Minutes a week | What it covers |
 |---|---|---|
@@ -656,7 +666,7 @@ His friend never sees patient data [11 §9].
 
 ### 5.1 How he presents himself
 
-- **What it is.** One line describes him, for internal use only: "the Telugu-speaking cardiologist who teaches, with sources, numbers and a registration number on everything; hospital-neutral; and who also teaches doctors". He never uses this line as a slogan. "Evidence-based Telugu cardiologist" is the claim that everyone makes by default [20].
+- **What it is.** One line describes him, for internal use only: "the Telugu-speaking cardiologist who teaches, with sources, numbers and a registration number on everything; hospital-neutral; and who also teaches doctors". He never uses this line as a slogan. Everyone makes the claim "evidence-based Telugu cardiologist" by default [20].
 - **Why.**
   - No leading channel publishes sources, review dates, written text or a registration number. None runs a course or programmes that measure results [20 §2f].
   - Written text reaches reporters. Dr Sudhir Kumar works in this way: reporters pick up his written posts and write stories from them [13].
@@ -666,7 +676,7 @@ His friend never sees patient data [11 §9].
   - Daily short videos.
   - Comments on named people's illnesses.
   - Food tips.
-  - A news feed on "new studies".
+  - A news feed about each "new study".
   - General medicine.
   - A round of interviews with channels that collect doctor interviews. Some of these channels are defendants in a 2026 civil case in Hyderabad [20 §3d].
   - Short Instagram videos.
@@ -688,7 +698,8 @@ His friend never sees patient data [11 §9].
 - **What it is.** Every patient of **his own practice** who has had a heart attack (ACS), a stent (PCI) or heart failure receives these things:
   - a one-page heart summary for the patient (in Telugu and English);
   - an explanation in plain Telugu, drafted by AI from details that identify nobody, then corrected and signed by him;
-  - a card that lists the medicines, and a check before the patient leaves that the patient can repeat the instructions in his or her own words;
+  - a card that lists the medicines;
+  - a check, before the patient leaves, that the patient can repeat the instructions in his or her own words;
   - a note for the family, where heart disease came early in life;
   - phone calls on days 3, 30, 90, 180 and 365;
   - a place on the weekly list of patients who need attention. He increases the medicine dose whenever LDL-C is above 55 mg/dL.
@@ -763,7 +774,7 @@ His friend never sees patient data [11 §9].
 
 | Item | Detail |
 |---|---|
-| What it is | One card for each main video, as an image and a PDF that people can forward. There is also an English post of 250–400 words on LinkedIn or X on the same topic. Each card and post carries sources, a review date and his registration number. The first items are: the "How I source what I say" page; the card on numbers; "LDL: one number, three targets"; blood pressure at home; and how much food, salt, weight and walking can change blood pressure, in mmHg [20] |
+| What it is | One card for each main video, as an image and a PDF that people can forward. There is also an English post of 250–400 words on LinkedIn or X on the same topic. Each card and post carries sources, a review date and his registration number. The first five items are these. (1) The "How I source what I say" page. (2) The card on numbers. (3) "LDL: one number, three targets". (4) Blood pressure at home. (5) How much food, salt, weight and walking can change blood pressure, in mmHg [20] |
 | Why | No other doctor offers written text like this. It reaches family WhatsApp groups and reporters [20] |
 | Cost for him, for his friend and in money | 20 minutes a week for him to check the card. 20–45 minutes for the English post; his friend drafts it from the recording's written text. He must post on LinkedIn himself, because sharing the account breaks LinkedIn's terms [31 2.14] |
 | What he does not do | He does not name channels or people. He uses no brand names and no titles that cause fear |
@@ -810,7 +821,7 @@ His friend never sees patient data [11 §9].
   - **FESC:** the application window is about 15 June to 30 September 2028. He needs 3 papers in indexed journals, including one original study. (The date is estimated from the pattern of earlier years.) [16]
 - **First paper (a decision made in this plan).** The paper should be something he can take with him, and it should use no patient data. It is **an audit of the 50 most-viewed Telugu YouTube videos on heart attack, cholesterol or stents**. It uses DISCERN, GQS and PEMAT-AV, which are published tools for scoring the quality of health information. Young doctors are co-authors [22 item 14].
   - No audit of Telugu videos is indexed yet.
-  - The paper gives him a neutral basis, which others can cite, for explaining why he teaches. He does not need to name anyone in public.
+  - The paper gives him a neutral basis, which others can cite, for "why I teach". He does not need to name anyone in public.
   - He reports the results as combined figures. If the paper names anyone, a lawyer reads it first.
   - It takes 20–30 hours, shared across a small team.
 - **The second source of data** is the audit of "Patients for life". An independent, registered ethics committee approves it (ICMR 2017 §4.2.5). Or a partner's committee approves it under a memorandum of understanding (MoU) (§4.2.2). Apollo's ethics committee for biomedical research (IEC-BMR) is another route [16]. He uses it **only** if Apollo agrees in writing to terms on data and authorship that still apply after he leaves [25 C16].
@@ -905,7 +916,7 @@ The basic costs of the practice are in a separate budget, because the clinic nee
 
 In total this is about Rs 1.2–2 lakh.
 
-The net amount he pays from his own money, according to file 28's scenarios, is Rs 3–8 lakh in year 1, Rs 8–12 lakh in year 2 and Rs 5–10 lakh in year 3, if he moves to the Standard level. (The research has low confidence in these figures.)
+File 28's scenarios give the net amount he pays from his own money. It is Rs 3–8 lakh in year 1. If he moves to the Standard level, it is Rs 8–12 lakh in year 2 and Rs 5–10 lakh in year 3. (The research has low confidence in these figures.)
 
 **A tax risk.** His **first** taxable side income, for example a fee for a talk, may make him register for goods and services tax (GST). The reason is that his clinical income, which is exempt from GST, counts towards the Rs 20 lakh threshold. He sees the chartered accountant before he accepts any paid talk [28 §1.5].
 
@@ -923,7 +934,7 @@ The net amount he pays from his own money, according to file 28's scenarios, is 
 
 | Route | What happens | What he must not do |
 |---|---|---|
-| **1. Private measurement of patients' experience and results** | His own clinic collects two things privately. One is a short, structured questionnaire about patients' experience. The other is the "Patients for life" measures of results: whether the patient can repeat the instructions in his or her own words, whether patients keep taking medicines, and LDL at goal. He uses them to improve care. He reports them in the published audit as combined figures that identify nobody (clauses 5.1, 8.2(i), the exception in 8.1(v)). Consent and a data protection notice are needed, as for the record of patients' results [24] | Turn it into a drive for reviews. Send people who answer to public review websites. Publish, quote or take extracts from comments. Offer anything in return |
+| **1. Private measurement of patients' experience and results** | His own clinic collects two things privately. One is a short, structured questionnaire about patients' experience. The other is the "Patients for life" measures of results. These are whether the patient can repeat the instructions in his or her own words, whether patients keep taking medicines, and LDL at goal. He uses them to improve care. He reports them in the published audit as combined figures that identify nobody (clauses 5.1, 8.2(i), the exception in 8.1(v)). Consent and a data protection notice are needed, as for the record of patients' results [24] | Turn it into a drive for reviews. Send people who answer to public review websites. Publish, quote or take extracts from comments. Offer anything in return |
 | **2. Work by young doctors under their own names** | Papers, case reports, talks and chapters of the public page of teaching cases, where young doctors are first authors or presenters. Thanks to him in their papers. Their own posts about what they learned | Write praise for them to sign. Ask them to post about him. Accept a place as author without doing the work. Repost their praise of him (he may reshare their *work* with credit) |
 | **3. Recognition from independent bodies** | Citations. Invitations to teach at events. Fellowships (FSCAI, FESC, FACC, FICC) through published criteria and members who support the application. Awards from bodies with a stated method. He lists them as facts where Regulation 1.4.2 allows. People must be able to check them, as the proviso in clause 8.1(ix) requires | Buy awards, or apply for "top doctor" awards that are bought or given without a real selection. Ask supporters to publicise him. Use an award without naming the body, the date and the method. Claim more than is true (for example "co-authored NEJM") |
 | **4. Independent registries and accreditation** | He contributes data to registries run by societies or national bodies. Later, his clinic may get NABH accreditation. He publishes an audit that other experts review. He may state the accreditation as a fact (clauses 8.3(i) and 9.1 for institutions) | Present his part in a registry as a ranking. Compare himself with other doctors |
@@ -949,7 +960,7 @@ The net amount he pays from his own money, according to file 28's scenarios, is 
 | **Telugu checker** | A Telugu health journalist, a teacher or a retired lecturer. Paid for each item (about Rs 1,000 for each set of material is an assumption [28]) | Edits every Telugu item. Translates every instruction about medicines, emergencies or symptoms back into English to check it. Runs tests with ordinary listeners. Points out problems of dialect, religion and caste [22 §4.7] | Never changes the clinical meaning |
 | **A second doctor who checks** | A colleague who is a cardiologist or a physician. Each checks the other's work | Signs the items that need a second doctor's check. These items are medicines, emergencies, procedures, criticism and illustrative scenarios [22 §4.8] | No limit is listed |
 | **Clinic nurse or coordinator** | Staff of his own practice | Makes the "Patients for life" calls. Checks that patients can repeat the instructions in their own words. Keeps the list of patients who need attention | Never uses the patient list to promote the clinic |
-| **Advisory group** (five people) | A senior cardiologist who guides him; a health lawyer (kept on a paid retainer); a person who evaluates public-health programmes (for example IIPH Hyderabad); a patient representative (who never appears in content); a Telugu editor | Meets twice a year and reads the quarterly page. Is available when an event stops publishing [22 §6.1] | Employees of industry may not be members |
+| **Advisory group** (five people) | A senior cardiologist who guides him. A health lawyer (kept on a paid retainer). A person who evaluates public-health programmes (for example IIPH Hyderabad). A patient representative (who never appears in content). A Telugu editor | Meets twice a year and reads the quarterly page. Is available when an event stops publishing [22 §6.1] | Employees of industry may not be members |
 | **Chartered accountant** | Engaged when needed | Advises on GST, tax deducted at source, the choice of legal entity, and the account headings [28 §6.2] | No limit is listed |
 
 He and his friend sign a one-page letter that says what his friend will and will not do. The letter records these points [11, 22]:
@@ -971,7 +982,7 @@ He and his friend sign a one-page letter that says what his friend will and will
 | Thursday | Every two weeks: the case discussion for doctors (about 45 minutes live, plus preparation the evening before) | Practical work for the session: registration, polls, the public page of teaching cases |
 | Friday | 20 minutes writing down new cases. 25 minutes (on average) on a paper or a submission | Sends items to the second doctor who checks. Listings and watching the accounts |
 | Saturday | 30 minutes approving one batch (everything for the next week). His energy score | Schedules only approved items |
-| Each month | One session of "The first 60 minutes" (about 2 hours). 20 minutes on the audio note for people who are not online (recorded in batches each quarter) | Bookings with partners, the data sheet, and a monthly search for his name online |
+| Each month | One session of "The first 60 minutes" (about 2 hours). 20 minutes on the audio note for people who are not online. He records these notes in batches each quarter | Bookings with partners, the data sheet, and a monthly search for his name online |
 
 The days are examples. He fixes his own times. He follows the rule "never miss twice". If he misses a slot, the work moves to the next day. It never moves to a third day [06].
 
@@ -1101,7 +1112,7 @@ The likelihood is over three years. The list comes from file 22's list of 23 ris
 |---|---|
 | Likelihood and impact | Likelihood medium (high if he names products). Impact high |
 | Early warning | A letter from a lawyer. A brand tags him online |
-| How to reduce it | He criticises claims, not people. A lawyer reads before he names anyone. He keeps a file of evidence. He learns from two Indian cases [22 §3.1]. In the first, Himalaya Wellness sued Dr Cyriac Abby Philips ("TheLiverDoc"). His account was suspended, nine posts were hidden, a court order stopping him from speaking was still reported in July 2024, and a journal withdrew his paper. In the second, a drug company brought a criminal defamation case against Dr Chandra Gulhati, which lasted about ten years |
+| How to reduce it | He criticises claims, not people. A lawyer reads before he names anyone. He keeps a file of evidence. He learns from two Indian cases [22 §3.1]. In the first, Himalaya Wellness sued Dr Cyriac Abby Philips ("TheLiverDoc"). His account was suspended and nine posts were hidden. In July 2024 a court order still stopped him from speaking about the company. A journal withdrew his paper. In the second, a drug company brought a criminal defamation case against Dr Chandra Gulhati, which lasted about ten years |
 | Who is responsible | He and the lawyer |
 
 **Risk 7. Someone complains to the regulator under the Guidelines (most likely another doctor or a competitor)**
@@ -1178,7 +1189,7 @@ The full version is in file 22 §3.3.
 | Many people attack him online at once | His friend takes over the notifications. He stops reading | Record the attacks, block the accounts and report them. Go to the police if there are threats |
 | A fake video or audio made with AI | Ask the platform to remove it, citing the rule on pretending to be someone | Publish a public notice. Complain to the police and the cybercrime unit. Inform the council |
 
-**Five holding statements, approved in advance,** cover an error, a claim by a patient, a legal matter, someone pretending to be him, and a pause [22 §3.3].
+**He has five short statements, approved in advance, for a first public reply** [22 §3.3]. They cover an error, a claim by a patient, a legal matter, someone pretending to be him, and a pause.
 
 **He calls the lawyer within the same hour for:**
 
@@ -1234,7 +1245,7 @@ The full version is in file 22 §3.3.
 | 11 | One file named a programme "in his own name" [17]. Others said not to name it after him [15, 19, 24] | The names describe the programmes. He is named as the registered medical lead | 25 C9 |
 | 12 | Time. Each file planned its own work alone (in total 15–20 hours a week for him) | A clear assumption of 4 hours for him and 6 for his friend, with versions for 2 and 6 hours | 25 C10 |
 | 13 | Some files said he should reply to reviews with a template [02, 10]. Another said he should not reply to good reviews [11] | Private feedback is allowed. Asking for public reviews and sharing them are forbidden. Replying to or liking good reviews is Ask a lawyer (the default is no) until the lawyer answers. Bad reviews get one fixed reply | 11 §3, 25 C11, §4A |
-| 14 | Some files said an AI voice or dubbing is acceptable if he says so [02 said ask a lawyer, 05]. Others said never [18, 02 rule 12] | Never (his own choice, in every case). Dubbing is only a question for the lawyer | 18, 25 C12 |
+| 14 | Some files said an AI voice or dubbing is acceptable if he says so [02, 05]. File 02 said it was not clear and a lawyer should be asked. Others said never [18, 02 rule 12] | Never (his own choice, in every case). Dubbing is only a question for the lawyer | 18, 25 C12 |
 | 15 | One file called Citizens "his own second hospital" [15]. Another said Citizens has removed him [12] | Treat Citizens as an outside partner that is an AHA training centre. He confirms the status | 12, 25 C13 |
 | 16 | One file said to use a registration line with a Telangana number [02]. Another said to add the APMC number to his profiles now [12]. Another said to publish nothing until this is settled [11] | Nothing public until his TGMC status is confirmed. Most likely he needs a renewal [21] | 11, 21, 25 C14 |
 | 17 | Some files said to publish results figures [07, 18, 19]. Others said these are forbidden as success claims [02, 10] | His own combined results (identifying nobody) go to journals and conferences first (clauses 5.1, 8.2(i), the exception in 8.1(v)). After that he mentions them neutrally as published work. Clause 8.1(iii) forbids *advertising* success rates. Results that are not published, or that are kept on show as a standing public claim, are Not decided | 15, 22 risk 19, 25 C15, §4A |
@@ -1307,7 +1318,7 @@ These are short pointers. The full lists are in `questions-and-open-items.md`.
   - Slots on Akashvani and Doordarshan.
   - The editors of Telugu health pages.
   - Telegram groups for young doctors in training.
-- **Dates estimated from earlier years:** about half the conference dates for 2027 and all the dates for 2028 are estimates based on the pattern of earlier years. Check them again each month [16].
+- **Dates estimated from earlier years:** about half the conference dates for 2027 are estimates based on the pattern of earlier years. All the dates for 2028 are estimates of this kind. Check them again each month [16].
 
 ---
 
@@ -1316,7 +1327,7 @@ These are short pointers. The full lists are in `questions-and-open-items.md`.
 This section lists requirements only. It does not design the system.
 
 1. **Two separate paths.** The system for public teaching must be built so that it cannot receive patient data. Any clinical tool is separate and properly controlled. It works under a contract on data handling and with the patient's consent. It follows the data protection law (DPDP) from 13 May 2027 [18, 21, 30].
-2. **A person approves every item.** Nothing is published or posted automatically without his logged approval of the final item, including its descriptions. The log records who approved, the time, the sources and the result of the checklist [11, 30 clause 4.4].
+2. **A person approves every item.** Nothing is published or posted automatically without his logged approval of the final item, including its descriptions. The log records who approved, the time, the sources and the result of the checklist [11, 30 cl. 4.4].
 3. **It drafts only from given sources.** It drafts from sources that he supplies and from his own words. It never supplies the references he relies on. It takes every claim into a fact list (each fact with its source) so that a person can check it [22 §4.5].
 4. **It has compliance checks built in.**
    - It checks all text and descriptions against the list of warning words (in English and Telugu).
@@ -1334,7 +1345,7 @@ This section lists requirements only. It does not design the system.
    - The log of times when publishing stopped.
    - The data for the quarterly review.
 9. **It tracks the calendar and deadlines.** Each month it checks dates that were estimated from earlier years against the organisers' websites. It tracks the next review date for every published piece.
-10. **He owns everything, and others get only limited access.** He owns all accounts. His friend and the system use roles that he grants, not his passwords. (LinkedIn accounts cannot be shared.) The written instructions and the AI instructions are recorded, so that a backup person can keep the smallest amount of work going.
+10. **He owns everything, and others get only limited access.** He owns all accounts. His friend and the system use roles that he grants, not his passwords. (LinkedIn accounts cannot be shared.) The written instructions and the AI instructions are recorded. Then a backup person can keep the smallest amount of work going.
 11. **It protects his time and energy.** It records his weekly hours and his energy score. It enforces the limit on time and the rules for when to stop publishing. It does not try to produce as much as possible.
 12. **It enforces the rules on who may say what.** It tags each item by speaker and act (§4A). It blocks resharing, quoting or linking praise of him. It keeps private feedback out of every public item. The only exception is combined figures that identify nobody and that have already been published.
 13. **It measures honestly.** It reports the total number behind each figure. It counts patients lost to follow-up as not at goal. It holds no measures that count new patients.
@@ -1353,6 +1364,7 @@ This section lists requirements only. It does not design the system.
 | ASHA | Accredited Social Health Activist (a village health worker) |
 | BLS | Basic Life Support (a training course in CPR) |
 | BP | Blood pressure (used only inside a quotation) |
+| cl. | Clause (used only inside source tags in square brackets) |
 | cath lab | Catheter laboratory (the room where heart procedures are done) |
 | CC BY-NC-ND 4.0 | A Creative Commons licence: others may share the work with credit, but not for money and not in a changed form |
 | CGHS | Central Government Health Scheme |

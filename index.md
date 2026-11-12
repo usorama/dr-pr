@@ -1,11 +1,13 @@
 # Index: the Dr. Avinash Pathuri reputation and lighthouse project
 
-**What this folder is:** six rounds of research (files 00–32 in `research/`) and their synthesis (`synthesis/`). The plan is for one doctor and one helper friend: **teach, don't sell**. It is built on owned assets, with a lawful AI edge and a three-ring lighthouse.
+**What this folder is:** six rounds of research (files 00–32 in `research/`) and their synthesis (`synthesis/`). The plan is for one doctor and one helper friend: **teach, don't sell**. It is built on things he owns. It gives him a lawful advantage with AI. It serves three groups of people: his patients, young doctors and the public.
 
 **Status, 12 Nov 2026:**
 - Files 30 and 31 are fact-checks that **override every other file**.
 - `synthesis/` supersedes the "So what" sections of files 01–29 wherever they disagree.
-- File 32 (voice map and earned voice, round 6) is in the folder and merged into `synthesis.md` §4A.4. Use it for any "who may say what" question: it has the full 13 × 15 grid, the comparative regulators, a model consent line, a neutral feedback form (English and a working Telugu draft), the three answers to "where can I leave a review?", wording for stating results, a decision aid and 12 worked examples.
+- File 32 (who may say what, and praise that other people give on their own; round 6) is in the folder and merged into `synthesis.md` §4A.4. Use it for any question about who may say what. It has the full 13 × 15 grid, the comparative regulators, a model consent line, a neutral feedback form (English and a working Telugu draft), the three answers to "where can I leave a review?", wording for stating results, a decision aid and 12 worked examples.
+
+**Writing standard.** `synthesis/plain-english-guide.md` sets the plain-English rules for every document in this project. `synthesis/synthesis.md` and `synthesis/action-plan.md` were rewritten to that standard on 12 November 2026. Their section numbers and the identifiers P1 to P11, O1 to O7 and R1 to R26 did not change.
 
 ## Start here (reading order)
 
@@ -28,7 +30,7 @@
 | Who may say what: patients, trainees, journalists, reviews, results | synthesis §4A, §5.9; 32 (full grid and model wording); 30 A3–A5 |
 | The Telugu competition and the positioning | 20 (13 and 04 superseded on channel facts) |
 | What to teach and in what words; the 60 questions; the myths | 14 |
-| The three flagships, step by step | 24 (19 for the evidence base; 15 for CPR and GP teaching) |
+| The three main programmes, step by step | 24 (19 for the evidence base; 15 for CPR and GP teaching) |
 | Going independent: exit sequence, portability, practice models | 17 §4–§8; 26 for corridor market facts |
 | Money: lawful income, budgets, tax | 28 |
 | AI: what is an edge; the charter; what not to do | 18 (Telugu speech-recognition error rate per 31) |
