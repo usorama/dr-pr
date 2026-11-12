@@ -5,8 +5,8 @@
 ## Executive summary
 
 1. **Demand is measurable and it is basic.** Google/YouTube autosuggest (India; English, Hindi, Telugu), Google Trends for Telangana and Telugu YouTube view counts all point to the same questions: heart-attack symptoms, "gas or heart", what to do at home, cholesterol and BP "how much should it be", what an ECG/echo/TMT/angiogram is and costs, stent vs bypass, and life after a stent. Telugu users literally type "స్టెంట్ తర్వాత ఎన్ని రోజులు విశ్రాంతి" and "గ్యాస్ నొప్పి మరియు గుండెపోటు మధ్య తేడా".
-2. **The Telugu supply is dominated by non-cardiologists.** Naturopathy channels (Dr. Manthena Official 37.9 lakh subscribers; Good Health 31.4 lakh; Health Mantra 24.8 lakh) own "cholesterol", "BP" and "heart cleaning" with multi-million-view videos. Two Telugu cardiologist channels have real scale (Dr M S S Mukharjee/Pulse Heart 4.95 lakh; Dr. Movva Srinivas 3.18 lakh), but their best-performing titles lean on food claims and alarm. A calm, numbers-and-sources Telugu voice is still open.
-3. **There is a strong, citable Indian evidence base** for almost every topic: first heart attack about 6 years earlier in South Asians (INTERHEART), 84% fatty liver in 345 Hyderabad IT employees, only 21% BP control in IHCI districts (incl. Telangana), only 27% of Indian CAD patients at LDL ≤50 mg/dL, median 5–6 hours from symptoms to hospital, women treated less, 0.26% cardiac-arrest survival in Telangana ambulance data, and ICMR/AIIMS studies finding no vaccine link to sudden deaths. Two results from **last week** (AHA, 7 Nov 2026) change the script: the Lp(a) drug pelacarsen failed (Lp(a)HORIZON), and the Indian Yoga-CaRe HF trial improved quality of life.
+2. **The Telugu supply is dominated by non-cardiologists.** Naturopathy channels (Dr. Manthena Official 37.9 lakh subscribers; Good Health 31.4 lakh; Health Mantra 24.8 lakh) own "cholesterol", "BP" and "heart cleaning" with multi-million-view videos. Two Telugu cardiologist channels have real scale (Dr M S S Mukharjee/Pulse Heart 4.95 lakh; Dr. Movva Srinivas 3.18 lakh). The most-viewed titles on one lean on food claims and alarm; the other's top video is a plain angiogram explainer with 22 lakh views, which shows calm procedure content can travel. A numbers-and-sources Telugu voice is still open.
+3. **There is a strong, citable Indian evidence base** for almost every topic: first heart attack about 6 years earlier in South Asians (INTERHEART), 84% fatty liver in 345 Hyderabad IT employees, only 21% BP control in IHCI districts (incl. Telangana), only 27% of Indian CAD patients at LDL ≤50 mg/dL, median 5–6 hours from symptoms to hospital, women treated less, 0.26% survival after out-of-hospital cardiac arrest in a Telangana district-hospital series, and ICMR/AIIMS studies finding no vaccine link to sudden deaths. Two results from **last week** (AHA, 7 Nov 2026) change the script: the Lp(a) drug pelacarsen failed (Lp(a)HORIZON), and the Indian Yoga-CaRe HF trial improved quality of life.
 4. **Recommended signature point of view:** lead with **"After the stent — the second half of treatment nobody explains"** (least crowded, closest to his daily work, highest unmet Telugu demand), run **"The first 60 minutes"** as the community flagship, and use **"Know your numbers"** as the standing prevention format for the IT corridor. Treat "heart attacks at 35" as a news-peg topic, not an identity; hold "when you do not need a stent" as a tone ("right test, right time") until credibility is banked.
 5. **Deliverables in this file:** 60 ranked questions with Telugu phrasings for the top 20; an evidence table with primary sources; a 15-item misinformation map with fact-first lines; craft rules (plain language, numbers, analogies, Telugu register); five point-of-view candidates scored; six pillars, a 52-week calendar (English + Telugu, public / peer / community columns) and 20 evergreen explainer assets; a peer-facing plan with the 2026–27 trial and guideline pipeline.
 
@@ -44,7 +44,7 @@ India-level state ranking for "heart attack" search interest (Trends, 12 months)
 | Telugu Health Focus | Interview aggregator | 2.86 lakh | "Stent or Bypass, which is better?" 2.8 lakh; "How To Clear Heart Blockage Naturally" 4.4 lakh |
 | Dr C Raghu | Cardiologist, Hyderabad | 16.9K | (matches Round 1 reading) |
 
-Three things follow. (i) Symptoms, gas-vs-heart, palpitations, cholesterol, BP and food are the proven volume topics in Telugu. (ii) Tests and procedures are served mostly by English animations (Nucleus, Mayo) and one Telugu angiogram video with 22 lakh views, which shows a Telugu procedure explainer can travel. (iii) "After stent" has clear search demand but thin, low-view supply. Also note that YouTube now shows auto-translated Telugu titles on English videos (for example a US pain clinic's Short titled "గుండెపోటు యొక్క 7 గమనించవలసిన లక్షణాలు", 1.44 crore views), so the competition includes dubbed global content. (High for counts; Medium for interpretation)
+Three things follow. (i) Symptoms, gas-vs-heart, palpitations, cholesterol, BP and food are the proven volume topics in Telugu. (ii) Tests and procedures are served mostly by English animations (Nucleus, Mayo) and one Telugu angiogram video with 22 lakh views, which shows a Telugu procedure explainer can travel. (iii) "After stent" has clear search demand but thin, low-view supply. Also note that English-language channels now surface in Telugu searches with Telugu titles: a Short from "reMOVE Pain Clinic" titled "గుండెపోటు యొక్క 7 గమనించవలసిన లక్షణాలు" has 1.44 crore views, a Dr. Frita video with a Telugu title has 44 lakh, and Rush University System for Health appears the same way. This looks like YouTube's translated titles and auto-dubbing, so the competition includes global content. (High for counts; Medium for the interpretation)
 
 This fills Round 1 gap #3 in file 04 (Telugu cardiologist channel sizes) and gap #5 (Trends data for Telangana).
 
@@ -248,9 +248,9 @@ Plain line: "బీపీ ఉన్న ప్రతి ఐదుగురిల�
 | LMIC average | Mean 12.7 hours from symptoms to first medical contact across 29 studies; older, female, less literate, rural and poorer patients wait longer | Beza et al., IJC Heart Vasc 2021 | High |
 | Systems work | Tamil Nadu hub-and-spoke STEMI programme (2,420 patients) increased reperfusion and PCI access | Alexander et al., JAMA Cardiol 2017 | High |
 | Reperfusion gap | NIC registry 2018: 4,38,351 PCIs from 709 centres. NIC 2017: only 53,416 primary PCIs nationally; IVUS in 1.16% and FFR in 1.37% of procedures | Arramraju et al., Indian Heart J 2020 and 2019 | High / Medium (2017 detail via search summary); no post-2018 report found |
-| Cardiac arrest, Telangana | Ambulance-service data: return of circulation in 0.26% of out-of-hospital arrests before the pandemic and 0% during both waves | Husain et al., BMC Public Health 2025 | High (abstract) |
+| Cardiac arrest, Telangana | Records of a Telangana district hospital, 2019–21: survival in 0.26% of out-of-hospital arrests before the pandemic and 0% during both COVID waves; emergency-response delays over 20 minutes rose from 15% to 80.3% in the first wave | Husain et al., BMC Public Health 2025 | High (abstract; sample size not shown in abstract) |
 | Bystander CPR | 205 arrests at an Indian tertiary hospital: 9.8% received bystander CPR; 1.4% survived to discharge | Bhat et al., Indian Heart J 2021 | High |
-| Why CPR teaching matters | Paris registry: bystander CPR and public AED use rose from 34.9% to 94.7% and survival tripled; 94.7% of sports-related arrests were in middle-aged recreational exercisers, not young athletes | Karam et al., JACC 2022 | High (international) |
+| Why CPR teaching matters | French registry of 377 sports-related arrests, 2005–2018: bystander CPR rose from 34.9% to 94.7% (public AED use also rose) and survival to discharge tripled; 94.7% of the arrests were in middle-aged recreational exercisers, not young competitive athletes | Karam et al., JACC 2022 | High (international; abstract) |
 
 File 09 already holds the wider CPR evidence (Warangal WACAR registry, COLS guideline, national drives); not repeated here.
 
@@ -274,9 +274,9 @@ File 09 already holds the wider CPR evidence (Warangal WACAR registry, COLS guid
 |---|---|---|
 | Of 41,832 heart-attack admissions nationwide, only 21.6% were women; they were older, received primary PCI less often (29.5% vs 31.2%) and had higher in-hospital mortality | Das et al., Indian Heart J 2025 | High |
 | NORIN-STEMI: 16% women; less PCI and higher 1-year mortality | Qamar et al., JACC Asia 2023 | High |
-| Chest pain is still the main symptom in women (87.0% vs 89.5% of men) but women more often have three or more additional symptoms and were more often told it was not the heart | VIRGO, Lichtman et al., Circulation 2018 (US) | High |
+| Chest pain is still the main symptom in young women (87.0% vs 89.5% of men), but women more often had three or more additional symptoms (61.9% vs 54.8%) and more often had sought care for similar symptoms before the admission (29.5% vs 22.1%) | VIRGO, Lichtman et al., Circulation 2018 (US, ages 18–55) | High |
 
-The honest message is "women also get chest pain, plus more of the other symptoms, and are sent home more often", not "women have different symptoms".
+The honest message is "women also get chest pain, plus more of the other symptoms, and are recognised later", not "women have different symptoms".
 
 #### 2g. Sudden death, vaccines, gyms
 
@@ -285,7 +285,7 @@ The honest message is "women also get chest pain, plus more of the other symptom
 | ICMR case-control study (729 sudden deaths aged 18–45, 2,916 controls, 47 hospitals): COVID vaccination **lowered** the odds (aOR 0.58; two doses 0.51). Raised odds: binge drinking in prior 48 h (5.29), prior COVID hospitalisation (3.8), vigorous activity in prior 48 h (3.7), recreational drugs (2.92), family history of sudden death (2.53) | Ponnaiah et al., Indian J Med Res 2023 | High |
 | AIIMS autopsy study, one year: 180 sudden deaths among 2,214 autopsies; 57.2% aged 18–45 (mean 33.6); cardiovascular causes 42.6% (coronary disease leading), respiratory 21.3%, unexplained 21.3% | Jain et al., Indian J Med Res 2025 | High |
 | Health Ministry statement, 2 July 2025, citing both studies: no link between vaccines and sudden deaths; press reports of the AIIMS paper say no significant association with vaccination status | The Week / PTI, Dec 2025; ministry release via search summary | Medium |
-| Gyms and supplements | No Indian registry of gym-related cardiac events was found. Usable facts: the ICMR vigorous-activity signal above; the French data that most exercise-related arrests are in middle-aged recreational exercisers; and the CSI guideline's line that "anabolic drug abuse is emerging as an important cause" of secondary dyslipidaemia | As cited | Medium |
+| Gyms and supplements: no Indian registry of gym-related cardiac events was found. Usable facts: the ICMR vigorous-activity signal above; the French data that most exercise-related arrests are in middle-aged recreational exercisers; and the CSI guideline's line that "anabolic drug abuse is emerging as an important cause" of secondary dyslipidaemia | As cited | Medium |
 
 #### 2h. Environment and habits
 
@@ -313,7 +313,7 @@ The honest message is "women also get chest pain, plus more of the other symptom
 | 2 | Lemon-ginger-garlic-vinegar-honey mixture opens blocks | Autosuggest lists the full recipe in several orders; YouTube adds "for heart malayalam" | Garlic supplements lower LDL-C by about 6 mg/dL and systolic BP by about 4 mmHg in a 108-trial meta-analysis; no trial shows fewer heart attacks | "Garlic is food. It nudges numbers a little. It does not open an artery." |
 | 3 | Arjuna bark (తెల్ల మద్ది) strengthens the heart and replaces medicines | Autosuggest "తెల్ల మద్ది చూర్ణం ఉపయోగాలు", "arjun ki chaal ke fayde" | Meta-analysis of 9 small trials (537 patients): no significant change in ejection fraction, BP or LDL; authors call for larger trials | "Small studies, no proof it prevents heart attacks. Never stop prescribed medicines for it." |
 | 4 | Chelation therapy clears arteries | Autosuggest "chelation therapy for heart blockage", city-specific clinic queries | TACT2 (959 patients with diabetes and prior MI): events 35.6% vs 35.7% on placebo; "not effective" | "It was tested properly in 2024. It did not work." |
-| 5 | EECP is a "natural bypass" | Autosuggest "eecp treatment cost", city queries | A 2026 meta-analysis covers symptom relief in refractory angina; it is not a substitute for revascularisation in a heart attack or left-main disease (abstract not read in detail) | "It may ease chest pain for some people who have no other option. It does not remove a block." |
+| 5 | EECP is a "natural bypass" | Autosuggest "eecp treatment cost", city queries | A 2026 meta-analysis of 26 studies found better angina class, exercise capacity and quality of life in chronic refractory angina, but the authors note the largest effects came from uncontrolled before-and-after studies. It measures symptoms, not heart attacks prevented, and is not a treatment for a heart attack | "It may ease chest pain for some people who have run out of other options. It does not remove a block." |
 | 6 | The cholesterol test is a scam; LDL does not matter | Telugu video "Exposed: Total Cholesterol Reports Scam" 2.4 lakh views | LDL lowering reduces events in randomised trials; Indian guidelines set LDL goals; only 27% of Indian heart patients reach them | "The lower the LDL, for longer, the fewer the heart attacks. That is the most tested fact in cardiology." |
 | 7 | Statins damage liver, kidneys and muscles; stop when the number is normal | Autosuggest "statin side effects on liver/kidneys", "can i stop statins once started" | In blinded trials only about 1 in 15 muscle complaints was caused by the statin; stopping after scare stories was followed by more heart attacks | "The number is normal because of the tablet. Stop the tablet and the number returns." |
 | 8 | COVID vaccines are causing sudden deaths in the young | Autosuggest "covid vaccine heart attack rate", YouTube "…side effects telugu" | ICMR: vaccination lowered the odds of sudden death (aOR 0.58); AIIMS autopsies: coronary disease was the leading cause | "Two Indian studies looked. The vaccinated were not at higher risk. Alcohol binges, family history and past severe COVID were." |
@@ -329,15 +329,15 @@ Also seen and worth a short answer when asked: "getting out of bed suddenly in w
 
 #### 3b. How to debunk without amplifying: what the evidence says
 
-| Principle | Evidence | Source | Conf. |
-|---|---|---|---|
-| Use fact, warning, fallacy, fact. Lead with a clear, sticky fact; warn that a myth is coming and state it once; explain why it misleads; end on the fact. This is the evidence-based form of the "truth sandwich" | Debunking Handbook 2020 (22 authors), DOI 10.17910/b7.1182 | Read in full | High |
+| Principle and evidence | Source | Conf. |
+|---|---|---|
+| Use fact, warning, fallacy, fact. Lead with a clear, sticky fact; warn that a myth is coming and state it once; explain why it misleads; end on the fact. This is the evidence-based form of the "truth sandwich" | Debunking Handbook 2020 (22 authors), DOI 10.17910/b7.1182; PDF read for these sections | High |
 | Do not fear backfire. "Backfire effects are not as common as we used to think"; familiarity backfire tests "have come up empty" | Debunking Handbook 2020; Swire-Thompson et al., J Appl Res Mem Cogn 2020 | High |
 | Pick battles. "If a myth is not spreading widely… the less said about an unknown myth the better." Address only myths with traction (the table above gives the evidence of traction) | Debunking Handbook 2020 | High |
 | Prebunk. Short videos that explain manipulation techniques (emotional language, false dichotomies, and so on) improved people's ability to spot them in six trials (n = 6,464) and a YouTube field study (n = 22,632) | Roozenbeek et al., Science Advances 2022 | High |
 | Give the alternative explanation, not just "false". A correction that leaves a gap is filled by the myth again (continued influence effect) | Debunking Handbook 2020 | High |
 | Do not attack people. Ridicule polarises; "your talking points, not theirs" | Debunking Handbook 2020 | High |
-| Misinformation has clinical cost | Statin news study; recurrent MI under alternative-medicine follow-up (AOR 2.04) | See 2e | High |
+| Misinformation has clinical cost: negative statin news was followed by stopping and more heart attacks; follow-up under alternative medicine doubled the odds of a second heart attack (AOR 2.04) | See 2e | High |
 
 **Working rules for him**
 
@@ -407,7 +407,7 @@ Scoring is practitioner judgement on five criteria, each 1–5: strength of Indi
 
 #### B. "The first 60 minutes — what to do before you reach a hospital"
 
-- **Evidence base.** Median 5–6 hours from symptoms to hospital while door-to-needle is 15 minutes; women and people who think "gas" come later; cardiac-arrest survival 0.26% in Telangana ambulance data; bystander CPR under 10%; Paris tripled survival through bystander action.
+- **Evidence base.** Median 5–6 hours from symptoms to hospital while door-to-needle is 15 minutes; women and people who think "gas" come later; cardiac-arrest survival 0.26% in a Telangana district-hospital series; bystander CPR under 10%; a French registry saw survival triple as bystander CPR became routine.
 - **Audience.** Everyone; especially spouses and adult children, apartment associations, security staff, cab drivers, office floor wardens.
 - **Emotional hook.** "ఆ రాత్రి గ్యాస్ అనుకున్నాం." The gap between a treatable event and a death is a decision made at home.
 - **Differentiation.** Hospitals run one-day CPR events; a named cardiologist who teaches a fixed five-step drill all year, in Telugu, with a wallet card and a count of people trained, is different. He does STEMI work, so it is authentic. Connects to the CPR initiative in file 09.
@@ -477,7 +477,7 @@ Notes: week dates are Mondays. "(confirm)" marks movable or unverified dates (fe
 | 9 | 1 Mar | World Obesity Day, 4 Mar | Waist, fatty liver and the heart | పొట్ట కొలత మీ గుండె గురించి ఏం చెబుతుంది? | Hyderabad IT MAFLD study: what it does and does not show | Waist-tape drive at one tech park cafeteria |
 | 10 | 8 Mar | Women's Day; World Kidney Day, 11 Mar | Kidney and heart; women's check-ups | కిడ్నీ, గుండె: ఒకదానికొకటి ఎలా ముడిపడి ఉన్నాయి | 2026 ESC guideline on CVD and CKD: 5 points | — |
 | 11 | 15 Mar | World Sleep Day, 19 Mar (confirm) | Sleep, night shifts and the heart | నిద్ర తక్కువైతే, నైట్ షిఫ్ట్ చేస్తే గుండెకు ఏమవుతుంది? | Night-shift meta-analysis (RR 1.13 / 1.27) | LinkedIn note for HR: shift-worker screening |
-| 12 | 22 Mar | Lp(a) Awareness Day, 24 Mar | Lp(a): test once | Lp(a) టెస్ట్: జీవితంలో ఒక్కసారి ఎందుకు? | After Lp(a)HORIZON: what to tell patients | — |
+| 12 | 22 Mar | Lp(a) Awareness Day, 24 Mar (confirm) | Lp(a): test once | Lp(a) టెస్ట్: జీవితంలో ఒక్కసారి ఎందుకు? | After Lp(a)HORIZON: what to tell patients | — |
 | 13 | 29 Mar | ACC.27 (confirm) | Family history: what to do | కుటుంబంలో గుండె జబ్బు ఉంటే మీరు ఏం చేయాలి? | ACC.27 digest: three trials, India caveats | — |
 | 14 | 5 Apr | Ugadi (confirm); World Health Day, 7 Apr | Tests to do at 30 | ఉగాది సంకల్పం: 30 ఏళ్లకు ఏ టెస్టులు చేయించుకోవాలి? | Screening the young: lifetime vs 10-year risk (LAI) | Free BP and waist check at one temple / community hall |
 | 15 | 12 Apr | Heat begins | Summer, BP tablets, water and salt | ఎండాకాలంలో బీపీ మందులు, నీళ్లు, ఉప్పు: జాగ్రత్తలు | Heat and mortality in Indian cities (22% rise) | Heat-safety card for security guards and drivers |
@@ -578,7 +578,7 @@ Direct evidence on what Indian cardiologists engage with online was not found. T
 | OPTIMAL-DIABETES | About 9,500 patients in Brazil: systolic target <120 vs <140 did not significantly cut events (6.0% vs 6.7%); NEJM | BP targets in diabetes; relevant to "numbers" | High (ACC summary) |
 | Yoga-CaRe HF | Positive for quality of life; India, 16 centres | Indian-led evidence for low-cost rehab | High |
 | STREAM (statin discontinuation in multimorbid older adults), Ez-PAVE (statin plus ezetimibe) | Presented at AHA 2026; results not retrieved | Stopping statins in the very old; combination therapy | Low (results not seen) |
-| TRANSFORM II | Sirolimus-coated balloon non-inferior to everolimus stent at 1 year per company release; TCT Nov 2026 | "Leave nothing behind" strategy; an Indian-made device (Concept Medical) | Medium (company release) |
+| TRANSFORM II | Sirolimus-coated balloon non-inferior to everolimus stent at 1 year per company release; TCT Nov 2026 | "Leave nothing behind" strategy; the balloon is from Concept Medical, which has Indian roots (from memory) | Medium (company release) |
 | P4 (CT-guided vs IVUS-guided PCI), PIONEER IV and LIPSIA-STRATEGY (angiography-derived FFR), HD-PCI (heparin dose), AIR-STEMI, IRIS-MAIN, PROGRESS (TAVI in moderate AS) | On the TCT 2026 late-breaking programme; results not retrieved | Imaging and physiology without wires suit Indian cost constraints | Medium (programme only) |
 | ESC 2026 Hot Lines | DISCO: immediate angiography after arrest without ST elevation did not improve 30-day survival (54.6% vs 53.6%). LIBREXIA-ACS (milvexian, >14,000 patients): no efficacy gain reported. SWITCH SWEDEHEART, ISOLEDS, CorCal Outcomes also presented | Post-arrest pathway; antithrombotic strategy; CAC-guided prevention | Medium (ACC coverage and search summaries) |
 | 2027 meetings | ACC.27, EuroPCR, ESC Congress, TCT, AHA, CSI annual conference, India Live, NIC meetings: dates not verified | Plan a 48-hour digest after each | Could not verify dates |
@@ -604,7 +604,7 @@ Priorities are in order. Effort is his time unless stated.
 12. **Keep three reactive pieces pre-approved** (section 6b). One-off: 60 minutes of recording.
 13. **Measure by questions answered, not followers:** track which of the 60 questions have a published answer, and the saves, shares and search impressions for each. Helper: 30 minutes a month.
 
-## Risks and things to avoid
+## Risks & things to avoid
 
 - **Personal medical advice in public.** Never give doses or "you should stop/start" to an individual in comments. Standard line: "మీ డాక్టర్‌తో మాట్లాడండి; ఇది సాధారణ సమాచారం."
 - **Aspirin and emergency advice.** "Chew aspirin" has exceptions (allergy, active bleeding, possible stroke). Word it once, have it reviewed, and reuse the same wording everywhere.
