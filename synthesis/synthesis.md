@@ -1,6 +1,6 @@
 # Teach, don't sell: the synthesis
 
-**For:** Dr. Avinash Pathuri and the friend who will help him. **Written:** 12 November 2026, from research files 00–31 in `research/`. **Companion files:** `action-plan.md` (the schedule), `questions-and-open-items.md` (everything a human must answer), and `../index.md` (a map of all the files).
+**For:** Dr. Avinash Pathuri and the friend who will help him. **Written:** 12 November 2026, from research files 00–32 in `research/`; reviewed and refined by the orchestrator the same day. **Companion files:** `action-plan.md` (the schedule), `questions-and-open-items.md` (everything a human must answer), and `../index.md` (a map of all the files).
 
 **How to read the labels.** A number in square brackets, for example [24], names the research file the point comes from. "Estimate" means a researcher's figure, not a quotation. "Assumption" means a figure this synthesis chose and he must confirm. Legal points are marked **text** (what a rule actually says, quoted from file 30), **interpretation** (a reasonable reading that a lawyer should confirm) or **unsettled** (nobody authoritative has answered it yet). Where files 30 and 31 disagree with any earlier file, files 30 and 31 win.
 
@@ -264,7 +264,7 @@ Tags: **[Law]** a rule in text (file 30); **[Interp]** an interpretation awaitin
 - the right **sequence** (journal or conference first, public citation after);
 - and never prompting, scripting, incentivising, sharing, quoting or reposting praise for promotion.
 
-This section is part of the sponsor's standing direction (brief, Addendum 5). A research file on the same subject (file 32) is being written in parallel and may refine individual cells.
+This section is part of the sponsor's standing direction (brief, Addendum 5). Research file 32 covers the same ground in full (13 speakers by 15 acts, comparative regulators, model wording); §4A.4 below records what it adds and where it differs from the map here. Where the two differ, file 32's cell is the more detailed reading.
 
 ### 4A.1 The clauses that decide it (verbatim, file 30)
 
@@ -317,6 +317,43 @@ Key:
 4. Institutions speak through invitations, fellowships and selections.
 5. Journalists speak through their own reporting of published work.
 6. He speaks through teaching.
+
+### 4A.4 What file 32 adds (merged in review)
+
+**Conclusion:** file 32 confirms the map above and the sponsor's distinction, tightens four cells, and supplies the working documents.
+
+**Where the text clearly supports the distinction [32 §1.15, §2.1]:**
+
+- A patient, family member, trainee, peer, society or journalist speaking unprompted. He answers only for content he "authorized, commissioned, sponsored, adopted or knowingly permitted" (cl. 4.4) or for people he "use[d] or permit[ted]" (8.1(xi)).
+- Private feedback requests and structured surveys. No clause prohibits them.
+- Teaching, writing on research, and presenting or publishing aggregate, de-identified results to peers and journals.
+
+**Where it does not:**
+
+- Resharing, quoting, embedding or displaying praise or ratings on any channel he controls: barred, for him and for anyone acting for him (staff, friend, hospital, AI).
+- Inviting public reviews, including a reception QR code: unsettled in the words, barred on a cautious reading, and treated as barred in this plan.
+- Stating his own results directly to the public: unsettled. "Achievements" and "reputation" are inside the definition of advertisement (cl. 3.2), and the 2002 Regulations say he shall not "boast of cases, operations, cures". The route is publish first, then cite.
+
+**Cells tightened against the map in §4A.3:**
+
+| Act | §4A.3 said | File 32 says | This plan now follows |
+|---|---|---|---|
+| Awards and fellowships | List verifiable ones factually: allowed | **Accepting** is allowed; **listing** them on his own pages is amber | Accept freely. List registered qualifications and society fellowships on the factual About page; hold other awards back until the lawyer answers |
+| Thanking people in public | Not separated | Thanking a **mentee** publicly is allowed; thanking a **patient** publicly is barred | As file 32 |
+| Being interviewed about his own work | Editorial invitations allowed | Amber: a profile of him is closer to "reputation" than a talk on a disease | Interviews on a health topic: yes. Profiles of him: decline, or let the published work be the subject |
+| His own clinic teaching the public | Allowed (leaflets) | Amber for a clinic channel; allowed for leaflets to visiting patients (8.2(iv)) | Teaching stays under his own name, not the clinic's (already R4) |
+
+**How other regulators draw the same line [32 §3].** Australia, New Zealand, Singapore, Alberta, the UK and the US all leave the patient's own voice alone and fix the doctor's liability by four tests: whether he **controls** the platform, whether he **solicited** the words, whether he **selected** among them, and whether he **used** them in advertising. New Zealand's wording is closest to the sponsor's view: a doctor must not encourage testimonials, but "you are not responsible for any unsolicited testimonials or comments" on media "over which you do not have control". India's request rule is narrower in its words than Singapore's ("any media"), but its definition of social media is wide enough to reach a similar result. File 32 found no Indian ruling on unprompted third-party praise. (The GMC, Ontario and Singapore texts were not read at source.)
+
+**The three ways through, with the working documents:**
+
+1. **A private feedback and outcomes system, published as science.** File 32 §4.4 gives a consent line for the registration form; §4.5 a neutral feedback form in English with a working Telugu draft (to be checked by a Telugu-speaking clinician and tested with five patients), which states "We do not ask patients for public reviews"; §4.6 the "You said, we did" notice for the waiting room (cl. 8.2(iv), interpretation).
+2. **Publish first, then cite.** Consent line → ethics approval or waiver → an independent check of the denominator → abstract, then paper → registry submission where one exists → a neutral public citation inside teaching [32 §5.1]. §5.4 gives the wording: counts with denominators, losses to follow-up stated, "single clinic, no comparison group", and no comparison with others.
+3. **Third-party publication with a method.** Anything that would be praise if he said it is published by the partner, society, registry or journal in its own name: the CPR scorecard by the host, trainee feedback by the society, outcomes by the journal [32 §6].
+
+**When a patient asks "where can I leave you a review?"** Use file 32's middle answer until the lawyer replies [32 §4.7]: *"That is kind of you. I can't ask for reviews or suggest what anyone writes. What you say about your own experience, anywhere, is entirely your decision, and there is no need to. Please don't put your medical details online on my account. What helps me most is this private form."* Four rules hold in every version: he never raises the subject first; never suggests content or a rating; offers nothing in return; never reposts what follows.
+
+**For any new case,** file 32 §7 has a six-question decision aid and twelve worked examples, and §8 the questions for the lawyer and the Telangana council.
 
 ---
 

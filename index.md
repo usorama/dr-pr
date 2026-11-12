@@ -1,11 +1,11 @@
 # Index: the Dr. Avinash Pathuri reputation and lighthouse project
 
-**What this folder is:** five rounds of research (files 00–31 in `research/`) and their synthesis (`synthesis/`). The plan is for one doctor and one helper friend: **teach, don't sell**. It is built on owned assets, with a lawful AI edge and a three-ring lighthouse.
+**What this folder is:** six rounds of research (files 00–32 in `research/`) and their synthesis (`synthesis/`). The plan is for one doctor and one helper friend: **teach, don't sell**. It is built on owned assets, with a lawful AI edge and a three-ring lighthouse.
 
 **Status, 12 Nov 2026:**
 - Files 30 and 31 are fact-checks that **override every other file**.
 - `synthesis/` supersedes the "So what" sections of files 01–29 wherever they disagree.
-- A file 32 (voice map and earned voice) is being written in parallel. It is not yet in the folder; when it arrives, it refines `synthesis.md` §4A and §5.9.
+- File 32 (voice map and earned voice, round 6) is in the folder and merged into `synthesis.md` §4A.4. Use it for any "who may say what" question: it has the full 13 × 15 grid, the comparative regulators, a model consent line, a neutral feedback form (English and a working Telugu draft), the three answers to "where can I leave a review?", wording for stating results, a decision aid and 12 worked examples.
 
 ## Start here (reading order)
 
@@ -25,7 +25,7 @@
 | What must be done before the first public post? | action-plan Phase 0 and 1; 21 §So what (checklist A) |
 | His registration (TGMC renewal vs transfer) and CPD hours | 21 §1; 30 C; 31 3.14–3.15 |
 | What his own clinic may say (signboard, website, Google profile, announcements) | 11b; 30 A4, B |
-| Who may say what: patients, trainees, journalists, reviews, results | synthesis §4A, §5.9; 30 A3–A5 (and 32 when available) |
+| Who may say what: patients, trainees, journalists, reviews, results | synthesis §4A, §5.9; 32 (full grid and model wording); 30 A3–A5 |
 | The Telugu competition and the positioning | 20 (13 and 04 superseded on channel facts) |
 | What to teach and in what words; the 60 questions; the myths | 14 |
 | The three flagships, step by step | 24 (19 for the evidence base; 15 for CPR and GP teaching) |
@@ -79,6 +79,7 @@
 | `research/29-trainee-ecosystem-and-teaching-home.md` | 4 | Dormant trainee series; Telugu-state trainee count; open-licence datasets; institutional homes; grant calendar | Trainees and research home | Core. ICMR 2027 dates supersede 28 |
 | `research/30-factcheck-regulatory-quotations.md` | 5 | Verbatim clauses with verdicts; 25 "must not say" items | Any legal statement | **Overrides all other files on law** |
 | `research/31-factcheck-numbers-and-dates.md` | 5 | 70 claims checked; safe-to-print and stop-using lists | Any figure or date | **Overrides all other files on numbers** |
+| `research/32-voice-map-and-earned-voice.md` | 6 | Who may say what: 13 speakers × 15 acts with clause and status; how six other regulators draw the line; private feedback system; consent line; neutral feedback form (English and working Telugu); three answers to "where can I review you?"; wording for results; earned-voice mechanisms; decision aid; 12 worked examples | Any question about reviews, testimonials, results, awards, praise or third parties | Clause text taken from 30. GMC, Ontario and Singapore texts not read at source. Telugu draft needs a clinician's check. Research, not legal advice |
 | `synthesis/synthesis.md` | Synthesis | Summary; facts; playing field; Principles, Objectives, Rules; voice map; strategy (time budget, rings, forms, equity, peers, independence, AI, money, earned voice); operating model; risks; measurement; contradictions; open items; AI-system requirements | The decision document | Built on 30 and 31; the time cap and money cap are assumptions he must confirm |
 | `synthesis/action-plan.md` | Synthesis | First 7 days; Phases 0–3 as action tables; dated calendar to Dec 2027; quarterly milestones to Dec 2028; weekly, monthly and quarterly checklists; exit overlay; do-not-do list; cap variants | Doing the work | [P] dates must be re-checked monthly |
 | `synthesis/questions-and-open-items.md` | Synthesis | 10 blocking questions plus a themed questionnaire; friend questions; 54-row merged lawyer brief; CA questions; letters and RTI; browser and phone tasks; interviews; unverified facts | Everything a human must answer | Merged and de-duplicated from 11, 11b, 17, 18, 21, 24, 25, 27, 28 and Addendum 5 |

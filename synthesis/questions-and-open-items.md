@@ -172,6 +172,8 @@ Bring: the Apollo agreement; the October 2026 Guidelines (official PDF); file 30
 
 ---
 
+**Added in review.** File 32 §8 lists further single-sentence questions for the lawyer and the Telangana Medical Council on the voice map (inviting public reviews and whether Google Maps is "social media" under cl. 3.6; replying to or liking a review; stating published results to the public; listing awards; interviews about his own work). Merge them into the table above before the brief is sent; most overlap rows 47–54.
+
 ## 4. Questions for a chartered accountant
 
 | # | Question | Source |
