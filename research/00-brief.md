@@ -35,3 +35,13 @@ Build a **PR / reputation system** so that, from here on, he becomes widely know
 - Round 1 files 01–10 are in this folder. Before you start, skim the executive summary and "Open questions" of the files relevant to your topic (use grep / partial reads; do not read all of them end to end).
 
 **Search discipline (important):** web search is rate-limited and shared between agents. Budget yourself to about **12 well-chosen searches**; get the rest by fetching specific URLs directly (official sites, PDFs, Wikipedia, vidIQ/SocialBlade-style stat pages, news articles found in search results). If search stops working, carry on with direct fetches and say so in the file.
+
+---
+
+## Addendum 2 — goals added by the sponsor on 12 Nov 2026 (applies to all later agents)
+
+1. **Independence.** He is at Apollo now **but not for long**. The plan must establish him **on his own** — a personal name, practice and body of work that do not depend on any hospital brand and travel with him. Treat Apollo as the current, temporary context, not the platform.
+2. **An AI edge others don't have.** He should be visibly and genuinely ahead in using AI — in clinical practice, patient education, prevention, teaching and communication — in ways that are safe, lawful and evidence-based.
+3. **A lighthouse.** He should become a guiding light for (a) **future cardiologists** (trainees, young consultants), and (b) **past, present and future patients — including people who learn enough from him that they never need a cardiologist at all.** Prevention at population scale is a first-class goal, not a side project.
+
+The unchanging principle: a professional does what must be done and **influences for the good of everyone**. Goals do not change; only the "how" adapts to what research finds (including the NMC rules above).
