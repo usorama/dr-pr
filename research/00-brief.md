@@ -24,3 +24,14 @@ Build a **PR / reputation system** so that, from here on, he becomes widely know
    - `## Open questions / gaps` — what you could not find or what deserves a deeper round
    - `## Sources` — full URL list
 7. Your final reply to the orchestrator must be SHORT: max 150 words of the most important findings + a bullet list of up to 5 gaps worth another research round. The detail lives in the file.
+
+---
+
+## Addendum for Round 2 onwards (read this too)
+
+**What Round 1 established (do not re-research; build on it):**
+- The National Medical Council issued **Guidelines on Ethical Advertising and Public Communication** on 6 Oct 2026, in force immediately (PDF copy: https://medicaldialogues.in/pdf_upload/2026/10/07/nmc-guidelines-on-ethical-advertising-and-public-communication-478642.pdf). Per Round 1 readings: "advertisement" includes promoting a doctor's reputation; patient testimonials / success stories are barred even with consent (cl. 6.2); no requesting or sharing reviews; no "best/top" claims; no paid reach; no engaging third parties to market services; registration number on posts; **public-health education in his own name (without promoting the employer), journal publications, formal announcements and factual directory listings are allowed.** Full analysis: `02-regulation-ethics-india.md`.
+- Consequence: the plan's lane is **"teach, don't sell"** — reputation as a by-product of education, scholarship, teaching peers and community service. The goal (he becomes widely known and trusted, and influences for everyone's good) is unchanged; only the method adapts.
+- Round 1 files 01–10 are in this folder. Before you start, skim the executive summary and "Open questions" of the files relevant to your topic (use grep / partial reads; do not read all of them end to end).
+
+**Search discipline (important):** web search is rate-limited and shared between agents. Budget yourself to about **12 well-chosen searches**; get the rest by fetching specific URLs directly (official sites, PDFs, Wikipedia, vidIQ/SocialBlade-style stat pages, news articles found in search results). If search stops working, carry on with direct fetches and say so in the file.
