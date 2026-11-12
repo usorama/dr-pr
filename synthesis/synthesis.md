@@ -25,6 +25,20 @@
 4. The lighthouse is built **one flagship at a time**: **Patients for life** in his own practice first, peer teaching behind a doctors-only wall second, and a measured **Heart School** cohort third. Each one counts and publishes its results, including disappointing ones.
 5. His **AI edge** is visible responsibility, not gadgets. It consists of doctor-verified Telugu patient explanations, an audited own-practice registry, a published AI charter and teaching peers how to judge AI. There is no avatar, no voice clone and no public chatbot.
 
+### How each goal is served
+
+The goals are fixed; this is the method the research supports for each.
+
+| Goal | How this plan delivers it | Where |
+|---|---|---|
+| **Known and trusted** | He is seen teaching, with sources and his registration number, in forms nobody else uses. Other people's voices (patients, trainees, societies, journalists) arise on their own; he never prompts or reposts them | §5.1, §5.3, §4A, §5.9 |
+| **Reach, teach, engage, do more for society** | "After the stent" and "Know your numbers" for the public; "First 60 minutes" hands-on; an equity layer for people without smartphones | §5.3, §5.4 |
+| **Independence** | Every asset is in his name; his own clinic is the hub, with two non-exclusive hospitals for procedures; nothing rests on Apollo | §5.6, R23 |
+| **An AI edge others don't have** | Verified Telugu patient explanations, an audited own-practice registry, a published charter and a published checking method, taught to peers. Tools anyone can buy are not the edge | §5.7 |
+| **A lighthouse** | Three rings, one flagship each: Patients for life, an open teaching series for future cardiologists, and Heart School for people who should never need a cardiologist | §5.2 |
+
+**One ordering decision is his.** At the 4-hour cap, the measured prevention flagship (Heart School) is prepared in year 1 and runs in year 2, after the trainee series. The public still gets weekly teaching and CPR training in year 1, but the evidence says teaching alone does not change outcomes [19]. If prevention is to be first-class from the start, he either gives 6 hours a week, or swaps the order so Heart School runs before the trainee series. This is question E-0 in `questions-and-open-items.md`.
+
 ### The three things to do first (this fortnight)
 
 1. **Check his Telangana Medical Council (TGMC) status today, and renew before 31 December 2026 if it is due.** Renewing in 2026 needs 18 CPD (continuing professional development) hours; from 1 January 2027 it needs 24 [21, 31]. Nothing public is published until his registration line is correct.

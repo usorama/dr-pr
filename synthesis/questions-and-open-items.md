@@ -58,6 +58,9 @@ Answer in writing. Attach the documents asked for.
 
 ### E. Flagships
 
+**E-0 (added in review; decide early).** Prevention for people who should never need a cardiologist is a first-class goal. At 4 hours a week, the measured prevention flagship (Heart School) runs in year 2, after the trainee teaching series. Do you want to (a) keep that order, (b) run Heart School before the trainee series, or (c) give 6 hours a week and run both in 2027? [synthesis §1, §5.0]
+
+
 18. Do you agree that Patients for life starts first, peer teaching second, and Heart School in year 2 (or month 7 at 6 hours)? [24, 25 Q24]
 19. Would you take an AHA BLS instructor course, or lead "First 60 minutes" sessions with a partner's instructors? [15]
 20. Can you think of a residents' association, school or IT campus that would host the first session? [15, 24]
