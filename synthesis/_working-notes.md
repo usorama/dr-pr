@@ -73,3 +73,5 @@
 - First paper: Telugu heart-video quality audit (22 item 14) - portable, no patient data.
 - One annual note in January (impact, corrections, money) merging 22 and 28.
 - Growth expectation: 3K-10K subs at 12 months (20, Low); 1,500 watch hours = stretch / YouTube Health threshold.
+
+## Addendum 5 (mid-task): voice map §4A, earned voice §5.9, R2/R8/R11 rewritten, R26 added, lawyer rows 47-54, action items 2.2a/2.2b, do-not-do 2-4,12 revised.

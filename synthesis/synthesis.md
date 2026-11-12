@@ -193,7 +193,10 @@ Tags: **[Law]** a rule in text (file 30); **[Interp]** an interpretation awaitin
 
 **Content**
 - **R1. Registration first.** Nothing carrying his name is published at scale until the TGMC record is current. Then the credential line goes on every bio and post: name, registered qualifications, "Interventional cardiologist, Hyderabad", council and number, exactly as on the certificate [21, 11b]. [Law: Reg. 1.4.1 for clinic and prescriptions; Interp: Explanation III per post]
-- **R2. The subject is the condition, never him.** No superlatives, procedure counts, success rates, "first", "latest" or "painless", including in titles, thumbnails, tags and alt text [11 §9(iii)]. [Law: 8.1(iii), (ix)]
+- **R2. The subject is the condition, not his prowess.**
+  - **Barred [Law]:** *advertising* "personal achievements or professional success rates or number of patients treated" with "unverifiable or exaggerated claims", and superiority words ("best", "No.1", "leading", "most trusted", "top"). This covers titles, thumbnails, tags and alt text (cl. 8.1(iii), (ix)).
+  - **Allowed [Text/Interp]:** his own aggregate results (percentages and counts with denominators, no identifiers) presented to peers in journals and conferences (cl. 5.1 "academic discussions", 8.2(i), 8.1(v) exception). Once published, they may be cited neutrally as published work, with a link, the denominator and no comparison with other doctors.
+  - **Unsettled:** stating unpublished own results to the public, and risk-factor control rates on his own site (lawyer, §3 row 14) [11 §9(iii), 30 A4].
 - **R3. No source, no sentence.** Every factual claim has a ledger row with an opened source. Every piece shows its main source and a "Medically checked / next review" date [22 §4.2]. [Self]
 - **R4. No call to book.** Educational content never names his clinic or any hospital, and carries no address, phone number, fee, link or "consult me". Clinic facts live only on static factual pages [11b §2]. [Interp: 5.1, 8.2(iii)]
 - **R5. No brands, no endorsement.** Generic drug and device names only; no product, laboratory, app or insurer [30 A4]. [Law: 8.1(iv); Reg. 6.8.1(h)]
@@ -201,10 +204,17 @@ Tags: **[Law]** a rule in text (file 30); **[Interp]** an interpretation awaitin
 - **R7. No fear.** No "silent killer" hooks; no messaging that pushes people towards tests or procedures [11]. [Law: 8.1(i)]
 
 **Patients and privacy**
-- **R8. No patient material in public**, with or without consent: no names, faces, voices, chats, scans, stories, thank-yous or before/after pictures [30 A3]. [Law: 6.1, 6.2, 7.4, Expl. V, 8.1(v)]
+- **R8. No identifiable patient material and no testimonials in his voice or on his channels**, with or without consent: no names, faces, voices, chats, scans, stories, thank-yous or before/after pictures (cl. 6.1, 6.2, 7.4, Expl. V, 8.1(v)) [30 A3]. [Law]
+  - **The boundary is who speaks.** The Guidelines bind RMPs and hospitals (cl. 4.1). A patient's own unprompted words are the patient's.
+  - **What becomes his act** is requesting, scripting, incentivising, sharing, quoting, reposting or linking them, or knowingly permitting their use for promotion (cl. 4.4, 8.1(xi)). See §4A.
 - **R9. Illustrative scenarios follow the three-patient rule.** Each blends features of at least three patients, changes age, sex, place, timing and one clinical detail, uses nothing from the last six months, is labelled "Illustrative scenario, not a real patient", and passes a second-person check [22 risk 1]. [Self]
 - **R10. Real cases only at tiers T1–T3** (journal, conference, doctors-only wall), under the eight-step consent and de-identification protocol. Public atlas images are open-licence, redrawn or taken from his own published papers [11 §9(iv), 29]. [Law: Reg. 7.17, 8.1(v); Interp: tiers]
-- **R11. Reviews.** He never requests, shares, quotes or replies to positive reviews. Negative or factually wrong reviews get one fixed reply. Clinic staff receive a written instruction [11 §3, 11b]. [Law: Expl. V; Interp: replies]
+- **R11. Feedback and reviews: private yes, public prompting no.**
+  - **Allowed [Interp, high confidence]:** asking patients for **private** feedback to improve care (a clinic form or a structured patient-experience survey), kept internal and never published or quoted (outside the wording of Expl. V, which concerns reviews "for professional promotion on social media").
+  - **Barred [Text]:** soliciting fake, paid or misleading reviews (Expl. V, first sentence). **Requesting** a public review, or **sharing, quoting, reposting or linking** reviews or testimonials for promotion (Expl. V, second sentence; cl. 3.6 defines social media broadly).
+  - **Amber [Unsettled]:** a public reply to, or a "like" of, a positive review, because it may read as "adopting" it (cl. 4.4). The default is no public reply or like until the lawyer answers; thank people in person.
+  - **Negative or factually wrong reviews** get one fixed, privacy-safe reply.
+  - Clinic staff receive a written instruction [11 §3, 11b, 30 A3].
 - **R12. Data stays where it belongs.** Hospital records, images and contact lists never leave the hospital's systems. His registry holds only his own practice's consented patients. There are no patient WhatsApp groups, and every process is DPDP-ready by 13 May 2027 [17, 21, 24]. [Law]
 - **R13. No individual advice online.** Scripted replies only, and 108 for emergencies [22 §4.6]. [Interp/Self]
 
@@ -227,6 +237,72 @@ Tags: **[Law]** a rule in text (file 30); **[Interp]** an interpretation awaitin
 - **R23. Portability test.** Every hour must build an owned asset or a personal relationship, never a hospital page [17 §4.3]. [Self]
 - **R24. A hard time cap, a cut order, and one flagship per ring at a time.** When load spikes, cut conferences and new formats first. Never cut consent, the case log, the patient-system checks or the approval step [16 rule 15, 24]. [Self]
 - **R25. Stop rule.** Any council notice, legal letter, S1 error, confidentiality concern, employer objection or energy rating of 2 or below for two weeks pauses publishing the same day [22 §6.3]. [Self]
+- **R26. Earned voice, never engineered.** Others may praise, cite, nominate or report on him in their own voice. He never prompts, scripts, incentivises, pays for or arranges it (cl. 8.1(xi) "intermediary", 8.1(xii)), and he does not repost, quote or link praise of himself for promotion (Expl. V; cl. 4.4 "adopted"). He may list verifiable, recognised memberships and fellowships factually (2002 Reg. 1.4.2; cl. 8.1(ix) proviso). [Law/Interp] See §4A and §5.9.
+
+---
+
+## 4A. Who may say what: the voice map
+
+**Conclusion:** the Guidelines regulate what **he** (and his clinic or hospital) says, arranges or adopts. They do not regulate what patients, trainees, peers speaking for themselves, journalists or societies say of their own accord (cl. 4.1: they "apply to the professional conduct of the RMPs", and to hospitals). The lawful route is therefore not silence about patients and results. It is:
+
+- the right **speaker**;
+- the right **destination** (private, peer, or published);
+- the right **sequence** (journal or conference first, public citation after);
+- and never prompting, scripting, incentivising, sharing, quoting or reposting praise for promotion.
+
+This section is part of the sponsor's standing direction (brief, Addendum 5). A research file on the same subject (file 32) is being written in parallel and may refine individual cells.
+
+### 4A.1 The clauses that decide it (verbatim, file 30)
+
+- **Expl. V to cl. 3.2, first sentence:** "No RMP or hospital/medical institution shall solicit, purchase, procure, manipulate or cause to be published fake, paid or misleading patient reviews, ratings, testimonials, endorsements or recommendations for the promotion of medical services."
+- **Expl. V, second sentence:** "An RMP shall not request or share patient testimonials, recommendations, endorsements or reviews **for professional promotion on social media**." (The limit is in the words: it is about requesting or sharing, for promotion, on social media.)
+- **cl. 3.6:** "Social Media" means "all forms of publications and sharing through internet-based websites, apps, etc. by whatsoever name called, which allows users to create, share and join online communities…" (broad enough to include review platforms: interpretation).
+- **cl. 4.4:** responsibility for content he "authorized, commissioned, sponsored, adopted or knowingly permitted".
+- **cl. 5.1:** education allowed "provided that such activities do not promote personal practice, do not solicit patients and are not monetized through promotional marketing" ("academic discussions" are named).
+- **cl. 6.1:** patient information or testimonials "shall not be used for advertising purposes except where … permitted by applicable law and the necessary consent and other safeguards". **cl. 6.2:** consent "shall not, by itself, make permissible any testimonial, endorsement, promotional patient story… success claim".
+- **cl. 8.1(ii):** shall not "solicit patients…, promote his/her professional services through self-promotion, engage any third party for marketing medical services, permit the use of their name, image, voice, testimonial or endorsement for promotion".
+- **cl. 8.1(iii):** shall not "advertise either personal achievements or professional success rates or number of patients treated with illustrative assertions such as 'Guaranteed cures', 'Best doctors'… or any other unverifiable or exaggerated claims".
+- **cl. 8.1(v):** shall not publish cases for promotion or "promote personal success stories **unless published strictly for scientific or educational purposes with anonymized patient consent**".
+- **cl. 8.1(ix):** no "best", "No.1", "leading", "most trusted", "top"… "unless the claim is objectively verifiable…". **Proviso:** "Any ranking or award relied upon in advertising shall be capable of independent verification, and material conditions, methodology and relevant date, details of award giving organization… shall be disclosed".
+- **cl. 8.1(xi):** "No RMP shall **use or permit** any celebrity, influencer, patient, employee or third party to promote professional services through prohibited testimonials, endorsements or recommendations… No RMP… shall use a third party as an **intermediary** to do indirectly what the RMP… is prohibited from doing directly."
+- **cl. 8.1(xii):** no procuring or manipulating "fake followers, likes, reviews, ratings, testimonials, comments, views".
+- **cl. 8.2(i):** "Only research-based communication, wherein they have published interesting case studies in reputed medical journals shall be allowed." **8.2(ii):** formal announcements. **8.2(iii):** talks "in their own name and designation, without promoting their employer organization".
+- **cl. 8.3(ii):** hospital communication shall not contain "promotional portrayal of an individual RMP".
+
+### 4A.2 Plain statements
+
+1. **A patient's own unprompted speech is not regulated by these Guidelines.** They bind RMPs and hospitals (cl. 4.1). (Text for scope; interpretation for application.) It becomes his act if he requested, scripted, incentivised, shared, quoted, reposted or linked it, or knowingly permitted its promotional use (Expl. V; cl. 4.4; 8.1(xi)).
+2. **Asking patients for private feedback to improve care is outside the wording.** Expl. V concerns reviews "for professional promotion on social media", and cl. 6.1 concerns use "for advertising purposes". (Interpretation, high confidence.) The conditions are: purpose = improving care; destination = private (a clinic form or a survey); use = internal learning and, in aggregate and anonymised, a published audit; never published or quoted as praise.
+3. **Requesting a public review, or sharing, quoting or reposting one for promotion, is inside the text** (Expl. V, second sentence, read with cl. 3.6). Whether a neutral, routine Google-review request is "for professional promotion" is technically **unsettled**, but this plan treats it as barred: the risk is all downside.
+4. **His own aggregate results** (percentages and counts with denominators, no names or identifiers) belong first in journals and conferences. This is "academic discussions" (cl. 5.1), "research-based communication… in reputed medical journals" (8.2(i)), and within the 8.1(v) exception "strictly for scientific or educational purposes with anonymized patient consent". (Text.) Once published, he may cite the work publicly as published research, neutrally, with a link and the denominator and no comparison with others. (Interpretation.)
+5. **What 8.1(iii) targets** is *advertising* success rates, achievements or patient numbers with unverifiable or exaggerated assertions. (Text.) A verifiable, published, denominator-bearing audit cited as research is a different act. Stating unpublished results to the public, or putting risk-factor control rates on his site as a standing claim, is **unsettled** (lawyer, §3 row 14).
+
+### 4A.3 The map
+
+Key:
+- **A** = allowed; **Am** = amber (take the lawyer's view first or use the stated default); **B** = barred; **n/r** = not regulated by these Guidelines (the speaker is not an RMP or hospital acting for promotion).
+- Status: **T** = text, **I** = interpretation, **U** = unsettled.
+- Each cell is the act done **by that speaker**. The last column says what **he** must not do.
+
+| Speaker ↓ / Act → | Teach | Publish research | Own aggregate results to peers | Own aggregate results to the public | Ask for private feedback | Ask for a public review | Reply to, like, reshare, quote or link others' words | Be praised or cited by others | Nominate / be nominated | What he must not do |
+|---|---|---|---|---|---|---|---|---|---|---|
+| **He himself** | A: 5.1, 8.2(iii), Reg. 7.11 (T) | A: 8.2(i) (T) | A: 5.1 "academic discussions", 8.2(i), 8.1(v) exception (T) | Am: cite after publication, neutral, with denominator (I); unpublished or as a standing claim = U; "success rate" advertising = B, 8.1(iii) (T) | A: outside Expl. V wording; private, for care (I) | B: Expl. V second sentence with 3.6 (T; "routine neutral request" U, treated as B) | Share, quote, repost or link praise = B, Expl. V, 4.4 "adopted" (T/I). Reply or like a positive review = Am (U; default no). Fixed reply to negative = A (I). Reshare others' *teaching* or research with credit = A (I) | n/a (see the other rows) | Nominate others (mentees, colleagues) = A (I). Self-nomination for merit-based fellowships by their published process = A (I). Paid or pay-to-win awards = B, 8.1(ix) proviso, 8.1(xii) (T/I) | — |
+| **A patient on their own initiative** | n/r | n/r | — | — | n/r (they may write privately) | — | n/r: they may post, praise or criticise anywhere (4.1 scope) (I) | n/r | n/r | Prompt, script, incentivise, thank publicly, repost, quote or link it (Expl. V, 4.4, 8.1(xi) "use or permit") |
+| **Peers, mentees, trainees** | A (their own professional conduct) | A: their papers and talks under their own names; acknowledgements of him (I) | A: co-presenting an audit he contributed to (T 8.2(i)) | As for him | — | — | A: they may credit or reshare his teaching (I) | A: citations, acknowledgements, recommendation letters for fellowships (I) | A: they may nominate him (I) | Arrange or ghost-write praise of himself (8.1(xi) "intermediary"); repost praise for promotion |
+| **Societies, journals, award bodies** | A | A: they publish his work (T 8.2(i)) | A: they select his abstracts (T) | A: their programmes and journals are public | — | — | A: they publicise their own programme | A: invitations, fellowships, citations | A: they confer fellowships and awards. He may list recognised memberships or honours that meet Reg. 1.4.2; an award used in his communication must be verifiable with issuer, date and method disclosed (8.1(ix) proviso) (T) | Buy awards; apply to vanity "top doctor" awards; overstate (e.g. "co-authored NEJM") |
+| **Journalists** | A (their own reporting) | A: they may report his published work (I) | — | A: reporting a published audit (I) | — | — | A: they may quote him on public health (Reg. 7.11; 8.2(iii)) (T) | A: editorial judgement (I) | — | Pay for or arrange promotional coverage ("news articles intended for promotion", 3.5) (T); supply patient stories; reshare coverage of himself for promotion (Am, 4.4) |
+| **Hospital or his own clinic** (cl. 3.4: his clinic is a "Hospital/Medical Institution") | A: patient leaflets, 8.2(iv) (T) | A | A | Am: institutional facts only; no "promotional portrayal of an individual RMP", 8.3(ii) (T) | A: private feedback forms (I) | B for fake, paid or misleading reviews, Expl. V first sentence (T); genuine public-review requests by an institution = U; his own clinic follows his rule (treated as B) | B: publish testimonials (6.2, 8.1(v), 8.3(ii)) (T) | Factual doctor directory only, 9.1 (T) | — | Let Apollo market him; let clinic staff request, forward or post reviews (8.1(xi) "employee") |
+| **The friend** | A: shares the teaching (I) | — | — | — | Logistics of a private survey only, with no patient identifiers (I) | B: an intermediary (8.1(xi)) (T) | B for praise of him; A for resharing teaching (I) | — | B: nominating him on his behalf or campaigning for awards (8.1(ii), (xi)) (I) | Act as publicist or pitch him (8.1(ii) "engage any third party for marketing": U for editing, B for promotion) |
+| **AI** | A as a drafting aid, human-verified and disclosed where material (7.2(c)) (T) | A with disclosure (journal rules) | A for analysis under governance (7.2(d)) (T) | — | Am: summarising private feedback only if de-identified and DPDP-compliant (7.2(d)) (T/I) | — | B: synthetic reviews or endorsements (7.2(b), 8.1(xii)) (T) | B: synthetic praise "purporting to be that of an actual patient, RMP or other person" (7.2(b)) (T) | — | Generate testimonials, avatars or any "AI generated promotional campaign" (7.2) |
+
+**Six lawful routes through the map:**
+
+1. Patients speak privately to him through a feedback system, and publicly only of their own accord.
+2. His results speak through journals and conferences first, then through neutral citation.
+3. Trainees speak through their own papers, talks and acknowledgements.
+4. Institutions speak through invitations, fellowships and selections.
+5. Journalists speak through their own reporting of published work.
+6. He speaks through teaching.
 
 ---
 
@@ -447,6 +523,28 @@ Net personal outlay, per file 28's scenarios: Rs 3–8 lakh in year 1, Rs 8–12
 
 **Tax trap.** GST registration may be triggered by the **first** taxable side receipt, because exempt clinical receipts count towards the Rs 20 lakh threshold. See the chartered accountant before any paid talk [28 §1.5].
 
+### 5.9 Earned voice
+
+**What it is.** Lawful ways for other people's voices to arise without him requesting or sharing them (§4A).
+
+**Why.** Third-party voice is more trusted than self-description [06]. The Guidelines bind his acts, not others' speech (cl. 4.1), and the 8.1(v) exception and 8.2(i) open the published-results route.
+
+**What it costs.**
+- The feedback system is about 1 hour a month of staff time plus a quarterly review (estimate) inside Patients for life.
+- Everything else is a by-product of work already in the plan.
+
+**Status.** The routes below are interpretation unless a clause is quoted; the lawyer rows in §3 of the questions file, rows 47–54, test them.
+
+| Route | What happens | What he must not do |
+|---|---|---|
+| **1. Private patient-experience and outcome measurement** | A short, structured patient-experience questionnaire and the Patients-for-life outcome measures (teach-back, persistence, LDL at goal), collected privately in his own clinic. Used to improve care; reported in aggregate and anonymised in the published audit (5.1, 8.2(i), 8.1(v) exception). Consent and DPDP notice as for the registry [24] | Turn it into a review drive; send respondents to public review sites; publish, quote or excerpt comments; offer anything in return |
+| **2. Mentee and trainee outputs under their own names** | Papers, case reports, talks and atlas chapters where trainees are first authors or presenters; acknowledgements naming him; their own posts about what they learned | Ghost-write their praise; ask them to post about him; take gift authorship; repost their praise of him (he may reshare their *work* with credit) |
+| **3. Independent recognition** | Citations; invitations as faculty; fellowships (FSCAI, FESC, FACC, FICC) through published criteria and sponsors; awards from bodies with a stated method. Listed factually where Reg. 1.4.2 allows, verifiable per the 8.1(ix) proviso | Buy or apply for vanity "top doctor" awards; ask sponsors to publicise him; use an award without issuer, date and method; inflate (e.g. "co-authored NEJM") |
+| **4. Independent registries and accreditation** | Contributing data to society or national registries; NABH clinic accreditation later; a published, peer-reviewed audit. The accreditation status may be stated factually (cl. 8.3(i), 9.1 for establishments) | Present registry participation as a ranking; compare himself with other doctors |
+| **5. Journalists reporting published work** | Reporters cover his published papers, his teaching or the CPR scorecards after he answers questions on public health under his own name (Reg. 7.11; 8.2(iii)) | Pay for, arrange or pitch coverage of himself; supply patient stories; reshare coverage of himself for promotion (amber: 4.4 "adopted"); let the friend act as publicist |
+
+**What it does not include.** Testimonials in any of his channels; patient speakers in public; "thank you, doctor" clips; review QR codes; any scheme that makes others' praise his act.
+
 ---
 
 ## 6. The operating model
@@ -652,11 +750,11 @@ Full version: file 22 §3.3.
 | 10 | Which community flagship: CPR [09, 15] vs "First 60 minutes" [14] vs three programmes [15] vs three flagships [19] | "First 60 minutes" as the hands-on CPR trainer (one community form); lighthouse flagships ordered per file 24 | 20, 24, 25 C8 |
 | 11 | Programme named "in his own name" [17] vs not named after him [15, 19, 24] | Descriptive names; he is the named, registered medical lead | 25 C9 |
 | 12 | Time: each file sized alone (total 15–20 h him) | Explicit 4/6-hour assumption with 2/6-hour variants | 25 C10 |
-| 13 | Reply to reviews with a template [02, 10] vs no replies to positive reviews [11] | No reply to positive; one fixed reply to negative or wrong ones; lawyer to confirm | 11 §3, 25 C11 |
+| 13 | Reply to reviews with a template [02, 10] vs no replies to positive reviews [11] | Private feedback allowed; public review requests and sharing barred; reply or like to positive reviews amber (default no) until the lawyer answers; one fixed reply to negative ones | 11 §3, 25 C11, §4A |
 | 14 | Disclosed AI voice or dub acceptable [02 amber, 05] vs never [18, 02 rule 12] | Never (self-imposed absolute); dubbing only as a lawyer question | 18, 25 C12 |
 | 15 | Citizens as "his own second hospital" [15] vs dropped him [12] | Treat as an external AHA training centre partner; he confirms the status | 12, 25 C13 |
 | 16 | Registration line with Telangana number [02] vs add APMC number to bios now [12] vs publish nothing until settled [11] | Nothing public until TGMC status is confirmed; most likely a renewal [21] | 11, 21, 25 C14 |
-| 17 | Publish outcome numbers [07, 18, 19] vs barred as success claims [02, 10] | Journal or conference first; then a neutral link; lawyer reads the annual note | 15, 22 risk 19, 25 C15 |
+| 17 | Publish outcome numbers [07, 18, 19] vs barred as success claims [02, 10] | Own aggregate results (no identifiers) go to journals and conferences first (5.1, 8.2(i), 8.1(v) exception), then are cited neutrally as published work; 8.1(iii) bars *advertising* success rates; the unpublished or standing public claim is unsettled | 15, 22 risk 19, 25 C15, §4A |
 | 18 | Personal registry "travels with him" [18] vs hospital data stays [07, 16, 17] | Only own-practice data, published aggregates with permission, and a signed operator log travel | 25 C16 |
 | 19 | NBEMS thesis-guide status [16] vs leaving [17] | Short-term bridge only; independent teaching home (CSI Telangana, IIT-H, IIPH) | 29, 25 C17 |
 | 20 | QR code on hospital documents [05] vs breach risk [11b, 17] | Never on hospital documents; own-clinic leaflets only after a legal view | 25 C20 |
@@ -674,6 +772,7 @@ Full version: file 22 §3.3.
 | 32 | ICMR grant: 2026 call closed [28] vs 2027 call closes 20 Jan 2027 [29] | File 29 (later, read at source); co-investigator only | 29 |
 | 33 | Weekly time caps of 3 h [20], 4 h [19, 24], 5–6 h [22] | 4 h baseline (assumption) | Orchestrator, 25 |
 | 34 | Friend sends RTI papers to reporters [23 §6.5] vs friend as publicist is a risk [11, 23] | He (or a civic partner) sends; the friend handles logistics only | 11, 23 risks |
+| 35 | Draft rules "never reply to positive reviews" and "no counts or success rates" [25 R4–R5] vs the sponsor's Addendum 5 (who speaks, destination and sequence matter) | R2, R8, R11 and R26 rewritten to state exactly what is barred, allowed or unsettled; voice map added | 00 Addendum 5, 30, §4A |
 
 ---
 
@@ -703,6 +802,7 @@ These are short pointers; the full lists are in `questions-and-open-items.md`.
   - posters bearing his name in third-party premises;
   - in-term exclusivity;
   - PC-PNDT for the echo machine.
+- **Voice-map readings** (§4A): replying to or liking positive reviews; institutional review requests; public citation of own published results; listing awards; resharing journalists' or trainees' content about him; AI summaries of private feedback. These are lawyer rows 47–54.
 - **Case and court status:** W.P.(C) 1160/2023; the *MIOT* appeal; *Himalaya Wellness v. Philips*; any TGMC circular on the Guidelines; the final NMC registration regulations (expected around 30 November 2026) [21, 30].
 - **Market terms:** cath-lab access, fee shares, rents, equipment quotes. Only interviews can settle these [26].
 - **Facts to check by browser or phone:**
@@ -735,5 +835,6 @@ This lists requirements only; it does not design the system.
 9. **Calendar and deadline tracking.** It re-verifies patterned dates against organisers' pages monthly and tracks review-due dates for every published piece.
 10. **Portability and access.** All accounts are owned by him. The helper and the system use delegated roles, not passwords (LinkedIn cannot be shared). The runbook and prompts are documented so a backup can run a minimum cadence.
 11. **Time and energy guardrails.** It records his weekly hours and energy rating and enforces the cap and stop rules, rather than maximising output.
-12. **Measurement without vanity.** It reports denominators, counts lost-to-follow-up as not at goal, and holds no patient-acquisition metrics.
+12. **Voice-map enforcement.** It tags each item by speaker and act (§4A). It blocks resharing, quoting or linking praise of him, and keeps private feedback out of every public output except anonymised aggregates that have been published.
+13. **Measurement without vanity.** It reports denominators, counts lost-to-follow-up as not at goal, and holds no patient-acquisition metrics.
 

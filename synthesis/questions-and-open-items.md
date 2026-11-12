@@ -157,6 +157,15 @@ Bring: the Apollo agreement; the October 2026 Guidelines (official PDF); file 30
 | **H. Media, speech and liability** | | | | |
 | 45 | If a newspaper or channel describes him with a superlative he did not supply, is he exposed? What record should he keep? | cl. 3.5, 8.1(ix), 4.4 | P2 | 11 Q16 |
 | 46 | Defamation: how do truth, public good and fair comment apply to criticising health claims (never people or companies)? Should anything naming a product or practitioner get a pre-publication read? Does any Indian decision create liability for general online education or comment replies? | BNS s.356; civil defamation; NCDRC | P2 | 22 §3.1 |
+| **I. Voice map: who may say what (synthesis §4A)** | | | | |
+| 47 | Is a structured, **private** patient-experience survey run by his clinic, used for care improvement and reported only as anonymised aggregates in a published audit, outside Expl. V and cl. 6.1? Any consent or DPDP wording needed? | Expl. V; cl. 3.6, 6.1, 6.3; DPDP | P1 | Addendum 5, synthesis §4A |
+| 48 | Is a neutral, routine request to post a **public** Google review "for professional promotion on social media"? Is a passive sign or link (no request) different? Does the answer differ for his clinic as an institution (Expl. V first sentence vs second)? | Expl. V; cl. 3.4, 3.6 | P1 | 11 Q7, 30 A3 |
+| 49 | Does a public reply ("thank you"), a "like" or a pinned reply to an unprompted positive review count as "share" or "adopted" (cl. 4.4) or "permit" (8.1(xi))? What about a patient's unprompted social-media post that tags him? Must he hide or report it, or simply not engage? | Expl. V; cl. 4.4, 8.1(xi) | P1 | Addendum 5 |
+| 50 | After his aggregate results are published in a journal or presented at a conference, may he cite them on his website, LinkedIn or in a talk to the public (percentages with denominators, no identifiers, no comparison)? Does 8.1(iii) reach a verifiable, published audit, given its wording "advertise… with… unverifiable or exaggerated claims"? | cl. 5.1, 8.1(iii), 8.1(v) exception, 8.2(i) | P2 | Addendum 5, 25 C15 |
+| 51 | May he present unpublished own aggregate results (no identifiers) at public-facing talks, as distinct from peer meetings? | cl. 5.1, 8.1(iii), 8.2(i)–(iii) | P2 | Addendum 5 |
+| 52 | Trainees, mentees and peers: may he reshare a trainee's paper or talk that acknowledges him, or a peer's post crediting his teaching? Where is the line between resharing their *work* and resharing *praise* ("adopted", 4.4)? | cl. 4.4, 8.1(xi), Expl. V | P2 | Addendum 5 |
+| 53 | Fellowships and awards: which may appear after his name or on his About page (Reg. 1.4.2)? What disclosure satisfies the 8.1(ix) proviso for an award? May he self-nominate through a society's published process? | Reg. 1.4.2, 7.20; cl. 8.1(ix) proviso | P2 | Addendum 5 |
+| 54 | Journalists: may he link to or reshare an independent news report of his published work or of a CPR scorecard? Is "news articles intended for promotion" (3.5) engaged by resharing? May he correct a reporter's superlative, and should he? | cl. 3.5, 4.4, 8.1(ix) | P2 | 11 Q16, Addendum 5 |
 
 ---
 

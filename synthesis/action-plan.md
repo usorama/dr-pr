@@ -121,6 +121,8 @@
 |---|---|---|---|---|---|---|---|
 | 2.1 | Weekly public rhythm: "After the stent" parts 7–10, then the "Know your numbers" set (numbers card; LDL; home BP; food, salt and walking in mmHg; "can blocks be cleaned?"; "foods called blood thinners"); one card and one English post per anchor | A 60 min a week; F 3 h; TR | Ongoing | TR fees | Launch | Parts and cards live; about 30 of the 60 questions answered by month 12 | 14, 20 |
 | 2.2 | Patients for life: weeks 9–12; pilot report; then routine; first 90-day calls; first 6-month lipid read-out | A 45 min a week; N | Ongoing | Printing (est.) | 1.11 | Pilot report; metrics quarterly | 24 |
+| 2.2a | **Private patient-experience survey** in his own clinic: a short structured questionnaire plus the Patients-for-life measures; private destination; used for care improvement and, anonymised and in aggregate, in the published audit; never quoted or published as praise; staff instruction updated; DPDP notice | A 1 h; CM about 1 h a month; F builds the form (no identifiers) | — | 0 | 1.11, 2.8 | Survey running; quarterly internal summary | synthesis §4A, §5.9; 11b; 24 |
+| 2.2b | **Earned-voice hygiene**: trainee-first authorship and acknowledgements in the case pipeline; verifiable fellowships listed factually (Reg. 1.4.2) on the About page; register of invitations and citations; standing reply declining vanity awards | A 15 min a month; F | — | 0 | — | Log kept | synthesis §5.9 |
 | 2.3 | Submit the audit protocol to the chosen ethics committee; register on CTRI if prospective; first abstract (CSICON 2027 window, Aug–Sep, patterned) | A 6–8 h | — | 5,000–25,000 committee fee (est.) | 1.12 | Approval letter | 21 C5, 16 |
 | 2.4 | **Open teaching series pilot (fortnightly at the 4-hour cap; weekly at 6)**: one-page charter; slide template; registration form (doctors only, with registration number); six cases through the consent protocol or from published or open-licence sources; invitations to Telugu-state heads of department and DrNB coordinators; letter to the CSI Telangana secretary; Telegram channel and WhatsApp Community for announcements | A about 40 min a week; F 1–2 h | From March 2027 | about 15,000 video licence (est.) | Launch; 1.1 on case tiers | At least 60 registered, 25 average live, 15 regulars (file 24 pass marks, scaled) | 24, 29 |
 | 2.5 | Public atlas pages on his site, using PTB-XL, Chapman-Shaoxing-Ningbo or ARCADE images, redrawn or own-published material only; his text CC BY 4.0; attribution table | F; A verifies labels | 1 h a week (F) | 0 | 2.4 | 20 cases by month 12 | 29 |
@@ -304,9 +306,9 @@ Slots are illustrative; he fixes his own and keeps them.
 ## Do-not-do list
 
 1. Publish anything with his name before the registration line is confirmed.
-2. Use or share any patient's story, photo, voice, chat, scan, thank-you or review, with or without consent.
-3. Ask anyone (staff included) for Google reviews, or reply to, like or share positive ones.
-4. Use "best", "top", "leading", "No.1", "renowned", procedure counts, success rates or "over a decade of experience".
+2. Use any identifiable patient material, or share, quote, repost or link any patient's story, thank-you or review, with or without consent. (A patient's own unprompted words are theirs; private feedback for care is allowed. See `synthesis.md` §4A.)
+3. Ask anyone (staff included) to post a public review; share, quote or repost reviews. Liking or publicly replying to positive reviews stays off until the lawyer answers.
+4. Advertise "best", "top", "leading", "No.1", "renowned", procedure counts, success rates or "over a decade of experience". (His own aggregate results go to journals and conferences first and are then cited neutrally as published work.)
 5. Put a clinic or hospital name, address, phone number, fee or booking link in educational content.
 6. Run screening camps, free-test drives, packages, coupons or discounts.
 7. Pay for reach, boost posts, buy followers, or switch on YouTube monetisation before a written legal opinion.
@@ -314,7 +316,7 @@ Slots are illustrative; he fixes his own and keeps them.
 9. Name brands, products, companies, practitioners or systems of medicine critically without a legal read.
 10. Put patient data into any AI tool or the content pipeline; give the friend any patient data or EMR login.
 11. Use an AI avatar, voice clone or dub of himself, or launch a public chatbot.
-12. Let the friend praise, pitch or recommend him, or speak as him.
+12. Let the friend praise, pitch or recommend him, or speak as him; arrange, script or incentivise anyone else's praise, nominations or coverage of him; buy or apply for vanity awards.
 13. Post real angiograms or ECGs of his patients on open platforms.
 14. Copy Apollo data, images or contact lists, or tell Apollo patients about his plans.
 15. Build on Apollo's channels, PR list or corporate team; record clips for a hospital channel.
