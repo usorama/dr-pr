@@ -58,3 +58,12 @@ The unchanging principle: a professional does what must be done and **influences
 - **Substance:** proposed identity = "After the stent" (lead), "First 60 minutes" (community flagship, CPR), "Know your numbers" (standing format). Information alone rarely changes outcomes; what works adds measurement, a treatment route, repeated human follow-up, family/peer units.
 - **AI:** tools are no edge; the edge is verified Telugu patient explanations, an audited outcomes registry, a published AI charter, teaching peers, research collaboration. Two pipelines: content (no patient data) and clinical (governed, consented). No avatar/voice clone/public chatbot.
 - **Lighthouse model proposed:** Heart School cohorts (public), patients-for-life system, weekly open case conference for trainees (~1,080 cardiology trainees a year in India; no large open Indian teaching series found).
+
+## Addendum 5 — sponsor's standing direction on "who may say what" (12 Nov 2026)
+
+The plan must keep these distinctions sharp and find the lawful ways through them; it must not flatten them into "nothing about patients or results, ever".
+
+1. **Who is speaking matters.** A doctor may not publish a patient's feedback — **a patient always can**. A doctor may not publicise his success in mentoring juniors or serving the medical community — **the people he influenced always can**. The Guidelines bind doctors and hospitals, not patients, peers, trainees, journalists or societies speaking for themselves.
+2. **What the doctor can do in his own voice is substantial:** publish an article on recent research into a condition; speak at a conference on a preventive-care measure grounded in published (PubMed-indexed) research **and on the results he obtained implementing it — as percentages and numbers, with no patient names or identifying information.**
+3. **Asking a patient for feedback is not, in itself, wrong.** The questions are purpose (improving care vs. promotion), destination (private vs. a public review site) and what the doctor then does with it (learns from it vs. requests, shares, quotes or reposts it).
+4. For every act, state: the verbatim clause (file 30), whether the conclusion is **text / interpretation / unsettled**, and **the way to get there lawfully**.

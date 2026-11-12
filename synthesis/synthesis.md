@@ -538,4 +538,202 @@ Every item passes these gates in order. Any "No" stops it.
 - **Quarterly:** the one-page review [22 §5.4], plus a check of the NMC and TGMC notices and the court cases.
 - **Each January:** one public note covering impact, corrections, complaints, money and interests, and AI use. This merges file 22's annual note with file 28's annual statement. The lawyer reads it first.
 
-<!-- CONTINUE-2 -->
+---
+
+## 7. Risks and the crisis playbook
+
+### 7.1 Top 10 risks
+
+Likelihood is over three years. Drawn from file 22's register of 23, adjusted for independence and the money and registration findings.
+
+| # | Risk | Likelihood / impact | Early warning | Mitigation | Owner |
+|---|---|---|---|---|---|
+| 1 | **A recognisable "composite" case** breaches confidentiality | Medium / Very high | "Is this about…?"; a draft with age + job + date + locality | R8–R10; three-patient rule; nothing from the last six months; second-person check; real cases only at T1–T3 | Him, second reader |
+| 2 | **Error reaches the public** (his own or AI's: a wrong number, a hallucinated citation, a mistranslated Telugu instruction) | High / Medium–High | A source that will not open; a number without a reference; the Telugu reviewer flags a phrase | Claims ledger; human-opened sources; back-translation; Tier A second reader; public corrections log | Friend, him, Telugu reviewer |
+| 3 | **Employer conflict before exit** (exclusivity, media clause, own practice) | Medium / High | A message from marketing or HR; a request for co-branding | Lawyer reads the contract first; no Apollo data, logo or patients in content; no comment on Apollo; sequence per file 17 | Him, lawyer |
+| 4 | **A registration or clinic-compliance lapse** found through a complaint | Medium / High | TGMC portal shows a lapse; a clinic registration due | A1–A11 before the first post [21]; annual compliance calendar | Him, clinic manager |
+| 5 | **Burnout and abandonment** | High / High | Energy 2 or below; missed sign-offs; hours over the cap | 4-hour cap; six-week buffer; never miss twice; minimum cadence; the friend reads the comments | Him, friend |
+| 6 | **Legal threat** from a company or alternative-medicine promoter | Medium (High if products are named) / High | A lawyer's letter; a brand tags him | Criticise claims, not people; legal read before naming; evidence file; the TheLiverDoc and Gulhati lessons [22 §3.1] | Him, lawyer |
+| 7 | **Regulator complaint** under the Guidelines (most likely from a peer or competitor) | Low–Medium / High | A TGMC letter; a hospital reel with his face | Checklist; approvals log; registration line; decline hospital promotion in writing | Him, friend |
+| 8 | **Over-dependence on the friend** | Medium / High | Undocumented steps; the friend unavailable | Runbook; a named backup; all assets in his name; delegation without passwords [23] | Him, friend |
+| 9 | **Deepfake or impersonation** selling a product | Medium, rising with reach / High | Monthly sweep; "is this you?" | Official-channels page; takedown kit citing the two-hour impersonation route; police complaint; the Shetty decree as a template [30 F, G2] | Friend, lawyer |
+| 10 | **A community programme read as a patient funnel** (camp, free tests, poster with his face) | Low–Medium / High | Hosts print his photo; someone asks for an appointment at a session | No clinic details; no screening at CPR sessions; laboratory billed by the host; publish the count of participants who later consulted him; standard text block for hosts [24, 28 §3.6] | Him, partner |
+
+**Also watch:**
+
+- Medical advice in comments.
+- Trolling of him or his family.
+- A political or communal landmine.
+- Account takeover.
+- A data breach after 13 May 2027.
+- Outcome figures read as "success claims".
+- A rule change.
+
+### 7.2 Crisis playbook in brief
+
+Full version: file 22 §3.3.
+
+**The first move in every case:**
+
+1. Stop the schedule.
+2. Save the evidence (screenshots with URL and time, the original file, the approvals log).
+3. Tell the list.
+4. Write nothing in public for one hour.
+
+**Who speaks:**
+
+- He speaks only about his own content and his own errors.
+- A hospital speaks about its patients.
+- The lawyer speaks to lawyers, courts and the council.
+- The friend never speaks as him.
+
+| Event | First hour | First week |
+|---|---|---|
+| Error | Pause; judge severity; correct at once if S1 | Root-cause note; checklist changed |
+| Confidentiality concern | Remove everywhere; do not confirm or deny | Lawyer; private apology if needed; re-check every scenario |
+| Legal notice or police call | Do not reply, delete or phone the sender; send to the lawyer | Insurer told; public statement only if the lawyer drafts it |
+| Council notice | Stop all publishing; lawyer | Reply only through the lawyer, within the time given (appeal window 60 days, cl. 11.1) |
+| Employer objection | Stop anything touching the employer | Meet with the contract and cl. 5.1 in hand; a written understanding or an earlier exit |
+| Pile-on | The friend takes the notifications; he stops reading | Document, block, report; police for threats |
+| Deepfake | Takedown citing impersonation | Public notice; police and cybercrime complaint; inform the council |
+
+**Five pre-approved holding statements** cover error, patient allegation, legal matter, impersonation and pause [22 §3.3].
+
+**Call the lawyer the same hour for:**
+
+- any legal paper, police call or council letter;
+- a journalist asking about a named patient;
+- a deepfake that is collecting money;
+- an employer's written objection;
+- a data breach;
+- and **before** publishing anything that names a company, product, hospital, practitioner or system of medicine critically.
+
+---
+
+## 8. Measurement
+
+**Conclusion:** a small set of indicators, with denominators always shown, **no patient-acquisition metric anywhere**, reach judged quarterly and outcomes at 12 months or later [22 §5].
+
+| Ring | The indicators that matter | Year-1 figure |
+|---|---|---|
+| **Foundations** | Registration line valid; assets in his name (target 100%); listings matched; e-mail list | 100%; 100%; 100%; 750–1,000 |
+| **Ring 1: public** | Course parts and ranked questions answered; listener-test pass; public watch hours and the Telugu share; cards downloaded or forwarded; people hands-on CPR-trained with the tick-list; six-month retention | 10 parts and about 30 questions; 4 of 5 on flagships; 1,500 hours (stretch); 300–500 trained; retention measured |
+| **Ring 2: patients** | Passport issued; day-3 call reached; lipids by day 45; LDL-C below 55 at 12 months (missing = not at goal); statin persistence at 6 and 12 months; lost to follow-up; rehabilitation referred, started and completed | Pilot pass marks [24]; baseline |
+| **Ring 3: peers** | Regulars; sessions held; atlas cases; case submissions and acceptances; mentee outputs; invitations | About 20 sessions; 20 atlas cases; 3–5 submitted, 1–2 accepted |
+| **Guardrails** | Council or legal notices (0); S1 corrections (0, or corrected within 24 hours); claims ledger complete (100%); Tier A second-read (100%); his hours (at most 4 averaged); energy (at least 3); confidentiality incidents (0); share of reach on the largest platform (below 60%) | As stated |
+
+**Rules of attribution** [22 §5.3]:
+
+- Claim contribution, not causation.
+- Build in a wait-list comparison for Heart School.
+- Never multiply down the ladder (views to "heart attacks prevented").
+- Count dropouts as not at goal.
+- Publish nulls.
+
+**Reach is diagnostic.** Subscribers are recorded but not targeted. The honest expectation for one anchor a week plus two cut-downs is **3,000–10,000 subscribers at 12 months (Low confidence)** [20 §6b].
+
+**Quarterly review.** 30 minutes, him and the friend, using file 22 §5.4's one-page form: red lines first, then his load, the three rings, foundations, quality, and three decisions (stop, start, change). It is circulated to the advisory circle.
+
+---
+
+## 9. Contradictions in the research and how each was resolved
+
+| # | Contradiction | Resolution | Basis |
+|---|---|---|---|
+| 1 | Primary channel: YouTube-first with 3–5 Shorts a week [05, 13] vs writing-first [03, 06] vs "not daily Shorts" [19] | One Telugu anchor a week (4–7 minutes, numbered), a card, an English written post, a monthly live session; Shorts only as cut-downs | 20 §6, 25 C1 |
+| 2 | "Open lane" for a Telugu cardiologist [04] vs not open [13] | Not open on topic; open on form | 20, 25 C2, 31 |
+| 3 | Dr Movva Srinivas: no channel [13] vs 318K [14] | Channel exists (318K; studio-run) | 20, 31 2.2 |
+| 4 | Apollo as platform [04, 05, 13, 15, 16] vs temporary context [17, brief] | Portability test; Apollo-hosted work struck; Apollo-based research only with written data and authorship terms | 17, 25 C3 |
+| 5 | Own clinic treated "more generously" [17] vs no relaxation [11b] | Control of the factual lane, not a licence to promote | 11b, 30 A4, 25 C4 |
+| 6 | Newspaper adverts for his clinic under Reg. 7.12 [17] vs doubtful [11b] | Use formal announcements only; 7.12 is unsettled for a consulting room (lawyer question) | 11b §1 |
+| 7 | Consented patient stories for PR [03, 04, 13] vs barred [02, 11] | Barred; composite labelled scenarios only; real cases at T1–T3 | 30 A3, 25 C5 |
+| 8 | Screening day for IT employees [04] vs camps are the riskiest activity [15, 19] | No camps; CPR training and measured cohorts with a route to their own doctor | 15, 24, 25 C6 |
+| 9 | Monthly employer talks [04, 08] vs awareness-only workplace programmes fail [19] | Talks only as a door into measured cohorts, never through Apollo's corporate team | 19, 25 C7 |
+| 10 | Which community flagship: CPR [09, 15] vs "First 60 minutes" [14] vs three programmes [15] vs three flagships [19] | "First 60 minutes" as the hands-on CPR trainer (one community form); lighthouse flagships ordered per file 24 | 20, 24, 25 C8 |
+| 11 | Programme named "in his own name" [17] vs not named after him [15, 19, 24] | Descriptive names; he is the named, registered medical lead | 25 C9 |
+| 12 | Time: each file sized alone (total 15–20 h him) | Explicit 4/6-hour assumption with 2/6-hour variants | 25 C10 |
+| 13 | Reply to reviews with a template [02, 10] vs no replies to positive reviews [11] | No reply to positive; one fixed reply to negative or wrong ones; lawyer to confirm | 11 §3, 25 C11 |
+| 14 | Disclosed AI voice or dub acceptable [02 amber, 05] vs never [18, 02 rule 12] | Never (self-imposed absolute); dubbing only as a lawyer question | 18, 25 C12 |
+| 15 | Citizens as "his own second hospital" [15] vs dropped him [12] | Treat as an external AHA training centre partner; he confirms the status | 12, 25 C13 |
+| 16 | Registration line with Telangana number [02] vs add APMC number to bios now [12] vs publish nothing until settled [11] | Nothing public until TGMC status is confirmed; most likely a renewal [21] | 11, 21, 25 C14 |
+| 17 | Publish outcome numbers [07, 18, 19] vs barred as success claims [02, 10] | Journal or conference first; then a neutral link; lawyer reads the annual note | 15, 22 risk 19, 25 C15 |
+| 18 | Personal registry "travels with him" [18] vs hospital data stays [07, 16, 17] | Only own-practice data, published aggregates with permission, and a signed operator log travel | 25 C16 |
+| 19 | NBEMS thesis-guide status [16] vs leaving [17] | Short-term bridge only; independent teaching home (CSI Telangana, IIT-H, IIPH) | 29, 25 C17 |
+| 20 | QR code on hospital documents [05] vs breach risk [11b, 17] | Never on hospital documents; own-clinic leaflets only after a legal view | 25 C20 |
+| 21 | YouTube Health open to individual Indian doctors [05] vs not [22, 28] | A live India form accepts individuals; threshold 1,500 public watch hours in 12 months or 1.5M Shorts views in 90 days; the programme is "updating"; approval is not assured | 31 2.8 |
+| 22 | Growth: 10–25K subscribers at 12 months [13], 10K target [22 P1], 3–10K [20] | 3–10K (Low) at this cadence; subscribers are not a target | 20 §6b |
+| 23 | Telugu speech-recognition error 13.5–19.6% [18] vs 25–29% [23] | 25.1–28.9% (IISc, August 2026) | 31 2.11 |
+| 24 | Rs 1,000 penalty per missing CPD hour [16, 21] | Not verified; not used | 30 C4, item 24 |
+| 25 | TGMC: transfer needed [11, 12] vs renewal [21] | Check via the TGMC login first; do not sign up as a "New Doctor" | 21 |
+| 26 | Hands-on CPR kit Rs 0.8–1.5 lakh [09] vs Rs 1.44–2.64 lakh [15] | File 15 (itemised); about Rs 30,000 if kit is borrowed | 25 C18 |
+| 27 | Weekly case conference "record, post" publicly [19] vs doctors-only wall [24, 29] | Live real cases behind registration; public atlas uses open-licence, redrawn or own-published images | 11 §9(iv), 24 |
+| 28 | Heart School: 100-day cohorts and 5,000 people in 3 years [19] vs 12-week cohorts and 800–1,000 [24] | File 24 (one nurse follows about 60 people; the evaluation is the point) | 24 |
+| 29 | "After the stent" circle in the hospital, data in the hospital record [15] vs own practice [24] | Inside Patients for life in his own practice | 24 |
+| 30 | "First ECG" uses de-identified hospital ECGs [14, 15] vs open-licence sets [29] | Open-licence sets (PTB-XL, Chapman) for anything public or recorded | 29 |
+| 31 | Annual note in January [22] vs April statement [28] | One January note covering impact, corrections and money | Judgment |
+| 32 | ICMR grant: 2026 call closed [28] vs 2027 call closes 20 Jan 2027 [29] | File 29 (later, read at source); co-investigator only | 29 |
+| 33 | Weekly time caps of 3 h [20], 4 h [19, 24], 5–6 h [22] | 4 h baseline (assumption) | Orchestrator, 25 |
+| 34 | Friend sends RTI papers to reporters [23 §6.5] vs friend as publicist is a risk [11, 23] | He (or a civic partner) sends; the friend handles logistics only | 11, 23 risks |
+
+---
+
+## 10. What remains unverified or needs a human
+
+These are short pointers; the full lists are in `questions-and-open-items.md`.
+
+- **Blocking facts about him:**
+  - TGMC status and qualification entries.
+  - The own practice (what, where, registered).
+  - The Apollo agreement.
+  - Exit window.
+  - Protectable hours (time diary).
+  - Camera and Telugu comfort.
+  - Year-1 money cap.
+  - Nurse or staff capacity for follow-up calls.
+  - The procedure log.
+  - Who holds existing logins.
+- **Legal readings** awaiting a written opinion:
+  - the friend and AI under cl. 8.1(ii);
+  - per-post registration number;
+  - formal announcements on digital media;
+  - reviews (replies and private feedback);
+  - YouTube ad revenue;
+  - publishing his own risk-factor control rates;
+  - free tests at Heart School under 8.1(x);
+  - posters bearing his name in third-party premises;
+  - in-term exclusivity;
+  - PC-PNDT for the echo machine.
+- **Case and court status:** W.P.(C) 1160/2023; the *MIOT* appeal; *Himalaya Wellness v. Philips*; any TGMC circular on the Guidelines; the final NMC registration regulations (expected around 30 November 2026) [21, 30].
+- **Market terms:** cath-lab access, fee shares, rents, equipment quotes. Only interviews can settle these [26].
+- **Facts to check by browser or phone:**
+  - Google reviews and listings.
+  - Social handles.
+  - Dr Sudhir Kumar's X count.
+  - The Edelman PDF.
+  - Citizens' current BLS fee and AHA training-centre ID.
+  - The FSCAI year.
+  - Whether YouTube Health is processing India applications.
+  - Akashvani and Doordarshan slots.
+  - Telugu health-page editors.
+  - Trainee Telegram groups.
+- **Patterned dates:** about half the 2027 conference rows and all 2028 rows are patterns. Re-check them monthly [16].
+
+---
+
+## 11. Requirements implied for any future AI system
+
+This lists requirements only; it does not design the system.
+
+1. **Two separated pipelines.** The content system must be architecturally incapable of receiving patient data. Any clinical tool is separate, governed, under a processor contract and consent, and DPDP-compliant from 13 May 2027 [18, 21, 30].
+2. **Human approval gate.** Nothing publishes or auto-posts without his logged sign-off on the final asset, including metadata. The log records approver, time, sources and checklist result [11, 30 cl. 4.4].
+3. **Source-grounded drafting only.** It drafts from supplied sources and his own words. It never supplies citations of record, and it extracts every claim into a claims ledger for human verification [22 §4.5].
+4. **Built-in compliance checks.** It runs the red-flag word list (English and Telugu) on all text and metadata, inserts the credential line, refuses patient-story, review, superlative, booking or brand content, and flags anything naming a company, practitioner or system for legal read [11 §9].
+5. **Telugu handling.** It treats Telugu speech recognition and translation as draft only (25–29% word error), uses his approved glossary of about 150 terms, and routes every Telugu item to the human reviewer with back-translation of instructions [23, 31].
+6. **No synthetic likeness.** No generation of his face or voice, no dubbing of him, no patient images, and no public chatbot. Any future retrieval-only assistant answers only from the reviewed library, declines personal medical questions, and has a kill switch and lawyer sign-off [18].
+7. **Disclosure support.** It labels AI-assisted or AI-generated visuals where material (cl. 7.2(c)) and keeps an AI-use record per item.
+8. **Logs and registers.** Corrections log (S1/S2/S3 clocks), AI error log, industry and income register, consent and case register (case codes only), stop-rule log, quarterly review data.
+9. **Calendar and deadline tracking.** It re-verifies patterned dates against organisers' pages monthly and tracks review-due dates for every published piece.
+10. **Portability and access.** All accounts are owned by him. The helper and the system use delegated roles, not passwords (LinkedIn cannot be shared). The runbook and prompts are documented so a backup can run a minimum cadence.
+11. **Time and energy guardrails.** It records his weekly hours and energy rating and enforces the cap and stop rules, rather than maximising output.
+12. **Measurement without vanity.** It reports denominators, counts lost-to-follow-up as not at goal, and holds no patient-acquisition metrics.
+
