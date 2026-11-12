@@ -356,7 +356,7 @@ What each scenario buys:
 
 | Payer | Lean | Standard | Ambitious | Rule check |
 |---|---|---|---|---|
-| **Him, personally** | 100% (about Rs 3 lakh) | The non-programme lines: about Rs 9.5–10 lakh | A fixed cap he sets (for example Rs 12–15 lakh) | None; this is the cleanest money |
+| **Him, personally** | 100% (about Rs 3 lakh) | The non-programme lines: about Rs 9–10 lakh | A fixed cap he sets (for example Rs 12–15 lakh) | None; this is the cleanest money |
 | **His practice, as a professional expense** | Same money, routed through the practice's books | Same | Same | Deductible only on regular books and only if booked as teaching and CPD, not marketing (1.4); no GST credit; do not put community-programme staff on the clinic payroll (3.6) |
 | **Hosts (apartment associations, employers, clubs)** | Venue, printing, refreshments in kind | Consumables, printing and laboratory tests for their own sessions, paid by them directly | Same, plus fees under education contracts (stream e) | Green; employer contracts carry 18% GST; hosts pay suppliers directly where possible so that money does not pass through him |
 | **Partner NGO or Rotary** | Lends manikins | Buys the CPR kit (about Rs 1.44 lakh), which stays the NGO's property | Kit, coordinator and nurse-educator on the NGO's books, funded by donations or CSR to the NGO | Green if the NGO is eligible and the 3.6 safeguards are written into the MoU |
