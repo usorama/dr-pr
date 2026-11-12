@@ -407,9 +407,9 @@ Pilot pass marks: passport to 100% of eligible patients; day-3 call reached in a
 
 Putting real angiograms on open YouTube "for peers" is the one thing the protocol does not allow before journal publication.
 
-**Topics where he has standing (first twelve weeks)**
+**Topics where he has standing (first twelve sessions; the pilot covers the first nine)**
 
-| Week | Topic |
+| Session | Topic |
 |---|---|
 | 1 | Primary PCI: the decision in the first ten minutes |
 | 2 | ECG for emergency doctors: ST elevation and its mimics |
